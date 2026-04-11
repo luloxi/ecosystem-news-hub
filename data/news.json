@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-11T12:56:59.304Z",
+  "generatedAt": "2026-04-11T12:57:35.440Z",
   "freshnessWindowHours": 24,
   "topics": [
     {
@@ -11,7 +11,7 @@
         "https://news.google.com/rss/search?q=site:forum.midnight.network+Midnight+when:7d&hl=en-US&gl=US&ceid=US:en"
       ],
       "freshCount": 0,
-      "updatedAt": "2026-04-11T12:56:59.304Z",
+      "updatedAt": "2026-04-11T12:57:35.440Z",
       "items": [
         {
           "topicKey": "midnight-network",
@@ -35,7 +35,7 @@
         "https://news.google.com/rss/search?q=site:cardano.org+Cardano+when:7d&hl=en-US&gl=US&ceid=US:en"
       ],
       "freshCount": 8,
-      "updatedAt": "2026-04-11T12:56:59.304Z",
+      "updatedAt": "2026-04-11T12:57:35.440Z",
       "items": [
         {
           "topicKey": "cardano",
@@ -49,16 +49,6 @@
         },
         {
           "topicKey": "cardano",
-          "title": "Cardano(ADA) Stock Price Today | Quotes & News - Moomoo",
-          "link": "https://news.google.com/rss/articles/CBMingJBVV95cUxORllUbmpDVDlZNEJuQk9WWlN3Yk1OUXJYX2dhY0t1eUJZZldPWW9sRWthbkdZTXJOakhEby1aekxrb2N5NGtHekx4LWVNMk82UDNYU1FHSVU2dkVDcmVDVW1iQ2xUQndmT0xoamo3aXNuSTFrcTdUSXNkZnptRUI2MXpZTG5iRXkyNEdkbnhRZ0hDbzBaZjVnMXNqOUVzOVJCaWkwc2Rob1NMSDA5VHpwS0h3b3dEcFc2TUZWQmpRX2w0dGpZM2dPNXV4WGRlMzNIT2t6VXZUVnp2ejgzNmlTWThjNUNNel96REY4dFpyODlJSkl0eXlnYjB3X1VvSUFuNE9SWDVaWUJGZGRIeldaanZISGI1SURURUtqV2N3?oc=5",
-          "source": "Unknown source",
-          "publishedAt": "2026-04-11T08:00:01.000Z",
-          "ageHours": 5,
-          "isFresh": true,
-          "summary": "Cardano(ADA) Stock Price Today | Quotes & News  Moomoo"
-        },
-        {
-          "topicKey": "cardano",
           "title": "Cardano In Danger Zone? Trader Drops ‘Time Bomb’ Claim - CryptoRank",
           "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOdzcta2RJY2tvN3A2NlNhaFpFQUQwTnlxUmZ6U2VzemFoM0VReHpzMXFHRkV5T1RYVUxsQVJUbDBBb1h3VEFIVEFGdGJfX3hxWXg2TDR4dGhCS2VKRXJWMnVUTnVZRDN3OE91WlNQaGVWY0NzVGpvaFFlbXFSNkl4OWZqV1FfemF3ZWFiUVNmZUUyb2c?oc=5",
           "source": "Unknown source",
@@ -69,11 +59,21 @@
         },
         {
           "topicKey": "cardano",
+          "title": "Cardano Price Prediction Shows ADA Grinding at $0.25 While Pepeto Builds the Returns Protocol 11 Cannot Deliver - openPR.com",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNNnNnQ2ROb2oyVlczSUtGU3cxVXNKTzdjVlBJdUlhVG1kNVpXaTdLeHc3TG1ZQXhLVW9PdzJKYnVUdzZNVXNBc1l6ZG1WVkVuUXVERnFBaUQ1cW5HV3B1eWt2dnpFdXJwbG5aN3NaejMyVFdUekM4SWhWbmxYMnExclRwZjZqdkhFNHIxamJqMk5jd045aWxwXw?oc=5",
+          "source": "Unknown source",
+          "publishedAt": "2026-04-10T22:20:08.000Z",
+          "ageHours": 15,
+          "isFresh": true,
+          "summary": "Cardano Price Prediction Shows ADA Grinding at $0.25 While Pepeto Builds the Returns Protocol 11 Cannot Deliver  openPR.com"
+        },
+        {
+          "topicKey": "cardano",
           "title": "Cardano Price Prediction Faces a Reset as Protocol 11 Lands and Pepeto Presale Crosses $8 Million - openPR.com",
           "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPc1BMTlV4X3ZlOXNmQ0pxVjVIaVZnUlRtT0EwdTByMC0wNEc4TzFIejhTSmo5Mk9oNlNURlFvOWh6M2IxdUc1Q1g1ZnUzWkZMUkpSTWdsWkdveXlCZ24xMUFJYUNDenBtYnBkOW9jRFk4TUYwYk9QUlMyVkxQNm1XeGdVY0RwVm5xbUE5aloxT0luYlhtSWlRR1Q3UQ?oc=5",
           "source": "Unknown source",
           "publishedAt": "2026-04-10T21:27:19.000Z",
-          "ageHours": 15,
+          "ageHours": 16,
           "isFresh": true,
           "summary": "Cardano Price Prediction Faces a Reset as Protocol 11 Lands and Pepeto Presale Crosses $8 Million  openPR.com"
         },
@@ -128,7 +128,7 @@
         "https://news.google.com/rss/search?q=%22Midnight+City%22+Cardano+OR+site:midnight.city+when:14d&hl=en-US&gl=US&ceid=US:en"
       ],
       "freshCount": 0,
-      "updatedAt": "2026-04-11T12:56:59.304Z",
+      "updatedAt": "2026-04-11T12:57:35.440Z",
       "items": [],
       "errors": []
     },
@@ -141,7 +141,7 @@
         "https://news.google.com/rss/search?q=site:iohk.io+%22Input+Output%22+when:7d&hl=en-US&gl=US&ceid=US:en"
       ],
       "freshCount": 1,
-      "updatedAt": "2026-04-11T12:56:59.304Z",
+      "updatedAt": "2026-04-11T12:57:35.440Z",
       "items": [
         {
           "topicKey": "iog",
@@ -195,7 +195,7 @@
         "https://news.google.com/rss/search?q=site:intersectmbo.org+Intersect+when:14d&hl=en-US&gl=US&ceid=US:en"
       ],
       "freshCount": 1,
-      "updatedAt": "2026-04-11T12:56:59.304Z",
+      "updatedAt": "2026-04-11T12:57:35.440Z",
       "items": [
         {
           "topicKey": "intersect",
@@ -289,7 +289,7 @@
         "https://news.google.com/rss/search?q=site:youtube.com+%22Charles+Hoskinson%22+when:7d&hl=en-US&gl=US&ceid=US:en"
       ],
       "freshCount": 8,
-      "updatedAt": "2026-04-11T12:56:59.304Z",
+      "updatedAt": "2026-04-11T12:57:35.440Z",
       "items": [
         {
           "topicKey": "charles-hoskinson",
