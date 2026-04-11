@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-11T12:49:20.812Z",
+  "generatedAt": "2026-04-11T12:51:21.420Z",
   "freshnessWindowHours": 24,
   "topics": [
     {
@@ -11,7 +11,7 @@
         "https://news.google.com/rss/search?q=site:forum.midnight.network+Midnight+when:7d&hl=en-US&gl=US&ceid=US:en"
       ],
       "freshCount": 0,
-      "updatedAt": "2026-04-11T12:49:20.812Z",
+      "updatedAt": "2026-04-11T12:51:21.420Z",
       "items": [
         {
           "topicKey": "midnight-network",
@@ -35,27 +35,37 @@
         "https://news.google.com/rss/search?q=site:cardano.org+Cardano+when:7d&hl=en-US&gl=US&ceid=US:en"
       ],
       "freshCount": 8,
-      "updatedAt": "2026-04-11T12:49:20.812Z",
+      "updatedAt": "2026-04-11T12:51:21.420Z",
       "items": [
         {
           "topicKey": "cardano",
-          "title": "Cardano Price Prediction Stalls at $0.262 While AlphaPepe Stage 12 Offers What ADA Will Take All Year to Deliver - openPR.com",
-          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPWmhLQzFvek1aQ0N1RzVCZUVyd3VLS3o3bk5pOGJjV0R2WFR5NUV3M0JiTWIwZUNnTnRSY3FrekJQanM5bWNpdnNIZmVDZVRtc0RlZzl2Nko0N2hESC1CUzNrYWRfWFI5Z0tndl9fOG85MFBHYWowWVQ3RnJ1VDhscXhjbWNrbEpZTTlUUDFHcHNjcXQ4SWw1RjVneTFsZW8?oc=5",
+          "title": "Crypto Expert Calls Cardano (ADA) a Ticking Time Bomb – Here’s Why - MEXC",
+          "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5NVUlqZi1ic29LVE1vNkJHZkJINjZqWDNGU0lsRTFXcTFwYWN5c2hqa0s1WWZ0MHp0WFA5QVoxWVBGM3JySFljTg?oc=5",
           "source": "Unknown source",
-          "publishedAt": "2026-04-11T09:13:01.000Z",
-          "ageHours": 4,
+          "publishedAt": "2026-04-11T11:23:46.000Z",
+          "ageHours": 1,
           "isFresh": true,
-          "summary": "Cardano Price Prediction Stalls at $0.262 While AlphaPepe Stage 12 Offers What ADA Will Take All Year to Deliver  openPR.com"
+          "summary": "Crypto Expert Calls Cardano (ADA) a Ticking Time Bomb – Here’s Why  MEXC"
         },
         {
           "topicKey": "cardano",
-          "title": "Cardano(ADA) Stock Price Today | Quotes & News - Moomoo",
-          "link": "https://news.google.com/rss/articles/CBMingJBVV95cUxORllUbmpDVDlZNEJuQk9WWlN3Yk1OUXJYX2dhY0t1eUJZZldPWW9sRWthbkdZTXJOakhEby1aekxrb2N5NGtHekx4LWVNMk82UDNYU1FHSVU2dkVDcmVDVW1iQ2xUQndmT0xoamo3aXNuSTFrcTdUSXNkZnptRUI2MXpZTG5iRXkyNEdkbnhRZ0hDbzBaZjVnMXNqOUVzOVJCaWkwc2Rob1NMSDA5VHpwS0h3b3dEcFc2TUZWQmpRX2w0dGpZM2dPNXV4WGRlMzNIT2t6VXZUVnp2ejgzNmlTWThjNUNNel96REY4dFpyODlJSkl0eXlnYjB3X1VvSUFuNE9SWDVaWUJGZGRIeldaanZISGI1SURURUtqV2N3?oc=5",
+          "title": "ADA Price Prediction: Cardano Targets $0.38 Breakout by Mid-2026 Amid Technical Recovery - MEXC",
+          "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFB5cHRKbUYzWEY2TEplLXZZYVFRQzRmeWZuSXlwbTk3ak9ERTR2c3FaT2hLWDMtaUx3dHpacTNCZnVtV2FuSXJjQg?oc=5",
           "source": "Unknown source",
-          "publishedAt": "2026-04-11T08:00:01.000Z",
-          "ageHours": 5,
+          "publishedAt": "2026-04-11T10:30:42.000Z",
+          "ageHours": 2,
           "isFresh": true,
-          "summary": "Cardano(ADA) Stock Price Today | Quotes & News  Moomoo"
+          "summary": "ADA Price Prediction: Cardano Targets $0.38 Breakout by Mid-2026 Amid Technical Recovery  MEXC"
+        },
+        {
+          "topicKey": "cardano",
+          "title": "Cardano In Danger Zone? Trader Drops ‘Time Bomb’ Claim - Bitget",
+          "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5xR1Z2QnptRkEyUUFqbkxVWTBFd2NNVUlKb2ZJbU5WOFdWS0dWSEFnYXZGMV9MNzdDcWVNd0V4OG9NV0QwcWItM0puVnB4dnBCdXhCaDI1Z3F5OXZNWWZ6NnpBb9IBY0FVX3lxTE5xR1Z2QnptRkEyUUFqbkxVWTBFd2NNVUlKb2ZJbU5WOFdWS0dWSEFnYXZGMV9MNzdDcWVNd0V4OG9NV0QwcWItM0puVnB4dnBCdXhCaDI1Z3F5OXZNWWZ6NnpBbw?oc=5",
+          "source": "Unknown source",
+          "publishedAt": "2026-04-11T04:18:45.000Z",
+          "ageHours": 9,
+          "isFresh": true,
+          "summary": "Cardano In Danger Zone? Trader Drops ‘Time Bomb’ Claim  Bitget"
         },
         {
           "topicKey": "cardano",
@@ -69,13 +79,13 @@
         },
         {
           "topicKey": "cardano",
-          "title": "Cardano Price Prediction Faces a Reset as Protocol 11 Lands and Pepeto Presale Crosses $8 Million - openPR.com",
-          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPc1BMTlV4X3ZlOXNmQ0pxVjVIaVZnUlRtT0EwdTByMC0wNEc4TzFIejhTSmo5Mk9oNlNURlFvOWh6M2IxdUc1Q1g1ZnUzWkZMUkpSTWdsWkdveXlCZ24xMUFJYUNDenBtYnBkOW9jRFk4TUYwYk9QUlMyVkxQNm1XeGdVY0RwVm5xbUE5aloxT0luYlhtSWlRR1Q3UQ?oc=5",
+          "title": "Key facts: ADA 120M txs, $137M TVL; 2h golden cross; Hoskinson on AI - TradingView",
+          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNUkE0cFZEbGI0dTY3RXBzMkxBRXJ3U1VieU5WNWt0ZEdCNTVUNUFodENUMEljU0k0UUt0Y2tqX0Y3ZnIyTFZrdEQ2VUdLS2hoWFhqb0tneU5uSjdwaS0ySWF1R3JwQ0hFN0IxUlZzQXFsTXZkOG1hR24xbnVXMjBGaUZKamZVRm5IcjNjTnRqQjloNDBBR2VtMU5lSnphLThjZjU2MzlnTmxwb3FRcEozNVlXUTdCNzlqNFhSUnFPSDQwN00?oc=5",
           "source": "Unknown source",
-          "publishedAt": "2026-04-10T21:27:19.000Z",
-          "ageHours": 15,
+          "publishedAt": "2026-04-11T00:04:24.000Z",
+          "ageHours": 13,
           "isFresh": true,
-          "summary": "Cardano Price Prediction Faces a Reset as Protocol 11 Lands and Pepeto Presale Crosses $8 Million  openPR.com"
+          "summary": "Key facts: ADA 120M txs, $137M TVL; 2h golden cross; Hoskinson on AI  TradingView"
         },
         {
           "topicKey": "cardano",
@@ -89,33 +99,23 @@
         },
         {
           "topicKey": "cardano",
-          "title": "🔵 Cardano (ADA) Dethrones Bitcoin Cash as Price Sees Mild Rebound - Binance",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9uUktkaXY0S0hBZ2QxY01nUVlBdWFkYnZJdFFTSVpwWXJHNEMzYUJPUHItMzBRWkZYWVJpRXZsVjNSNEdUMThFQ1psTmVJcTFzQnlQREIwNTVRb3lEa0NlTGloZ2Q?oc=5",
+          "title": "Cardano whales signal potential ADA price recovery as supply tightens - Bitget",
+          "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBjbE5wbVU2UW1oc0pweFpoMlVCRnJXOElLNzNpalBTY2dISXFoSlFiSDVuOWpvYWVmUUdCSGZndkN2WWJ1MC1sNnBMd1FGTFN6U3JPN3FjdVBlaFg1YXF0THhsSdIBY0FVX3lxTFBjbE5wbVU2UW1oc0pweFpoMlVCRnJXOElLNzNpalBTY2dISXFoSlFiSDVuOWpvYWVmUUdCSGZndkN2WWJ1MC1sNnBMd1FGTFN6U3JPN3FjdVBlaFg1YXF0THhsSQ?oc=5",
           "source": "Unknown source",
-          "publishedAt": "2026-04-10T19:33:35.000Z",
+          "publishedAt": "2026-04-10T20:42:17.000Z",
+          "ageHours": 16,
+          "isFresh": true,
+          "summary": "Cardano whales signal potential ADA price recovery as supply tightens  Bitget"
+        },
+        {
+          "topicKey": "cardano",
+          "title": "Cardano (ADA) Golden Cross Raises One Big Question: Reversal or Not? - Bitget",
+          "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE40ckt5U2t6OHFvR2QtU291MHlydFA4cVRTR1FMa1hTNkZ6SnYyRnB0OW1UeFdKWGU0YzlQZVNjbFdmM0VSNy1vTHR0S3o4T3h4elp1ZlRJZTFJUldma2lWQVVqY9IBY0FVX3lxTE40ckt5U2t6OHFvR2QtU291MHlydFA4cVRTR1FMa1hTNkZ6SnYyRnB0OW1UeFdKWGU0YzlQZVNjbFdmM0VSNy1vTHR0S3o4T3h4elp1ZlRJZTFJUldma2lWQVVqYw?oc=5",
+          "source": "Unknown source",
+          "publishedAt": "2026-04-10T20:11:32.000Z",
           "ageHours": 17,
           "isFresh": true,
-          "summary": "🔵 Cardano (ADA) Dethrones Bitcoin Cash as Price Sees Mild Rebound  Binance"
-        },
-        {
-          "topicKey": "cardano",
-          "title": "\"Cardano Is a Ticking Time Bomb: Expert Trader\" - Binance",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5sclFkRXVGN3dEYUh5NGRLb1RwaUhlTXlpTEQ5V2dGclZTWXhnVnBlamUtNTloUDF5SU1vMlJLdXhUc0ZTNjZLVjdYVkdiQnh2U2QyeThXUzJVTHp2RWIya2Vua1E?oc=5",
-          "source": "Unknown source",
-          "publishedAt": "2026-04-10T17:54:14.000Z",
-          "ageHours": 19,
-          "isFresh": true,
-          "summary": "\"Cardano Is a Ticking Time Bomb: Expert Trader\"  Binance"
-        },
-        {
-          "topicKey": "cardano",
-          "title": "Intersect Update #106 — April 10, 2026 - Cardano Forum",
-          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9iWFJoS293TzlOM1hJdEdqMDJwVzJZb3lOelFieDRqZzRGVjkwSFlFSUJyanpza3BFNU05eGc0VktYU0NrWEtxMnhOc3hQUDhUN3JscWVTSk1ZdzZWS1MxWUh6alVMa2NiRDJFNzFTTFpzZ2xvdmphYg?oc=5",
-          "source": "Unknown source",
-          "publishedAt": "2026-04-10T17:49:59.000Z",
-          "ageHours": 19,
-          "isFresh": true,
-          "summary": "Intersect Update #106 — April 10, 2026  Cardano Forum"
+          "summary": "Cardano (ADA) Golden Cross Raises One Big Question: Reversal or Not?  Bitget"
         }
       ],
       "errors": []
@@ -128,7 +128,7 @@
         "https://news.google.com/rss/search?q=%22Midnight+City%22+Cardano+OR+site:midnight.city+when:14d&hl=en-US&gl=US&ceid=US:en"
       ],
       "freshCount": 0,
-      "updatedAt": "2026-04-11T12:49:20.812Z",
+      "updatedAt": "2026-04-11T12:51:21.420Z",
       "items": [],
       "errors": []
     },
@@ -141,7 +141,7 @@
         "https://news.google.com/rss/search?q=site:iohk.io+%22Input+Output%22+when:7d&hl=en-US&gl=US&ceid=US:en"
       ],
       "freshCount": 1,
-      "updatedAt": "2026-04-11T12:49:20.812Z",
+      "updatedAt": "2026-04-11T12:51:21.420Z",
       "items": [
         {
           "topicKey": "iog",
@@ -195,7 +195,7 @@
         "https://news.google.com/rss/search?q=site:intersectmbo.org+Intersect+when:14d&hl=en-US&gl=US&ceid=US:en"
       ],
       "freshCount": 1,
-      "updatedAt": "2026-04-11T12:49:20.812Z",
+      "updatedAt": "2026-04-11T12:51:21.420Z",
       "items": [
         {
           "topicKey": "intersect",
@@ -289,7 +289,7 @@
         "https://news.google.com/rss/search?q=site:youtube.com+%22Charles+Hoskinson%22+when:7d&hl=en-US&gl=US&ceid=US:en"
       ],
       "freshCount": 8,
-      "updatedAt": "2026-04-11T12:49:20.812Z",
+      "updatedAt": "2026-04-11T12:51:21.420Z",
       "items": [
         {
           "topicKey": "charles-hoskinson",
