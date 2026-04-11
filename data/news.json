@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-11T12:42:12.071Z",
+  "generatedAt": "2026-04-11T12:42:46.120Z",
   "freshnessWindowHours": 24,
   "topics": [
     {
@@ -11,7 +11,7 @@
         "https://news.google.com/rss/search?q=site:forum.midnight.network+Midnight+when:7d&hl=en-US&gl=US&ceid=US:en"
       ],
       "freshCount": 0,
-      "updatedAt": "2026-04-11T12:42:12.071Z",
+      "updatedAt": "2026-04-11T12:42:46.120Z",
       "items": [
         {
           "topicKey": "midnight-network",
@@ -35,7 +35,7 @@
         "https://news.google.com/rss/search?q=site:cardano.org+Cardano+when:7d&hl=en-US&gl=US&ceid=US:en"
       ],
       "freshCount": 8,
-      "updatedAt": "2026-04-11T12:42:12.071Z",
+      "updatedAt": "2026-04-11T12:42:46.120Z",
       "items": [
         {
           "topicKey": "cardano",
@@ -46,16 +46,6 @@
           "ageHours": 3,
           "isFresh": true,
           "summary": "Cardano Price Prediction Stalls at $0.262 While AlphaPepe Stage 12 Offers What ADA Will Take All Year to Deliver  openPR.com"
-        },
-        {
-          "topicKey": "cardano",
-          "title": "Cardano(ADA) Stock Price Today | Quotes & News - Moomoo",
-          "link": "https://news.google.com/rss/articles/CBMingJBVV95cUxORllUbmpDVDlZNEJuQk9WWlN3Yk1OUXJYX2dhY0t1eUJZZldPWW9sRWthbkdZTXJOakhEby1aekxrb2N5NGtHekx4LWVNMk82UDNYU1FHSVU2dkVDcmVDVW1iQ2xUQndmT0xoamo3aXNuSTFrcTdUSXNkZnptRUI2MXpZTG5iRXkyNEdkbnhRZ0hDbzBaZjVnMXNqOUVzOVJCaWkwc2Rob1NMSDA5VHpwS0h3b3dEcFc2TUZWQmpRX2w0dGpZM2dPNXV4WGRlMzNIT2t6VXZUVnp2ejgzNmlTWThjNUNNel96REY4dFpyODlJSkl0eXlnYjB3X1VvSUFuNE9SWDVaWUJGZGRIeldaanZISGI1SURURUtqV2N3?oc=5",
-          "source": "Unknown source",
-          "publishedAt": "2026-04-11T08:00:01.000Z",
-          "ageHours": 5,
-          "isFresh": true,
-          "summary": "Cardano(ADA) Stock Price Today | Quotes & News  Moomoo"
         },
         {
           "topicKey": "cardano",
@@ -116,6 +106,16 @@
           "ageHours": 19,
           "isFresh": true,
           "summary": "\"Cardano Is a Ticking Time Bomb: Expert Trader\"  Binance"
+        },
+        {
+          "topicKey": "cardano",
+          "title": "Intersect Update #106 — April 10, 2026 - Cardano Forum",
+          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9iWFJoS293TzlOM1hJdEdqMDJwVzJZb3lOelFieDRqZzRGVjkwSFlFSUJyanpza3BFNU05eGc0VktYU0NrWEtxMnhOc3hQUDhUN3JscWVTSk1ZdzZWS1MxWUh6alVMa2NiRDJFNzFTTFpzZ2xvdmphYg?oc=5",
+          "source": "Unknown source",
+          "publishedAt": "2026-04-10T17:49:59.000Z",
+          "ageHours": 19,
+          "isFresh": true,
+          "summary": "Intersect Update #106 — April 10, 2026  Cardano Forum"
         }
       ],
       "errors": []
@@ -128,7 +128,7 @@
         "https://news.google.com/rss/search?q=%22Midnight+City%22+Cardano+OR+site:midnight.city+when:14d&hl=en-US&gl=US&ceid=US:en"
       ],
       "freshCount": 0,
-      "updatedAt": "2026-04-11T12:42:12.071Z",
+      "updatedAt": "2026-04-11T12:42:46.120Z",
       "items": [],
       "errors": []
     },
@@ -141,7 +141,7 @@
         "https://news.google.com/rss/search?q=site:iohk.io+%22Input+Output%22+when:7d&hl=en-US&gl=US&ceid=US:en"
       ],
       "freshCount": 1,
-      "updatedAt": "2026-04-11T12:42:12.071Z",
+      "updatedAt": "2026-04-11T12:42:46.120Z",
       "items": [
         {
           "topicKey": "iog",
@@ -195,7 +195,7 @@
         "https://news.google.com/rss/search?q=site:intersectmbo.org+Intersect+when:14d&hl=en-US&gl=US&ceid=US:en"
       ],
       "freshCount": 1,
-      "updatedAt": "2026-04-11T12:42:12.071Z",
+      "updatedAt": "2026-04-11T12:42:46.120Z",
       "items": [
         {
           "topicKey": "intersect",
@@ -289,7 +289,7 @@
         "https://news.google.com/rss/search?q=site:youtube.com+%22Charles+Hoskinson%22+when:7d&hl=en-US&gl=US&ceid=US:en"
       ],
       "freshCount": 8,
-      "updatedAt": "2026-04-11T12:42:12.071Z",
+      "updatedAt": "2026-04-11T12:42:46.120Z",
       "items": [
         {
           "topicKey": "charles-hoskinson",
@@ -333,16 +333,6 @@
         },
         {
           "topicKey": "charles-hoskinson",
-          "title": "BITCOIN (BTC) Analysis - April 10th, 2026 | Price Prediction & Trading Strategy - YouTube",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9ZLWNNeHJYSXluT2NrT0F2amhfN2hPa2g0UXE0QVlraFM2dUZWb2Zqb2JKdHBJU25oSDc4MWVWb20zZDN0cFFOcExrX3NXU1gyNGZqN1pR?oc=5",
-          "source": "Unknown source",
-          "publishedAt": "2026-04-10T18:15:26.000Z",
-          "ageHours": 18,
-          "isFresh": true,
-          "summary": "BITCOIN (BTC) Analysis - April 10th, 2026 | Price Prediction & Trading Strategy  YouTube"
-        },
-        {
-          "topicKey": "charles-hoskinson",
           "title": "Bitcoin Bulls Bet On Fed Chair Nominee Kevin Warsh As Central Bank Transition Nears - YouTube",
           "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1BcEZZM0NJdVNyajdYZXFPSVVXQnBBX05HVWRtbDI2dmhDdTcxNU16eWNvMGZBa2taQU00WWJBOU90Z0lRN2toenZxMnlWWV9odm15WlFR?oc=5",
           "source": "Unknown source",
@@ -370,6 +360,16 @@
           "ageHours": 20,
           "isFresh": true,
           "summary": "Raoul Gives an Update on Crypto, Macro, AI | REKT Vision, April 10, 2026  YouTube"
+        },
+        {
+          "topicKey": "charles-hoskinson",
+          "title": "Cardano Founder Hoskinson Defends Adoption Strategy Against XRP Community Criticism - MoneyCheck",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNTjFrdFdJeU43WmdrbXU1Qkxfb21BdVVOckFtdzlkSnAyVDk4UUtSUWdZal82WUJwVXV4Nm1EdG5KeW40aEVtNVJpeVVFZ1pNMGVCTnQ1NW82cWFMUFVjcFdnTHkxMzlOSWNpcm0wMjJ1X2s0YlY4N2xnLS1HNG02bVhYTVlZRW9VdEttNWd3bTJETUc1UHd1RThUR0xaRlNHREZJcm90MGRQeW8?oc=5",
+          "source": "Unknown source",
+          "publishedAt": "2026-04-10T15:02:22.000Z",
+          "ageHours": 22,
+          "isFresh": true,
+          "summary": "Cardano Founder Hoskinson Defends Adoption Strategy Against XRP Community Criticism  MoneyCheck"
         }
       ],
       "errors": []
