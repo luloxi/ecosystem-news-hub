@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-11T12:53:10.502Z",
+  "generatedAt": "2026-04-11T12:56:59.304Z",
   "freshnessWindowHours": 24,
   "topics": [
     {
@@ -11,7 +11,7 @@
         "https://news.google.com/rss/search?q=site:forum.midnight.network+Midnight+when:7d&hl=en-US&gl=US&ceid=US:en"
       ],
       "freshCount": 0,
-      "updatedAt": "2026-04-11T12:53:10.502Z",
+      "updatedAt": "2026-04-11T12:56:59.304Z",
       "items": [
         {
           "topicKey": "midnight-network",
@@ -19,7 +19,7 @@
           "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNcU1PdGVlazY4NGZBV2FYLVBKOTJfc2xTeDdzdmxWX204d01OVUtKYzM0akRUWnBuZGRmSDFnOXFPNDJRa1NYbWswLWVJUDhVdnZUZ2VucUItZnVMT1gzdEpVX0FNNFAzZzlhTEJrMkRyZUNJbzljNVdPZ3JHSXhDTGVOeUZSLUZwWmlpT0FEWmgxNXJWS3c?oc=5",
           "source": "Unknown source",
           "publishedAt": "2026-04-08T10:25:46.000Z",
-          "ageHours": 74,
+          "ageHours": 75,
           "isFresh": false,
           "summary": "Practical ZK Footprint Reductions [Midnight Case Study]  Midnight Network"
         }
@@ -35,7 +35,7 @@
         "https://news.google.com/rss/search?q=site:cardano.org+Cardano+when:7d&hl=en-US&gl=US&ceid=US:en"
       ],
       "freshCount": 8,
-      "updatedAt": "2026-04-11T12:53:10.502Z",
+      "updatedAt": "2026-04-11T12:56:59.304Z",
       "items": [
         {
           "topicKey": "cardano",
@@ -128,7 +128,7 @@
         "https://news.google.com/rss/search?q=%22Midnight+City%22+Cardano+OR+site:midnight.city+when:14d&hl=en-US&gl=US&ceid=US:en"
       ],
       "freshCount": 0,
-      "updatedAt": "2026-04-11T12:53:10.502Z",
+      "updatedAt": "2026-04-11T12:56:59.304Z",
       "items": [],
       "errors": []
     },
@@ -141,7 +141,7 @@
         "https://news.google.com/rss/search?q=site:iohk.io+%22Input+Output%22+when:7d&hl=en-US&gl=US&ceid=US:en"
       ],
       "freshCount": 1,
-      "updatedAt": "2026-04-11T12:53:10.502Z",
+      "updatedAt": "2026-04-11T12:56:59.304Z",
       "items": [
         {
           "topicKey": "iog",
@@ -195,7 +195,7 @@
         "https://news.google.com/rss/search?q=site:intersectmbo.org+Intersect+when:14d&hl=en-US&gl=US&ceid=US:en"
       ],
       "freshCount": 1,
-      "updatedAt": "2026-04-11T12:53:10.502Z",
+      "updatedAt": "2026-04-11T12:56:59.304Z",
       "items": [
         {
           "topicKey": "intersect",
@@ -263,7 +263,7 @@
           "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNd0Z0VzZPTzY5ME9ReExCMy1hTHBhbVUydDJLNVMyMzJMdkdCckxRQWRkRTlwcjNNc2hPR1h2SEY2ZlJyRDJHWE5BRkQyQXBNMWFkZHBvbUhyNE1BTkJjU1MxRmJUU01Iellxd21aN0V1TkFGdkpSSzBWUnNIaXRoR0E5RDNiRkpPMEt4MkRTUkJjbzc1eWJNakUwcnhWRWRicnh2aTBIb2Nva3M0?oc=5",
           "source": "Unknown source",
           "publishedAt": "2026-04-07T18:24:35.000Z",
-          "ageHours": 90,
+          "ageHours": 91,
           "isFresh": false,
           "summary": "Cardano Whales Rise Over 5% in Nine Weeks as ADA Price Attempts Rebound  CryptoRank"
         },
@@ -289,7 +289,7 @@
         "https://news.google.com/rss/search?q=site:youtube.com+%22Charles+Hoskinson%22+when:7d&hl=en-US&gl=US&ceid=US:en"
       ],
       "freshCount": 8,
-      "updatedAt": "2026-04-11T12:53:10.502Z",
+      "updatedAt": "2026-04-11T12:56:59.304Z",
       "items": [
         {
           "topicKey": "charles-hoskinson",
