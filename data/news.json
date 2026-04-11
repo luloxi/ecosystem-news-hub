@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-11T12:42:46.120Z",
+  "generatedAt": "2026-04-11T12:49:20.812Z",
   "freshnessWindowHours": 24,
   "topics": [
     {
@@ -11,7 +11,7 @@
         "https://news.google.com/rss/search?q=site:forum.midnight.network+Midnight+when:7d&hl=en-US&gl=US&ceid=US:en"
       ],
       "freshCount": 0,
-      "updatedAt": "2026-04-11T12:42:46.120Z",
+      "updatedAt": "2026-04-11T12:49:20.812Z",
       "items": [
         {
           "topicKey": "midnight-network",
@@ -35,7 +35,7 @@
         "https://news.google.com/rss/search?q=site:cardano.org+Cardano+when:7d&hl=en-US&gl=US&ceid=US:en"
       ],
       "freshCount": 8,
-      "updatedAt": "2026-04-11T12:42:46.120Z",
+      "updatedAt": "2026-04-11T12:49:20.812Z",
       "items": [
         {
           "topicKey": "cardano",
@@ -43,9 +43,19 @@
           "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPWmhLQzFvek1aQ0N1RzVCZUVyd3VLS3o3bk5pOGJjV0R2WFR5NUV3M0JiTWIwZUNnTnRSY3FrekJQanM5bWNpdnNIZmVDZVRtc0RlZzl2Nko0N2hESC1CUzNrYWRfWFI5Z0tndl9fOG85MFBHYWowWVQ3RnJ1VDhscXhjbWNrbEpZTTlUUDFHcHNjcXQ4SWw1RjVneTFsZW8?oc=5",
           "source": "Unknown source",
           "publishedAt": "2026-04-11T09:13:01.000Z",
-          "ageHours": 3,
+          "ageHours": 4,
           "isFresh": true,
           "summary": "Cardano Price Prediction Stalls at $0.262 While AlphaPepe Stage 12 Offers What ADA Will Take All Year to Deliver  openPR.com"
+        },
+        {
+          "topicKey": "cardano",
+          "title": "Cardano(ADA) Stock Price Today | Quotes & News - Moomoo",
+          "link": "https://news.google.com/rss/articles/CBMingJBVV95cUxORllUbmpDVDlZNEJuQk9WWlN3Yk1OUXJYX2dhY0t1eUJZZldPWW9sRWthbkdZTXJOakhEby1aekxrb2N5NGtHekx4LWVNMk82UDNYU1FHSVU2dkVDcmVDVW1iQ2xUQndmT0xoamo3aXNuSTFrcTdUSXNkZnptRUI2MXpZTG5iRXkyNEdkbnhRZ0hDbzBaZjVnMXNqOUVzOVJCaWkwc2Rob1NMSDA5VHpwS0h3b3dEcFc2TUZWQmpRX2w0dGpZM2dPNXV4WGRlMzNIT2t6VXZUVnp2ejgzNmlTWThjNUNNel96REY4dFpyODlJSkl0eXlnYjB3X1VvSUFuNE9SWDVaWUJGZGRIeldaanZISGI1SURURUtqV2N3?oc=5",
+          "source": "Unknown source",
+          "publishedAt": "2026-04-11T08:00:01.000Z",
+          "ageHours": 5,
+          "isFresh": true,
+          "summary": "Cardano(ADA) Stock Price Today | Quotes & News  Moomoo"
         },
         {
           "topicKey": "cardano",
@@ -76,16 +86,6 @@
           "ageHours": 16,
           "isFresh": true,
           "summary": "Cardano Price Forecast: ADA at crossroads as rejection meets fading momentum  TMGM"
-        },
-        {
-          "topicKey": "cardano",
-          "title": "Cardano Price Prediction at $0.25 as Protocol 11 and Midnight Stack Catalysts While Pepeto Presale Fills Fast - Bitget",
-          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5UcTIxZFpuZTZ5d054VTF5eVhNN1AwNDBLWk1kTWJTZ1VTcjZiWU9wTUVCUHNNbHZITW5TTUQ4YkRCMjZZMmVta1BpYTlBd0lkOWx0NG9MaEVIS2dVbFHSAWNBVV95cUxPeW1VUnNkb1ZUYXNvbTFuaUZWQVVtRUFDTUFVdm5xMHVycUs5WjVYVjduUkNhMjBNeS1HaXJlZmFTN2lDNXEyWXdJN0xTTTZURUZheUdQcjBSVWxOZlNlNm5wUkE?oc=5",
-          "source": "Unknown source",
-          "publishedAt": "2026-04-10T20:30:52.000Z",
-          "ageHours": 16,
-          "isFresh": true,
-          "summary": "Cardano Price Prediction at $0.25 as Protocol 11 and Midnight Stack Catalysts While Pepeto Presale Fills Fast  Bitget"
         },
         {
           "topicKey": "cardano",
@@ -128,7 +128,7 @@
         "https://news.google.com/rss/search?q=%22Midnight+City%22+Cardano+OR+site:midnight.city+when:14d&hl=en-US&gl=US&ceid=US:en"
       ],
       "freshCount": 0,
-      "updatedAt": "2026-04-11T12:42:46.120Z",
+      "updatedAt": "2026-04-11T12:49:20.812Z",
       "items": [],
       "errors": []
     },
@@ -141,7 +141,7 @@
         "https://news.google.com/rss/search?q=site:iohk.io+%22Input+Output%22+when:7d&hl=en-US&gl=US&ceid=US:en"
       ],
       "freshCount": 1,
-      "updatedAt": "2026-04-11T12:42:46.120Z",
+      "updatedAt": "2026-04-11T12:49:20.812Z",
       "items": [
         {
           "topicKey": "iog",
@@ -169,7 +169,7 @@
           "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9uTEpFNDg1UEplYkNsVnZqcjkzeGdhd1JhdVVOMURDZk5lb2R3dUlRcGhLMXJwRXFQQkZIUTFjUE9IZ2VwSjdv?oc=5",
           "source": "Unknown source",
           "publishedAt": "2026-04-08T13:19:17.000Z",
-          "ageHours": 71,
+          "ageHours": 72,
           "isFresh": false,
           "summary": "Crypto News Today: Cardano’s IOG Halts Acropolis, Redirects 4.1M ADA to Growth  MEXC Exchange"
         },
@@ -195,7 +195,7 @@
         "https://news.google.com/rss/search?q=site:intersectmbo.org+Intersect+when:14d&hl=en-US&gl=US&ceid=US:en"
       ],
       "freshCount": 1,
-      "updatedAt": "2026-04-11T12:42:46.120Z",
+      "updatedAt": "2026-04-11T12:49:20.812Z",
       "items": [
         {
           "topicKey": "intersect",
@@ -203,7 +203,7 @@
           "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFA0dzI3eEF2M0Z1YXI5ZGRXZGw5R2RZek1lMktYcGVwLWhDd0loSk5RUFNSdTZ5dlptMmdBM2FQV3NscDVzUXdQMXNDV0lHRElZcnViMHR5M3JQV2x0RmZTckRFVE5qaENQaGluVmhjWDdPYWFHbVVCZWZoNA?oc=5",
           "source": "Unknown source",
           "publishedAt": "2026-04-10T13:14:03.000Z",
-          "ageHours": 23,
+          "ageHours": 24,
           "isFresh": true,
           "summary": "Intersect weekly update #106 April 10, 2026  Intersect MBO"
         },
@@ -213,7 +213,7 @@
           "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNSHZNNDZxTmNXdk00MmZ6TlJYT3FWSjhuZ2ZtZFh3S2dXZVlzcF9BcDFMMUlwZkZzWGNkemdmWHVNdHNUZ2hSTUJhak5udUtDQW1qdFozNUxTVzVRRjZzWTRUajI5N2FUOWx3TWxFeXBTY3NVZEFDLTlIbUFfZGJKRXpEVGd1Y3EzQ3BLXzZQWUhRUlZjbTFPaGZzQlpCNVhLS1VybGV6dmluemdldEU0?oc=5",
           "source": "Unknown source",
           "publishedAt": "2026-04-09T21:17:41.000Z",
-          "ageHours": 39,
+          "ageHours": 40,
           "isFresh": false,
           "summary": "BlockDAG Gains Momentum at $0.0000061 While Ethereum and Cardano Show Limited Movement  TechBullion"
         },
@@ -223,7 +223,7 @@
           "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1lRVpUQzFnQnJITzYxSFFuaktZenpySm5qN1lPRUY1TkdfcUU4LTlvLTBsSS1VbERlZGhNeTUtOG9rRkxzcW5LeUdra2hjYjMzSmsydkJMMEswV1dYdTJZdjBMNVZ2V2loaWZTeklvQnEyV1k0OW54STFIb1Fzdw?oc=5",
           "source": "Unknown source",
           "publishedAt": "2026-04-09T13:14:54.000Z",
-          "ageHours": 47,
+          "ageHours": 48,
           "isFresh": false,
           "summary": "The 2026 Constitutional Committee Elections  Intersect MBO"
         },
@@ -289,7 +289,7 @@
         "https://news.google.com/rss/search?q=site:youtube.com+%22Charles+Hoskinson%22+when:7d&hl=en-US&gl=US&ceid=US:en"
       ],
       "freshCount": 8,
-      "updatedAt": "2026-04-11T12:42:46.120Z",
+      "updatedAt": "2026-04-11T12:49:20.812Z",
       "items": [
         {
           "topicKey": "charles-hoskinson",
@@ -337,7 +337,7 @@
           "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1BcEZZM0NJdVNyajdYZXFPSVVXQnBBX05HVWRtbDI2dmhDdTcxNU16eWNvMGZBa2taQU00WWJBOU90Z0lRN2toenZxMnlWWV9odm15WlFR?oc=5",
           "source": "Unknown source",
           "publishedAt": "2026-04-10T18:13:32.000Z",
-          "ageHours": 18,
+          "ageHours": 19,
           "isFresh": true,
           "summary": "Bitcoin Bulls Bet On Fed Chair Nominee Kevin Warsh As Central Bank Transition Nears  YouTube"
         },
