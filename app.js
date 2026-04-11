@@ -20,26 +20,6 @@ function timeAgo(isoString) {
   return `${days}d ago`;
 }
 
-function normalizeText(text = '') {
-  return text
-    .toLowerCase()
-    .replace(/\s+/g, ' ')
-    .replace(/[“”‘’"']/g, '')
-    .replace(/[–—-]/g, ' ')
-    .replace(/[^a-z0-9 ]/g, ' ')
-    .replace(/\s+/g, ' ')
-    .trim();
-}
-
-function shouldShowSummary(item) {
-  const title = normalizeText(item.title);
-  const summary = normalizeText(item.summary);
-  if (!summary) return false;
-  if (summary === title) return false;
-  if (summary.startsWith(title)) return false;
-  return true;
-}
-
 function renderSummary(data) {
   const totalItems = data.topics.reduce((sum, topic) => sum + topic.items.length, 0);
   const freshItems = data.topics.reduce((sum, topic) => sum + topic.freshCount, 0);
@@ -98,12 +78,7 @@ function renderTopics(data) {
         const link = itemNode.querySelector('.news-item');
         link.href = item.link;
         itemNode.querySelector('h3').textContent = item.title;
-        const summaryEl = itemNode.querySelector('.news-item__summary');
-        if (shouldShowSummary(item)) {
-          summaryEl.textContent = item.summary;
-        } else {
-          summaryEl.remove();
-        }
+        itemNode.querySelector('.news-item__summary').remove();
         itemNode.querySelector('.news-item__source').textContent = item.source;
         itemNode.querySelector('.news-item__age').textContent = timeAgo(item.publishedAt);
         itemNode.querySelector('.news-item__fresh').textContent = item.isFresh ? 'fresh' : 'older';
