@@ -78,7 +78,6 @@ function renderTopics(data) {
         const link = itemNode.querySelector('.news-item');
         link.href = item.link;
         itemNode.querySelector('h3').textContent = item.title;
-        itemNode.querySelector('.news-item__summary').remove();
         itemNode.querySelector('.news-item__source').textContent = item.source;
         itemNode.querySelector('.news-item__age').textContent = timeAgo(item.publishedAt);
         itemNode.querySelector('.news-item__fresh').textContent = item.isFresh ? 'fresh' : 'older';
