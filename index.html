@@ -1,0 +1,67 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Ecosystem News Hub</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet" />
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <header class="hero">
+      <div class="hero__content">
+        <p class="eyebrow">Live dashboard prototype</p>
+        <h1>Ecosystem News Hub</h1>
+        <p class="hero__lead">
+          A clean dashboard for Midnight Network, Cardano, Midnight City, Input Output Global,
+          Intersect, and Charles Hoskinson. Data refreshes from public RSS search feeds.
+        </p>
+        <div class="hero__meta">
+          <span id="generatedAt">Loading latest refresh…</span>
+          <button id="refreshButton" type="button">Refresh view</button>
+        </div>
+      </div>
+    </header>
+
+    <main>
+      <section class="summary" id="summary"></section>
+      <section class="topics" id="topics"></section>
+    </main>
+
+    <template id="topicTemplate">
+      <article class="topic-card">
+        <div class="topic-card__header">
+          <div>
+            <p class="topic-card__eyebrow"></p>
+            <h2></h2>
+          </div>
+          <span class="badge"></span>
+        </div>
+        <p class="topic-card__description"></p>
+        <div class="topic-card__items"></div>
+        <details class="topic-card__errors">
+          <summary>Feed diagnostics</summary>
+          <ul></ul>
+        </details>
+      </article>
+    </template>
+
+    <template id="itemTemplate">
+      <a class="news-item" target="_blank" rel="noreferrer noopener">
+        <div class="news-item__header">
+          <h3></h3>
+          <span class="news-item__age"></span>
+        </div>
+        <p class="news-item__summary"></p>
+        <div class="news-item__meta">
+          <span class="news-item__source"></span>
+          <span class="news-item__fresh"></span>
+        </div>
+      </a>
+    </template>
+
+    <script type="module" src="app.js"></script>
+  </body>
+</html>

@@ -1,0 +1,14 @@
+{
+  "name": "ecosystem-news-hub",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "fetch": "node scripts/fetch-news.mjs",
+    "build": "npm run fetch",
+    "serve": "python3 -m http.server 4173"
+  },
+  "dependencies": {
+    "rss-parser": "^3.13.0"
+  }
+}
