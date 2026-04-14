@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-13T12:37:29.869Z",
+  "generatedAt": "2026-04-14T12:35:26.293Z",
   "freshnessWindowHours": 24,
   "topics": [
     {
@@ -11,17 +11,47 @@
         "https://news.google.com/rss/search?q=site:forum.midnight.network+Midnight+when:7d&hl=en-US&gl=US&ceid=US:en"
       ],
       "freshCount": 0,
-      "updatedAt": "2026-04-13T12:37:29.869Z",
+      "updatedAt": "2026-04-14T12:35:26.293Z",
       "items": [
+        {
+          "topicKey": "midnight-network",
+          "title": "Midnight Indexer - Midnight Docs",
+          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5JMVhQbWltMVBBcGs4bHVONGFBV0I2X2tpVi1CQ05RVno1NF9KMzhjWEpRYjlWR0JvQW1NcHVBbHQtWVFNQS1iUG11OVd6cGU5ejlQeEZ5MTFjNzVkRzlZbElFWWt5dw?oc=5",
+          "source": "Unknown source",
+          "publishedAt": "2026-04-10T20:26:51.000Z",
+          "ageHours": 88,
+          "isFresh": false,
+          "summary": "Midnight Indexer  Midnight Docs"
+        },
         {
           "topicKey": "midnight-network",
           "title": "Midnight Documentation | Midnight Docs - Midnight Docs",
           "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTFAySnNyOEt3RktzODRxOXJwYXE4Sk91OW9QOEtCTWRiTk5LYVlUcFViLUZuLWx3Y0hpSDlMdFQ0M3dRYWh0?oc=5",
           "source": "Unknown source",
           "publishedAt": "2026-04-10T20:26:51.000Z",
-          "ageHours": 64,
+          "ageHours": 88,
           "isFresh": false,
           "summary": "Midnight Documentation | Midnight Docs  Midnight Docs"
+        },
+        {
+          "topicKey": "midnight-network",
+          "title": "Midnight SDKs - Midnight Docs",
+          "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBxWkhuOERlVU0tV2hRSzdrYzZWUGluZDh1WmhzTi1EQTFXbHZwbDFuTW9UUEs4T2pjcE1OaERhWll1NnE1eEE0VVJn?oc=5",
+          "source": "Unknown source",
+          "publishedAt": "2026-04-10T20:26:51.000Z",
+          "ageHours": 88,
+          "isFresh": false,
+          "summary": "Midnight SDKs  Midnight Docs"
+        },
+        {
+          "topicKey": "midnight-network",
+          "title": "Fix package repository access failures - Midnight Docs",
+          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQNlVNTHVvY3h2RDNpVGRBQ1lLcFZVMkU5bFlyUGNER2NmY2kyQVNFSGNjMm9NMl9zbE9EcDhiVzRxUkFHc0Q5ZHJrUzJ4Z2NCU24xbFI2Z0FYbFRFaFR2Q3VpMXV1bmdDQklZOFB6UkNyQ1FxSWdmX2h2M3J0UE9hbQ?oc=5",
+          "source": "Unknown source",
+          "publishedAt": "2026-04-10T20:26:51.000Z",
+          "ageHours": 88,
+          "isFresh": false,
+          "summary": "Fix package repository access failures  Midnight Docs"
         },
         {
           "topicKey": "midnight-network",
@@ -29,9 +59,29 @@
           "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9pRDctOVZ0QVYwbVpsa3lYcGlsZks3RnBiQVkzbE1BN0o5ak94aXp5aTFlVlVjaF9yX2ZhSXhiUllRQjRXX05YVlVjVTJnUEFzUW1TTzQwT3k3TWxKUU1kdTFOTWJxSGV6?oc=5",
           "source": "Unknown source",
           "publishedAt": "2026-04-10T20:26:51.000Z",
-          "ageHours": 64,
+          "ageHours": 88,
           "isFresh": false,
           "summary": "Create a React wallet connector  Midnight Docs"
+        },
+        {
+          "topicKey": "midnight-network",
+          "title": "Compact compiler - Midnight Docs",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5mM2xPSy11NWJPa0xVQVlBY0hsMnVQOTA1c1pZeWtBSnpsdjNmV3FkYUZMQ0tlcWNWOTVnTlJkS2NjYVpVNDZBMzFsMFgxY2dRMTVyaUtZSlBKZw?oc=5",
+          "source": "Unknown source",
+          "publishedAt": "2026-04-10T20:26:51.000Z",
+          "ageHours": 88,
+          "isFresh": false,
+          "summary": "Compact compiler  Midnight Docs"
+        },
+        {
+          "topicKey": "midnight-network",
+          "title": "Compact developer tools - Midnight Docs",
+          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9qLTMxX3pXcklFRXdLV24zWU42RWVpek1wRzVDb0JsRGQ2cHJJSC11QWV1LUt6bk1hSks2QTNzMnJfVm04WWMtTV9JWGdxX0FkRjJ2bTB0Um1uMW9zOGZLblFn?oc=5",
+          "source": "Unknown source",
+          "publishedAt": "2026-04-10T20:26:51.000Z",
+          "ageHours": 88,
+          "isFresh": false,
+          "summary": "Compact developer tools  Midnight Docs"
         },
         {
           "topicKey": "midnight-network",
@@ -39,7 +89,7 @@
           "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNcU1PdGVlazY4NGZBV2FYLVBKOTJfc2xTeDdzdmxWX204d01OVUtKYzM0akRUWnBuZGRmSDFnOXFPNDJRa1NYbWswLWVJUDhVdnZUZ2VucUItZnVMT1gzdEpVX0FNNFAzZzlhTEJrMkRyZUNJbzljNVdPZ3JHSXhDTGVOeUZSLUZwWmlpT0FEWmgxNXJWS3c?oc=5",
           "source": "Unknown source",
           "publishedAt": "2026-04-08T10:25:46.000Z",
-          "ageHours": 122,
+          "ageHours": 146,
           "isFresh": false,
           "summary": "Practical ZK Footprint Reductions [Midnight Case Study]  Midnight Network"
         }
@@ -55,87 +105,87 @@
         "https://news.google.com/rss/search?q=site:cardano.org+Cardano+when:7d&hl=en-US&gl=US&ceid=US:en"
       ],
       "freshCount": 8,
-      "updatedAt": "2026-04-13T12:37:29.869Z",
+      "updatedAt": "2026-04-14T12:35:26.293Z",
       "items": [
         {
           "topicKey": "cardano",
-          "title": "Cardano Price Prediction: ADA Fights to Hold $0.262 While - openPR.com",
-          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPYmd0NExCMHdqV0ZFX2MydzJ4S3Z5U3ByUldoYW1xampmZHAxN2FpOHhxZC1KMjZLWjJhMzJlUGJzRXQ2a1k4bzNNZElxeDdKQkdSYXBiejRubEtDV0Y0V3VMSE5fUFl4NmhrY19DRXdJMm5saFRzMzN6bDYzbnU5UE1ZQ2lzQUhndHZWUFY4RmpSbFUtOFE?oc=5",
+          "title": "Got $1,500? Here's Why I'd Pick XRP Over Cardano for the Next 10 Years - The Motley Fool",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOeVZPcmxVYzBiQXVfV2FsTzlFODc4S3FRSElNZy1QN0lnRkZ6TEhCOE9fN0FqV2hfcUZPcXVtN1pNSHdENEhUc01tLUdIUTdFSUdWNmxqVFU2a2NnM1BqNHZPUTFNLXk2T0VzZkowTXJ1RW5NOGk2aHZ5N3J0TE5jeXdKdDV2N3llZTJtNkttdHM0Z1M2Q09jXw?oc=5",
           "source": "Unknown source",
-          "publishedAt": "2026-04-13T11:33:54.000Z",
-          "ageHours": 1,
-          "isFresh": true,
-          "summary": "Cardano Price Prediction: ADA Fights to Hold $0.262 While  openPR.com"
-        },
-        {
-          "topicKey": "cardano",
-          "title": "E-meetup: 45B's Cardano Design Centre, Call #10 - Cardano Forum",
-          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNeTQtbVVaTVJQWTRWRmRNeUpLVmVHM3hzWVF3alM4MUNUZW9WUWN4d3lPQmo2WTgyUmtMLWpPYzJxRGtxMktCYVhFeUdsQ1NCdU9iMVoyQTRJZWxuUDM1VllWOVRxU0xhbmJ6S0kxN25JcHpLZ3E1c0NqakFnZXZURHFWVno?oc=5",
-          "source": "Unknown source",
-          "publishedAt": "2026-04-13T09:43:34.000Z",
+          "publishedAt": "2026-04-14T09:44:06.000Z",
           "ageHours": 3,
           "isFresh": true,
-          "summary": "E-meetup: 45B's Cardano Design Centre, Call #10  Cardano Forum"
+          "summary": "Got $1,500? Here's Why I'd Pick XRP Over Cardano for the Next 10 Years  The Motley Fool"
         },
         {
           "topicKey": "cardano",
-          "title": "Cardano (ADA) Price Prediction: $9.15 Billion Market Cap Meets Hashdex ETF and 424 Whale Wallets - openPR.com",
-          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQclp0R3ptY1ZmUmM0MWc3bm5XSlh6c3R3djZBWkpKdUFwUU1DNWxaMVI5MktVVEdlUWFTWEdLSzFvbl9IbENjMVAyU19aZXdiVTJEMXZjMWJha084TWNtWHN6RGV2c0dtWjBIdU9yaUxSSGdrTnBhM0UyYU9hZ3NtN1hNVjZTSFplSU9EVzMyclZBenFLbTZVTmNn?oc=5",
+          "title": "Governance Hour #3 - Deep Dive Into Pebble + Gerolamo - HLabs 2026 Budget - Cardano Forum",
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQMWpUbS1KWkJ2RXBNOGpOZkdwbEZNQzR6Y0w3TFJsOFJ3MzE5UDhBZ01tQ0otX0NmYjdXeHJFY3N4ekdXVS1YUVRkTHNqeS0xMTZWcWdWSFpmdDd6VjE4TjhWQUJOVWJ6bTJTSlRtYk1rd1JoaTFBdDhZY3UxMFZkR0FFU3Fwd0thdHB4RlhWYUtHcWtpRmE5dy0ycVRqMGs5aF9z?oc=5",
           "source": "Unknown source",
-          "publishedAt": "2026-04-13T09:29:42.000Z",
-          "ageHours": 3,
-          "isFresh": true,
-          "summary": "Cardano (ADA) Price Prediction: $9.15 Billion Market Cap Meets Hashdex ETF and 424 Whale Wallets  openPR.com"
-        },
-        {
-          "topicKey": "cardano",
-          "title": "Cardano (ADA) Price Prediction: DigitalCoinPrice Projects $0.52 by December After Nasdaq ETF Entry - openPR.com",
-          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPNW1CWEw5Nk9BbjdHZDkyS3J6UzlTRE9FdDBpTUJHRHNOOEg1dU5BWjJDc3V0UVlWNU9GdXlOVHZmMV9YcE1TWklKN0x2WTJ2Y1lrMlg4S2x5X2JEbV84d2xGRkxiYTFKSUJGSW13SE9kdGpNOVB2OXRQU2E4THFuQ1RzSG9nczExei1wYjNaVHpJOVFt?oc=5",
-          "source": "Unknown source",
-          "publishedAt": "2026-04-13T09:08:56.000Z",
-          "ageHours": 3,
-          "isFresh": true,
-          "summary": "Cardano (ADA) Price Prediction: DigitalCoinPrice Projects $0.52 by December After Nasdaq ETF Entry  openPR.com"
-        },
-        {
-          "topicKey": "cardano",
-          "title": "🇻🇳 Cardano Vietnam x Bamboo Team: Cardano vs Solana Meetup - Cardano Forum",
-          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNR1hwQ0E2N25ZSk1jWTk3N0pQU21yZFpBZkQ2WHprM2lUUExxaGRLTDA0dXZCREVLYmV3UWRzMjlHR2ZmZ255cEJjRzR0TnNBZ29kWHJ5dlY5a1IxbDNGUWN6cFByd2E4NkNkZ20zSjVadjZlRmtFcGpqUl91ZWRpNXE5Y1RuS21vWDdpV3l1SHJBbGM?oc=5",
-          "source": "Unknown source",
-          "publishedAt": "2026-04-13T08:32:09.000Z",
+          "publishedAt": "2026-04-14T08:46:26.000Z",
           "ageHours": 4,
           "isFresh": true,
-          "summary": "🇻🇳 Cardano Vietnam x Bamboo Team: Cardano vs Solana Meetup  Cardano Forum"
+          "summary": "Governance Hour #3 - Deep Dive Into Pebble + Gerolamo - HLabs 2026 Budget  Cardano Forum"
         },
         {
           "topicKey": "cardano",
-          "title": "Cardano基金会降低ADA依赖并大幅提升比特币与现金储备占比 - CryptoRank",
-          "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1DVElHRl9XSHM4MmZqdnNLa0wxQ05jNVlBcnlwb1laYkJQM21ldF9lZ0xnbUhTVjJWcVg5ekQ2NklIaW5GWElJM0FUdHhhZ2p4YkxzeU9WVjQ?oc=5",
+          "title": "Developer Office Hour #57 - Intent-Based DApps with GCScript & UDC - Cardano Forum",
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQVkxlNTYzaVRubEJadkpsUDJLeVFqbVZkTXRPVGo1cWJkaGlhcGlhaU02U0pzanNscXBaM3FrSV9YVEVfbF9xSnRtRW85QS01bFlmNUMycU9OUm5SNzRwTW9YZ3MtSXppRi10U1BGblk3NzJWTTYwaUx5SEFGcjJNZjFaOTA4RUdKYk1iSFd2TTlqVWhyQjAxUlczVTU?oc=5",
           "source": "Unknown source",
-          "publishedAt": "2026-04-13T07:18:56.000Z",
+          "publishedAt": "2026-04-14T08:31:21.000Z",
+          "ageHours": 4,
+          "isFresh": true,
+          "summary": "Developer Office Hour #57 - Intent-Based DApps with GCScript & UDC  Cardano Forum"
+        },
+        {
+          "topicKey": "cardano",
+          "title": "Crypto News: Pepeto CoinMarketCap Update While Cardano Price Prediction Improve as Bitcoin Breaks $74,000 - markets.businessinsider.com",
+          "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOZGE4cGU5dzJON0xJNDlOY2N2Qm9zTC1lNEQ1cEkxbUJqR3liQUdGQjVYV0tPRHJnVmRmUVRhMFoyRkloREZ1QWFEeTBGN2Npb2JNeW0yeDNaM1NNWDlpWUNPOWxTaG9WcVNfVGNobzFXMWlQM2FXTzdja1VLNDJBc3E3R2VwM2tSeFFKcjFaM3dxR2xoYy11RUNPUzBiMHR3aUVYSWp0QS0tT1JqMGV6SzFmdUwwcHp2LXFyWmZ6ZkpqR2pOTy1GOTBVRU9hWGpFY0Z1SXFEdlVQeV9SRjRLWkx4YnJ2OHhwVWpDV0dfTnlhM0Iy?oc=5",
+          "source": "Unknown source",
+          "publishedAt": "2026-04-14T07:54:45.000Z",
           "ageHours": 5,
           "isFresh": true,
-          "summary": "Cardano基金会降低ADA依赖并大幅提升比特币与现金储备占比  CryptoRank"
+          "summary": "Crypto News: Pepeto CoinMarketCap Update While Cardano Price Prediction Improve as Bitcoin Breaks $74,000  markets.businessinsider.com"
         },
         {
           "topicKey": "cardano",
-          "title": "Cryptocurrencies Price Prediction: Aave, Solana & Cardano – Asian Wrap 13 April - FXStreet",
-          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOdGI4a3dJTktTNjdjSHVPNklYQjMwUGdKRUFiSGFZR2lfTVpzbkdYS181YkhlTnF5S2pmLWNJSlc1ZWZ6WWZHT0x0V3NvR2pxVVFlWm5SWGNKR0pleDZvTnBnZmliQzE2WVROSFA1dEJYUy1hYlRZNkdJLXFSb2h0elNGZkFQZWszR3hxSHpoQmhtVDVPeWRWUjhRX1lLb0ZibE5sVVViX3cxQlc5NFNqTEJ3WlBxWWwzdVpLQkUtLXc5V05nVFdscFkwRm1udw?oc=5",
+          "title": "A.i. Creates Smart Contracts On Cardano! Use, Utility, and Accessibility Skyrockets! Mass Adoption Will Follow When The Word Gets Out - Cardano Forum",
+          "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPTEM1bExTdU1pcmowVjNvWVZaWlc4YzFOU3doUGhaTThEcjF3N0R3TTF3Wk9vTmhpRmd6WlJHX0xYaDNyMDd3a3dqeUlOY05VUWpkV3FtVExCZjhHNmUwck1Sckdmb1dhdG5XcWs0djhHYkhkSEY4a2J1OG5NLURoWElaTFZ2VFRReWNqVHJqdUZMQUxTVHhuVmRjbVlJdmdHZXZFV3NRazJWbGQ5V01rRmM2eUFGcUN2bEk4Mk1EX3FfS21oTzVBekJtS3UxTktuaGhUS3NZNU1GMVBvaUJnRWVGckFVODZZMHROSmRuTDRKZnBLZlE?oc=5",
           "source": "Unknown source",
-          "publishedAt": "2026-04-13T06:16:28.000Z",
-          "ageHours": 6,
+          "publishedAt": "2026-04-14T03:08:19.000Z",
+          "ageHours": 9,
           "isFresh": true,
-          "summary": "Cryptocurrencies Price Prediction: Aave, Solana & Cardano – Asian Wrap 13 April  FXStreet"
+          "summary": "A.i. Creates Smart Contracts On Cardano! Use, Utility, and Accessibility Skyrockets! Mass Adoption Will Follow When The Word Gets Out  Cardano Forum"
         },
         {
           "topicKey": "cardano",
-          "title": "Cardano Price Forecast: Is ADA heading for deeper losses after last week’s 5.5% drop? - FXStreet",
-          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNb1Z4eTBHblVCbHRsV1dWQXJIblhIZllCWVplVFUxLTJuNnNCdVJwTjNNWTJjekxFY0wxOEQ0VURoWWlYcDZ1eHB1NzhoVFphOHpRNVFmeHBKQWtQcTFZRnBMSUlkWGsyOVNfeFJVZXR6TU5wTHlSelFPZHM0TVFvS01VSmdPc0p5emVueHB6RWlyZjhiVElXOHVMWGV2VTRlUzRMRVRsYVE5bTJNLUhsY1E3ZEFkOFpiTHgxVUZYN3pkRXZCbXAyRXVOQ0FVUQ?oc=5",
+          "title": "Got $1,500? This Is Why I'd Choose XRP Instead of Cardano for the Coming Decade - Bitget",
+          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5JLUwtLXZBN0JEY1luTGRoOVh0MVBGcjJ6VGlLVTBDY1hucXNaY3hPNUtVUlU4b0VzaGU1UEgwYXpCODQzODhCWlRWbTRoRnhxY1h1MW1EOVhIdzdUOWfSAWNBVV95cUxPdGlhY1htMkYybXZWcERiLVRlejItZ3pWNHdEWUNBUjhJOS1BeEFOYThpNnFFZU5IYlRfWm5LN2NEdEVITm1ZUVhXa0VvV0g5OXNoMm1RajJZU1g5ZXN3bUlZbzg?oc=5",
           "source": "Unknown source",
-          "publishedAt": "2026-04-13T04:33:46.000Z",
-          "ageHours": 8,
+          "publishedAt": "2026-04-13T18:42:39.000Z",
+          "ageHours": 18,
           "isFresh": true,
-          "summary": "Cardano Price Forecast: Is ADA heading for deeper losses after last week’s 5.5% drop?  FXStreet"
+          "summary": "Got $1,500? This Is Why I'd Choose XRP Instead of Cardano for the Coming Decade  Bitget"
+        },
+        {
+          "topicKey": "cardano",
+          "title": "Cardano Price and Protocol 11 Hard Fork Converge as Pepeto Presale Hits $8.1M on 100x Buzz - openPR.com",
+          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPaDhqc0pHZzdHWFhwLXIxVWpDbWtaTnZIdFFINWpFYVpXczl1TU9SZVY4LUZlWEgtaGRKMUhxM3hRZFctTktmWnc2T3JoXzJ3RlhDVkY2QmhMcTlnTXFKeUJFTG1DRXE3M2FwTW00MVBfZ0VVajZjeUxnLWpBYWxTemh6Q3VYc0Nsd25uN1AxUVdHNEdnVFRWdEhn?oc=5",
+          "source": "Unknown source",
+          "publishedAt": "2026-04-13T17:49:54.000Z",
+          "ageHours": 19,
+          "isFresh": true,
+          "summary": "Cardano Price and Protocol 11 Hard Fork Converge as Pepeto Presale Hits $8.1M on 100x Buzz  openPR.com"
+        },
+        {
+          "topicKey": "cardano",
+          "title": "Cardano Founder Says Crypto Parties Won’t Boost ADA Price - CryptoRank",
+          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxONF9HamFpSWx3N1kxNUQ5dEpyYUZtSlBIQy1leXRiY2JHNDZmSVUxbHVIQ19XaDJhaE9XSU1JamRvUno0S2Q3bGlhOFZabGgtMmx0bUg4R2gtd2hiSUFhZ29lTzRwOFRxSURld1BZam1mRktHdE96X1lxTmpFenpWdnJwX3h0WTFXZ3hMZjBEem5JWWcwNjNvS25R?oc=5",
+          "source": "Unknown source",
+          "publishedAt": "2026-04-13T17:39:39.000Z",
+          "ageHours": 19,
+          "isFresh": true,
+          "summary": "Cardano Founder Says Crypto Parties Won’t Boost ADA Price  CryptoRank"
         }
       ],
       "errors": []
@@ -148,7 +198,7 @@
         "https://news.google.com/rss/search?q=%22Midnight+City%22+Cardano+OR+site:midnight.city+when:14d&hl=en-US&gl=US&ceid=US:en"
       ],
       "freshCount": 0,
-      "updatedAt": "2026-04-13T12:37:29.869Z",
+      "updatedAt": "2026-04-14T12:35:26.293Z",
       "items": [],
       "errors": []
     },
@@ -161,7 +211,7 @@
         "https://news.google.com/rss/search?q=site:iohk.io+%22Input+Output%22+when:7d&hl=en-US&gl=US&ceid=US:en"
       ],
       "freshCount": 0,
-      "updatedAt": "2026-04-13T12:37:29.869Z",
+      "updatedAt": "2026-04-14T12:35:26.293Z",
       "items": [
         {
           "topicKey": "iog",
@@ -169,9 +219,29 @@
           "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPOEZQLVEwTkVseHFGeDVCM2VRNi1zeS1qVEJFMXVaVlFqdmdkcmF1X3hoV1ZBbDNEejREYU9DWVBacWxhcUJFMlRSWnk3TFVyNVdSTkIyOFVyakVObXNuNFVVbHI1RVZSLVVpWnpYbTdJT2NRUTZ3RzNKbWppXy1lWFVDbTNIa1FYdGRzUDFGSjdpc0NDNkxZWEN6SkZjancySERyYUVWZHZGVmctNGxOYW1Ub2FoaHhhUTdjQTFB?oc=5",
           "source": "Unknown source",
           "publishedAt": "2026-04-10T15:44:30.000Z",
-          "ageHours": 69,
+          "ageHours": 93,
           "isFresh": false,
           "summary": "Cardano's Governance Overhaul and Treasury Fund Spark Institutional Interest  AD HOC NEWS"
+        },
+        {
+          "topicKey": "iog",
+          "title": "Cardano's Whale Strategy Emerges Amidst Internal Realignment - AD HOC NEWS",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQNDQzRHZVdDlUSVQtUEtwbVhPNWxKeUtsVUxQYXNxY0hQb3BTSTZOQXlidndfSjdDOGVwOHR4WDhTNjRCUjBwdXBnV3JpdVpsa25qVUFfeGNVR2xQaFBSMTBUdVBmQUNDUlJRanowQ2VuUE9WWVBjSTExSEllVG9fdER2Z0Z5aXo5RTdaQy05UGo3Uk4yNTU0OVE4UFVpekFPcktGMGxYNTlUalZyVG1QOE8tai0?oc=5",
+          "source": "Unknown source",
+          "publishedAt": "2026-04-10T15:44:30.000Z",
+          "ageHours": 93,
+          "isFresh": false,
+          "summary": "Cardano's Whale Strategy Emerges Amidst Internal Realignment  AD HOC NEWS"
+        },
+        {
+          "topicKey": "iog",
+          "title": "Cardano's Institutional Buildout Faces a Price Disconnect - AD HOC NEWS",
+          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQMGVRX000UWx4a2Rfa1o1c0RnVUZYWUo2UTR0RldoT1ZydXhaeUE2V1N3bXJVTUlMNHp5aEtaMkJPZXd0Nm5nZEhKYW1vZU5Zcy16dVRLQkhhNUc5d3VZS3BjTER1M0kxTTJWcXdjcS1PYXRxNnNib3ZqQ0FYNHBCZjlrQ25XXzhwVFdOWktGb0dzT0ZJLU4xaUw0NmhxRk55TU9kQkdQTUtweEg1d3lvNjNhcnpHUTQ?oc=5",
+          "source": "Unknown source",
+          "publishedAt": "2026-04-10T01:44:01.000Z",
+          "ageHours": 107,
+          "isFresh": false,
+          "summary": "Cardano's Institutional Buildout Faces a Price Disconnect  AD HOC NEWS"
         },
         {
           "topicKey": "iog",
@@ -179,29 +249,29 @@
           "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9EcHd5YWRJaWl2MWxURXZNVnZFX1ZJZVBIaUxaWEpuZXVqNWt1Q0ctOE9TaGZzd2Z5RWxGdlhMaEJtNHJSWmZRZWttUWp4eWJPaGpiakVLbzFOUQ?oc=5",
           "source": "Unknown source",
           "publishedAt": "2026-04-09T12:45:38.000Z",
-          "ageHours": 96,
+          "ageHours": 120,
           "isFresh": false,
           "summary": "Hoskinson Rejects Claims That IOG Has Abandoned Cardano  Cryptonews.net"
         },
         {
           "topicKey": "iog",
-          "title": "Crypto News Today: Cardano’s IOG Halts Acropolis, Redirects 4.1M ADA to Growth - Coinpedia",
-          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOSkRNeG5MLVZfNTlqQ2htdWhsZl91RmZLWmR0czRyRTMtNFczbDlNWlFDT1NmT2hkSTh4amdnRnEtWWdxRTRHc1BhRjVScTh5Z0dobGVZTjlxbEdhcDBRVHozU1J0bHFIN2RQRlhNVVV0bVRJb1RXZ2J2RFhmZWlEWnN3ZEtzX3lScVVvZXNuUGtZQ2syTG1qZ04yblhpWjBYTWw0dGl30gGrAUFVX3lxTE9rTDllb0tibHpKV0lrOWVMRHlSM3pKNEZOdHFXUG9nNjNPQXp4RVYtYnkyc1pEOXFtSjBpTnFQVkQyWUNUNXo4b2hweGprMEI5S09PVVJ0V19ZMXV6OWtsaVgtSkt1RU0ybGFFTHpISTI4VENjMGVDcVltLVFqeHBoMVRKdjhrcnBzR1JHcFFRSVV4YW9vWHNHS0hOYzdjYXpGUmFjUENIREF2OA?oc=5",
+          "title": "Cardano's Dual Engine: Treasury-Fueled Fund and Streamlined Development Drive Institutional Push - AD HOC NEWS",
+          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNSTF5YkRDQV9keEx0TlFCc0hOWFBpTl9IRkZST1JSNFc0djh0c1BWZGpQTWRwYy1nZUNTY0pUUUNjQ2txTkQ5dF9YU3dtb2pFb2Z6V0tUY3FRVVJFVlRlRWpvOVdGVHNiV1lMTGxCWk9nWC1QeURpOVIteWR4Vkxfem5BTXdVUlg2c2pEY29zMnRmdUdRLVFlaWR6Y05tUFpPX1ROZVpZZUowcU40ZjVpOWJ4Z2pzZmVFU3hVZVM0ck1xQQ?oc=5",
           "source": "Unknown source",
-          "publishedAt": "2026-04-08T11:29:00.000Z",
-          "ageHours": 121,
+          "publishedAt": "2026-04-08T23:04:50.000Z",
+          "ageHours": 134,
           "isFresh": false,
-          "summary": "Crypto News Today: Cardano’s IOG Halts Acropolis, Redirects 4.1M ADA to Growth  Coinpedia"
+          "summary": "Cardano's Dual Engine: Treasury-Fueled Fund and Streamlined Development Drive Institutional Push  AD HOC NEWS"
         },
         {
           "topicKey": "iog",
-          "title": "Cardano IOG Halts Acropolis and Tiered Pricing Development, Reallocates 4.1M ADA to Boost Cardano Growth - Cryptonews.net",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1DQWtrbUU5elJGdnpIaWhzdHY1UGRiSE0tcFdtOEJjRm1lWGllQjZ2YlZnYzFRMFRwcTdoZVJEZXlnQ1VuLXhIVDlwZUp6azhJUzBSRkdod3cxdw?oc=5",
+          "title": "Crypto News Today: Cardano’s IOG Halts Acropolis, Redirects 4.1M ADA to Growth - Bitget",
+          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9WWTFQX3Jzbm5fdUJ3ZHRJMkxHLVBQR3pYcDNYYzdZRG1Zd29JLV9xbFJqd19qQnIzTlFBQ1RmdW9wX0dRZHJUSFpUc1FXUmR3S2dnQVF1d2tXdk82M1HSAWNBVV95cUxPMUtMYTQ5cUdGU24tWHlNNFczU0Qtb0x6N1JZMm1oMzQ1cEhrLXZzeExjTEk0YjRSSEhDbk1VckM3M09ybE1IQmtqWnhfSk51eEE3TmZ5alNRX19Pb2Y4amUyck0?oc=5",
           "source": "Unknown source",
-          "publishedAt": "2026-04-08T09:43:56.000Z",
-          "ageHours": 123,
+          "publishedAt": "2026-04-07T21:51:48.000Z",
+          "ageHours": 159,
           "isFresh": false,
-          "summary": "Cardano IOG Halts Acropolis and Tiered Pricing Development, Reallocates 4.1M ADA to Boost Cardano Growth  Cryptonews.net"
+          "summary": "Crypto News Today: Cardano’s IOG Halts Acropolis, Redirects 4.1M ADA to Growth  Bitget"
         }
       ],
       "errors": []
@@ -214,16 +284,26 @@
         "https://news.google.com/rss/search?q=Intersect+Cardano+when:7d&hl=en-US&gl=US&ceid=US:en",
         "https://news.google.com/rss/search?q=site:intersectmbo.org+Intersect+when:14d&hl=en-US&gl=US&ceid=US:en"
       ],
-      "freshCount": 0,
-      "updatedAt": "2026-04-13T12:37:29.869Z",
+      "freshCount": 1,
+      "updatedAt": "2026-04-14T12:35:26.293Z",
       "items": [
+        {
+          "topicKey": "intersect",
+          "title": "Updated Cardano Constitution: ratification outcome and effective date - Cardano Feed",
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxObXZVNkRfSXF0eHN2WUZOWUV0Q3pzcHdYR3FNNzVnaUxHbzdYWUJ0b1NMQXFoSnFkY2lIN3hKdlEwcWUtMWxjWmh5czVyUTM0azVOUTVKZXcxR21wOXBzSWJQVGlLTjIxTmtmOTlfcWhDM0k4aGRyNFNObUJYN1otSHBzMEhQWHF6WjQ1LU5rOHVTUW5yMXotQUtYWUR5YnA4VERF?oc=5",
+          "source": "Unknown source",
+          "publishedAt": "2026-04-13T13:40:01.000Z",
+          "ageHours": 23,
+          "isFresh": true,
+          "summary": "Updated Cardano Constitution: ratification outcome and effective date  Cardano Feed"
+        },
         {
           "topicKey": "intersect",
           "title": "Cardano Hard Fork Approaching: Here Is Latest Update - U.Today",
           "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBrR0I4Z3BhVkZfd3plRUk4RENFdmlCLXhuOXJxZU5XWUMtbVdaM29WQlNUdnJkYXZJV09pQkpHTzBzeHZpVU9GbW8wREg4S3RvOWNpWFc1eG9sSl9NTTM0blh3eDVEcXBmT002QlM1c29Vd3hTenfSAXtBVV95cUxQdGJOSktQdl9qMTNRSE1hVDJPUFFUakVhOVVKWDhlOFBfZlFDNmF3OGhqYXZGQnAyeUtET1d1RGRPQ0VPZ0FQMWlDcElHdjNOY3JiaHE5alpmcjRISkFLc0JHVDZHQVpQOXhWbkI1dDhFLWVobzN5dk5JRm8?oc=5",
           "source": "Unknown source",
           "publishedAt": "2026-04-11T15:46:24.000Z",
-          "ageHours": 45,
+          "ageHours": 69,
           "isFresh": false,
           "summary": "Cardano Hard Fork Approaching: Here Is Latest Update  U.Today"
         },
@@ -233,7 +313,7 @@
           "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFA0dzI3eEF2M0Z1YXI5ZGRXZGw5R2RZek1lMktYcGVwLWhDd0loSk5RUFNSdTZ5dlptMmdBM2FQV3NscDVzUXdQMXNDV0lHRElZcnViMHR5M3JQV2x0RmZTckRFVE5qaENQaGluVmhjWDdPYWFHbVVCZWZoNA?oc=5",
           "source": "Unknown source",
           "publishedAt": "2026-04-10T13:14:03.000Z",
-          "ageHours": 71,
+          "ageHours": 95,
           "isFresh": false,
           "summary": "Intersect weekly update #106 April 10, 2026  Intersect MBO"
         },
@@ -243,7 +323,7 @@
           "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1lRVpUQzFnQnJITzYxSFFuaktZenpySm5qN1lPRUY1TkdfcUU4LTlvLTBsSS1VbERlZGhNeTUtOG9rRkxzcW5LeUdra2hjYjMzSmsydkJMMEswV1dYdTJZdjBMNVZ2V2loaWZTeklvQnEyV1k0OW54STFIb1Fzdw?oc=5",
           "source": "Unknown source",
           "publishedAt": "2026-04-09T13:14:54.000Z",
-          "ageHours": 95,
+          "ageHours": 119,
           "isFresh": false,
           "summary": "The 2026 Constitutional Committee Elections  Intersect MBO"
         },
@@ -253,19 +333,9 @@
           "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTE5DSlRwZFY3aGdKY1BoVi1kYVBoV2dvN1lIQ1pTYTRmZjlpQ1h3V1UxbWRzWWpCMzZGdXlmeHJpZHBoenBw?oc=5",
           "source": "Unknown source",
           "publishedAt": "2026-04-09T10:36:17.000Z",
-          "ageHours": 98,
+          "ageHours": 122,
           "isFresh": false,
           "summary": "Overview | Intersect - Knowledge Base  Intersect - Knowledge Base"
-        },
-        {
-          "topicKey": "intersect",
-          "title": "Cardano Founder: AI Is Magic - TradingView — Track All Markets",
-          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPbVFraFpNSmNyemc3ZDBNalBDR0dUajdGRU1VS01mVG9HeFk4OVZMS3czZ0o0TXJ2VFl2SzBPNzhpdjJlUzRROWUzTU00cFRnR3FaUlVfMWZ4NFdHRDEtNnZnOHEwQ0hCMUd6cUFUSkwyTkRuRklWbUVuak9zcHc3Q21CemR2RFBzMWphR0lR?oc=5",
-          "source": "Unknown source",
-          "publishedAt": "2026-04-09T08:50:00.000Z",
-          "ageHours": 100,
-          "isFresh": false,
-          "summary": "Cardano Founder: AI Is Magic  TradingView — Track All Markets"
         },
         {
           "topicKey": "intersect",
@@ -273,7 +343,7 @@
           "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQWWNwTVViZDlBTWg5c0xXYVc1blhVbmRSUzJYOE1ud1c3WDFxMWJPMFVxR0dqLWlBNmV4UUJvTUlfZEQ1bEJCNEFsY0sxTWJhZHhyLWIyQURjQXF3X21aRzZiRWN4TmQ2MHVjQng1U0xET2lNN29xeEJsTnFpRlBKY2czNVhKMzVEZkVYTTBFMUhDYURCWXJ1dUpGdThMN3BmVVZTYVpOZ1lCT042VldhVUNBT3dtZ25JNjBtUDczY2tRczFIX0JRejd4VHNKUThCdGdBWVY0LWtlTTVGREI2c0JrQQ?oc=5",
           "source": "Unknown source",
           "publishedAt": "2026-04-08T20:42:40.000Z",
-          "ageHours": 112,
+          "ageHours": 136,
           "isFresh": false,
           "summary": "Meeting Minutes April 8, 2026  Intersect MBO"
         },
@@ -283,7 +353,7 @@
           "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5IRHgtOGFiNUpTZWhVbjFUWjdQaDBBZG9QWTJXemg0anZ1czFSUktMenJ0Y1NLMnNLdEhiNlJUOUd4UVN3STlEMEowQWZ3ZXpDaFY1N1dNd09aOWIxS0Q4cGVVVDRMY0JDT3QtejY1UmFhckczbllQaXNn?oc=5",
           "source": "Unknown source",
           "publishedAt": "2026-04-03T07:00:00.000Z",
-          "ageHours": 246,
+          "ageHours": 270,
           "isFresh": false,
           "summary": "Intersect weekly update #105 April 3, 2026  Intersect MBO"
         },
@@ -293,7 +363,7 @@
           "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9USEpmNUM3aEN5UmxRVmFCeDU4MFFTODBUUUtZOXJuUkpQaDdzWHBWTUJleXRKVk5UUjNIaGFhVHJhVS0wVUdLUTlRWVFndnFOc290dkliN3RjMTlpV2FwSXJYbGxkYkpPSkVqRVcza0RrcHU4bmc?oc=5",
           "source": "Unknown source",
           "publishedAt": "2026-04-01T14:33:32.000Z",
-          "ageHours": 286,
+          "ageHours": 310,
           "isFresh": false,
           "summary": "Intersect administration services for 2026  Intersect MBO"
         }
@@ -308,88 +378,88 @@
         "https://news.google.com/rss/search?q=%22Charles+Hoskinson%22+when:7d&hl=en-US&gl=US&ceid=US:en",
         "https://news.google.com/rss/search?q=site:youtube.com+%22Charles+Hoskinson%22+when:7d&hl=en-US&gl=US&ceid=US:en"
       ],
-      "freshCount": 6,
-      "updatedAt": "2026-04-13T12:37:29.869Z",
+      "freshCount": 8,
+      "updatedAt": "2026-04-14T12:35:26.293Z",
       "items": [
         {
           "topicKey": "charles-hoskinson",
-          "title": "Cardano Founder Says Crypto Parties Won’t Boost ADA Price - Cryptonews.net",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE85dzdfZFFyN1ctYmx5UkljMmFQUUptYXNGb3EwTW9XZ2tMWWFxaEFlMDUzVDd1ejBHUHBUVjY4TnVndVFEVkVHX2g1TkxodUJLQ2RMMDBISkxSZw?oc=5",
+          "title": "Cardano News: Can a Viral Presale Beat What ADA’s Treasury Debate Will Take Months to Settle - MEXC",
+          "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9BWkVNcDBLU2pMeEE4eTRkQ28tczZmckZnVWo1c1lQN21wcktjajhjZk4zQkt0cHQ3WmRJdTFsTDNGX0VJWW1RZg?oc=5",
           "source": "Unknown source",
-          "publishedAt": "2026-04-13T12:16:28.000Z",
-          "ageHours": 0,
+          "publishedAt": "2026-04-14T08:15:34.000Z",
+          "ageHours": 4,
           "isFresh": true,
-          "summary": "Cardano Founder Says Crypto Parties Won’t Boost ADA Price  Cryptonews.net"
+          "summary": "Cardano News: Can a Viral Presale Beat What ADA’s Treasury Debate Will Take Months to Settle  MEXC"
         },
         {
           "topicKey": "charles-hoskinson",
-          "title": "Cardano Founder Reveals Shocking Truth: Large Crypto Events Don’t Boost Prices - Bitcoin World",
-          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFA1ZDdVWlRkR1ZGRE1xcFpPUTNJWXRJZkF0SjJ6bVg2WC1Ea2RVNFJRT2VGRmpwYzloQjVUdTNwZFhJN3dlNnR2R01DZ280MVFVdC1HcmRJcWtZbThrQ2tUbVpxbGFSakhIZ2RsYllNNmFDQQ?oc=5",
+          "title": "Cardano Founder Downplays Event Hype as ADA Struggles for Momentum - Bitget",
+          "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1DQzJjT1ZNbTVCZ202YXlIemtnTHZ6SlhjWHJ5MVBlLUhSM2lmVGEyY0lycHJLbG0wUTVtYlJHSmtoaFM5R3ExNVNqbVpQQjBBc0U1SEFlYzFvaWZES0c0WEpUa9IBY0FVX3lxTE1DQzJjT1ZNbTVCZ202YXlIemtnTHZ6SlhjWHJ5MVBlLUhSM2lmVGEyY0lycHJLbG0wUTVtYlJHSmtoaFM5R3ExNVNqbVpQQjBBc0U1SEFlYzFvaWZES0c0WEpUaw?oc=5",
           "source": "Unknown source",
-          "publishedAt": "2026-04-13T09:55:12.000Z",
-          "ageHours": 3,
+          "publishedAt": "2026-04-14T05:45:17.000Z",
+          "ageHours": 7,
           "isFresh": true,
-          "summary": "Cardano Founder Reveals Shocking Truth: Large Crypto Events Don’t Boost Prices  Bitcoin World"
+          "summary": "Cardano Founder Downplays Event Hype as ADA Struggles for Momentum  Bitget"
         },
         {
           "topicKey": "charles-hoskinson",
-          "title": "Charles Hoskinson Questions 14M ADA Spend And Backs Global Cardano Hubs - MoneyCheck",
-          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQM1JkbDhuRFNXM2xTMmZjajlRS3hUMU4wZTQxU1BpTW56VFJyaHlqVEJIVlV2ODNRTGRnbVdaNWl5U0xtRnYyaW93TllmdUQwYnFBN0hhUkEzaURPSUM4VE9tdEZXSE42YXh4YVllLWxDUGNfejRPckduLTZsQVJBSG1Xd0NMa1F0cnVGZHVJTWFoNUIydk5hN0pmNA?oc=5",
+          "title": "Whales Are Stockpiling ADA! Angry Crypto Reacts - YouTube",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBEd1lYZnpRVEViNU5GMHVDUkh6Q0hEdjhkWGVZODl2dW9kZEg1LWNpUEFfNEVsMk9kaU01UGxuRVVmZnFab2J2bnMtRW9kemZta29aRW93?oc=5",
           "source": "Unknown source",
-          "publishedAt": "2026-04-13T07:38:13.000Z",
-          "ageHours": 5,
+          "publishedAt": "2026-04-14T01:33:14.000Z",
+          "ageHours": 11,
           "isFresh": true,
-          "summary": "Charles Hoskinson Questions 14M ADA Spend And Backs Global Cardano Hubs  MoneyCheck"
+          "summary": "Whales Are Stockpiling ADA! Angry Crypto Reacts  YouTube"
         },
         {
           "topicKey": "charles-hoskinson",
-          "title": "Hoskinson Tags CZ: $BNB and $NIGHT Can Fix Crypto’s Privacy Problem - MEXC",
-          "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1JNjNHT3JoVTVvbEk4a0VVN1dBeVRvM3NyM29VZkpDbFpQa3BYSUlZLWdsYU9DV01CdUI1R3NlamFlU01mU2hv?oc=5",
+          "title": "Charles Hoskinson says big events are not enough to lift crypto prices - 디지털투데이",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQa2pkbGViRXpUbVhwNVVBemlYY3NJZTBQZ2ZxSGlSazBMeHhOUnYwWWdFTERqakpKSUFWNksyYUx1X2FLNFFTRVF2b3NjMl9ZQTBaRzJMNlNfZUNxMFdZeEl4RC14cE1BRGpBWDdNeVFFdnZ2QnVkbzRpc1pJbTBvY0RYX3BWcmdxSldoZnVJcl80el9USUQ2Vk9kR2VmdHhXNFE0ZDNTMXpnU1IxeWxtR2dB?oc=5",
           "source": "Unknown source",
-          "publishedAt": "2026-04-12T20:19:28.000Z",
+          "publishedAt": "2026-04-13T23:49:43.000Z",
+          "ageHours": 13,
+          "isFresh": true,
+          "summary": "Charles Hoskinson says big events are not enough to lift crypto prices  디지털투데이"
+        },
+        {
+          "topicKey": "charles-hoskinson",
+          "title": "Cardano Founder Says Crypto Parties Won’t Boost ADA Price – Here’s Why - CaptainAltcoin",
+          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNZXZhS255NXpya1ZLNzEzc2ZDeUJfS1ZzRHppNzdmbmt1NHdZclJaejFDSjVhOXNhdGk5eTNTRm05VnprWXd3NFpXdjU2VzlobWYzWFdIVzR4MVF3N0x1eGJkTGhlUGY5cmdzR0VUVkFQejk5NHdKQjNNM1NDYXk2WURZaXRBeHA0VXFHWlRRUExXaE5FSGw3bkVB?oc=5",
+          "source": "Unknown source",
+          "publishedAt": "2026-04-13T21:00:44.000Z",
           "ageHours": 16,
           "isFresh": true,
-          "summary": "Hoskinson Tags CZ: $BNB and $NIGHT Can Fix Crypto’s Privacy Problem  MEXC"
+          "summary": "Cardano Founder Says Crypto Parties Won’t Boost ADA Price – Here’s Why  CaptainAltcoin"
         },
         {
           "topicKey": "charles-hoskinson",
-          "title": "No More Parties? Cardano Creator Hoskinson Proposes Radical Shift to Secure ADA's Long-Term Price Rise - U.Today",
-          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOWWVpUnpMYU4yZnM5VmlNdnFxQzhBTEpkUzh2UnpwZTY3MFBGT05DMDYyUnJNRTJjU0N2ei1GR3RJM0xaaG9sc1FQc2tPRGgyUGwzUmNVVXhfT1ptUDVpRlpCNjdjY0xqODR6X1p0d1NBSHUtWUtyQWt0eTNlN0trWVlGMzM5R0FrR2RUQUlNNDUwNUJFLUlGYjhKVFhfMUtDRjFqZnQzdjNMMzJrc0UyS9IBtgFBVV95cUxOcTlQWVM5TWVhZGFRbXl0YW1WdzJ3dmZMMEFnaG5ETUpRbEplS2pPNzM4MkRQcWJhYjlOMG80X0dyZEN6TThvRXpjcWwzMGFBRXBZcWtVR3NwZ2JyT1pVeEtwbmdlalBJX3c2VG9Tb0FtYXlpZHBQSFRGRUpJcTFieVhtTzdYaV9Uei1nQWZURnFiZVFqZllrcEU3andFVXhYeFBuSlJHZGd6YmRWUGUycjZKWUVmUQ?oc=5",
+          "title": "CARDANO ADA - 14 Days Left Until This \"Dies\"?! Big Cardano Announcements! - YouTube",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBQSS1yaUpPT2ZsVWZTVDIwaXgxLTVSQUdQTV9VRE1kR2duMnkwYkVzVTB2T1JWek9CaWdrRDhrTjRJSmI5U0JlcHJaWS1RTy1OUlRjeTdB?oc=5",
           "source": "Unknown source",
-          "publishedAt": "2026-04-12T15:43:30.000Z",
-          "ageHours": 21,
+          "publishedAt": "2026-04-13T20:30:11.000Z",
+          "ageHours": 16,
           "isFresh": true,
-          "summary": "No More Parties? Cardano Creator Hoskinson Proposes Radical Shift to Secure ADA's Long-Term Price Rise  U.Today"
+          "summary": "CARDANO ADA - 14 Days Left Until This \"Dies\"?! Big Cardano Announcements!  YouTube"
         },
         {
           "topicKey": "charles-hoskinson",
-          "title": "Why Korea is Now Leading the Global Crypto Revolution with Charles Hoskin at KBW2025 - YouTube",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE44ZFlWTWNEVzU3akxlcnZtY2w4Sm83RG5xM2M0WUZXSVVWeGxUbUZPaGlxNWxBaEluZHNYZmpxTkY3MWx5VTZ1VWJORWoxSmdscWlQc1lB?oc=5",
+          "title": "Crypto Exchange Kraken is Being Extorted By Criminals. URGENT! - YouTube",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE81OVBlY21yRmt0MmRqR1h5VXNrS004S2RoQWVMVllaeG13NEE3c0daQ01YQndZd2tVWmpRT183VG1sUURsTFdfX3hmenR3bWliZ2RlM2l3?oc=5",
           "source": "Unknown source",
-          "publishedAt": "2026-04-12T14:00:36.000Z",
-          "ageHours": 23,
+          "publishedAt": "2026-04-13T19:34:27.000Z",
+          "ageHours": 17,
           "isFresh": true,
-          "summary": "Why Korea is Now Leading the Global Crypto Revolution with Charles Hoskin at KBW2025  YouTube"
+          "summary": "Crypto Exchange Kraken is Being Extorted By Criminals. URGENT!  YouTube"
         },
         {
           "topicKey": "charles-hoskinson",
-          "title": "Cardano Price Under Pressure as Consolidation Deepens - CryptoNewsZ",
-          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPMFREYkZQNEQ3MHROMTRqdU9PRHdtR0lUZVJNNFJ3RjF4MkQ2T3lQRnBfeElMSEpPWWs1c3R2SzlNRHRzcEdHa2h5OC04V0U3aVlIcmZ1M2NILWZjbmdPVUZSaFZLZy1Udno2U21iSVRWTmhmNXl2ZFQxVTdZaXlIeTBvVEZIMEpiVnc?oc=5",
+          "title": "Crypto, Censorship, and Power: Decoding Digital Freedom - Mike Benz - YouTube",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE00WWw0SFBNWURnWXp1NlFzQ1AySGltNFFIZ1lzMmJnNHRsR21FWUhpc1hTLU10ak9ERGtydWRLa2RjeDNUd0NGMUNQRW4za1BERGdIeVZB?oc=5",
           "source": "Unknown source",
-          "publishedAt": "2026-04-12T06:06:02.000Z",
-          "ageHours": 31,
-          "isFresh": false,
-          "summary": "Cardano Price Under Pressure as Consolidation Deepens  CryptoNewsZ"
-        },
-        {
-          "topicKey": "charles-hoskinson",
-          "title": "Everything To Know About Charles Hoskinson, The Founder of Cardano - UseTheBitcoin",
-          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9aYjZLTlNsQjNvMjQtUlZGR1AyV0pXMEk1VjR0MHIycmNidTJkWTZiVWtBQ3dXTnpHZE50UGJYTXl6QzdnN2l2Zk5NMzI0QVlWcEpRWV9ueEZsZDE5SmJKUktoa0tObERaYjNQakRTLXJ3aEFBYjJhY0dUV1pFQQ?oc=5",
-          "source": "Unknown source",
-          "publishedAt": "2026-04-12T01:23:39.000Z",
-          "ageHours": 35,
-          "isFresh": false,
-          "summary": "Everything To Know About Charles Hoskinson, The Founder of Cardano  UseTheBitcoin"
+          "publishedAt": "2026-04-13T18:30:06.000Z",
+          "ageHours": 18,
+          "isFresh": true,
+          "summary": "Crypto, Censorship, and Power: Decoding Digital Freedom - Mike Benz  YouTube"
         }
       ],
       "errors": []
