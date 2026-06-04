@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-03T13:57:47.757Z",
+  "generatedAt": "2026-06-04T13:24:51.518Z",
   "freshnessWindowHours": 24,
   "topics": [
     {
@@ -11,7 +11,7 @@
         "https://news.google.com/rss/search?q=site:forum.midnight.network+Midnight+when:7d&hl=en-US&gl=US&ceid=US:en"
       ],
       "freshCount": 0,
-      "updatedAt": "2026-06-03T13:57:47.757Z",
+      "updatedAt": "2026-06-04T13:24:51.518Z",
       "items": [
         {
           "topicKey": "midnight-network",
@@ -19,7 +19,7 @@
           "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5CTWpLWS1mOWN3TkJtNUtUZzVrdG5tODRFYWk4Q1pRQUdDS01EbnYwanZVd3hraHpFaGxxbndwaGhfTFNVLWZrcG1CczRMZ0xiWVMyOWItZDJoTjJtMTdVcVozVXlOcHRO?oc=5",
           "source": "Unknown source",
           "publishedAt": "2026-06-01T01:02:45.000Z",
-          "ageHours": 61,
+          "ageHours": 84,
           "isFresh": false,
           "summary": "Create your first Midnight contract  Midnight Docs"
         },
@@ -29,7 +29,7 @@
           "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5jN2IzS0p4ODR0TzFRczhJTlhUSXRtUnJfLVlPRllHU1ctRTl3YUIyaUtXM2JXUHEwY2g3QW1rVUdBOWVVQ0daZGZDRS1SLVJwazdMRVdPZ3pfTlgzSG1acQ?oc=5",
           "source": "Unknown source",
           "publishedAt": "2026-05-29T18:58:43.000Z",
-          "ageHours": 115,
+          "ageHours": 138,
           "isFresh": false,
           "summary": "Proof Server  Midnight Docs"
         },
@@ -39,7 +39,7 @@
           "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1ZdVRwRERsWnpxbERZTXRMaWcyWVdSWWMwTEdZbHZIZnBfcEF4ekZ4cm9ySHBSWWZzLTFobUhGYnUtUmxFWEhYamZpdjhnM2YzV1kyMWlrYXMtMnliTHNEVXhwNUc3ZnFoLVE?oc=5",
           "source": "Unknown source",
           "publishedAt": "2026-05-29T18:58:43.000Z",
-          "ageHours": 115,
+          "ageHours": 138,
           "isFresh": false,
           "summary": "Install the toolchain  Midnight Docs"
         },
@@ -49,7 +49,7 @@
           "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1uNjM4NFlfdlMzVmhwNEtaemh2d3E3TXBWUW51WkNyUHlFenItQ3piTTlNbFlfZDlRTWdnYmdrSUlLWlVDSTM3NlJHeTg1X2dnd2UyQTc4WQ?oc=5",
           "source": "Unknown source",
           "publishedAt": "2026-05-29T18:58:43.000Z",
-          "ageHours": 115,
+          "ageHours": 138,
           "isFresh": false,
           "summary": "Zswap  Midnight Docs"
         },
@@ -59,7 +59,7 @@
           "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQNlVNTHVvY3h2RDNpVGRBQ1lLcFZVMkU5bFlyUGNER2NmY2kyQVNFSGNjMm9NMl9zbE9EcDhiVzRxUkFHc0Q5ZHJrUzJ4Z2NCU24xbFI2Z0FYbFRFaFR2Q3VpMXV1bmdDQklZOFB6UkNyQ1FxSWdmX2h2M3J0UE9hbQ?oc=5",
           "source": "Unknown source",
           "publishedAt": "2026-05-29T18:58:43.000Z",
-          "ageHours": 115,
+          "ageHours": 138,
           "isFresh": false,
           "summary": "Fix package repository access failures  Midnight Docs"
         },
@@ -69,7 +69,7 @@
           "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBlVF9MZTg4eHJoNGJaZlRmLVcxR0U2T3hQUzlzSXl4dnBzSFVxdG42d1ZXNVlNS3JIMHNrMWp6M1FzWGx3N3hzVkVkV201QQ?oc=5",
           "source": "Unknown source",
           "publishedAt": "2026-05-29T18:58:43.000Z",
-          "ageHours": 115,
+          "ageHours": 138,
           "isFresh": false,
           "summary": "The Compact language  Midnight Docs"
         },
@@ -79,7 +79,7 @@
           "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9pRDctOVZ0QVYwbVpsa3lYcGlsZks3RnBiQVkzbE1BN0o5ak94aXp5aTFlVlVjaF9yX2ZhSXhiUllRQjRXX05YVlVjVTJnUEFzUW1TTzQwT3k3TWxKUU1kdTFOTWJxSGV6?oc=5",
           "source": "Unknown source",
           "publishedAt": "2026-05-29T18:58:43.000Z",
-          "ageHours": 115,
+          "ageHours": 138,
           "isFresh": false,
           "summary": "Create a React wallet connector  Midnight Docs"
         },
@@ -89,7 +89,7 @@
           "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBHUnY2OF8wc201cHh6U2tTUmIwUEhQUl9BTmFXbXlNTktjX0hIcHZRUEVKYi0tSDd5enhxNXJFcDVpUjdUUGJrakFIVVdyaDlTWEVCLTJ2Vzk0ay1FdE00?oc=5",
           "source": "Unknown source",
           "publishedAt": "2026-05-29T18:58:43.000Z",
-          "ageHours": 115,
+          "ageHours": 138,
           "isFresh": false,
           "summary": "Deploy the hello world contract  Midnight Docs"
         }
@@ -105,87 +105,87 @@
         "https://news.google.com/rss/search?q=site:cardano.org+Cardano+when:7d&hl=en-US&gl=US&ceid=US:en"
       ],
       "freshCount": 8,
-      "updatedAt": "2026-06-03T13:57:47.757Z",
+      "updatedAt": "2026-06-04T13:24:51.518Z",
       "items": [
         {
           "topicKey": "cardano",
-          "title": "Cardano’s Most Important Analytics Platform Is Shutting Down After Losing 5 Executives in One Year - Cryptonews",
-          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE4xT2ZnVnlKaFk3Rk1Bb2JJekRnZERIOWtZUkxJNGFsWGlMbWZHUlN0SGlSeFY0d3hleG5haWdEOXNKczJJQ25ValZ2U25nSW9fTDJncHRSc3ZIVFc2WURvYXhWZjZxdDFqWTlTZXB1a1NsLW1h?oc=5",
+          "title": "ADA Crashes 12%: 'The Markets Are Really Bad, Taking A Break', Cardano Founder Hoskinson Says - Benzinga",
+          "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPWG9jeWFUWVZMdGNYWmwtQ0pZcTBUXzNXUk9mYkR0RHNhSm1DQnlDQWRJMENGckRSVjNnMFBOX2ZxMVVyRlN1Q0V5bkUwVlNQWmplR3pIQkVTd1B4aDNielBLM3RVWU43VXJkQ2YtQ1VpYkd4U2xDSWVvVnRUbnktQmZJaU9Gem5RU3h6eEJZOVpIc00wejNaNnN1eUE3Z3g5ZEpXTS0wNTRrRU5yRHA3LUdiNDNpZnk2MzdLWl9ERzFHM2dBckplbHhSYUpZbTNHWXFrdmtubU1Hc1ROUGwtQWd1dw?oc=5",
           "source": "Unknown source",
-          "publishedAt": "2026-06-03T10:48:26.000Z",
+          "publishedAt": "2026-06-04T12:22:16.000Z",
+          "ageHours": 1,
+          "isFresh": true,
+          "summary": "ADA Crashes 12%: 'The Markets Are Really Bad, Taking A Break', Cardano Founder Hoskinson Says  Benzinga"
+        },
+        {
+          "topicKey": "cardano",
+          "title": "Cardano founder Charles Hoskinson takes \"a break\" - exposing who really controls ADA's next move - CryptoSlate",
+          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPYk1sWlJyR1hVX3o2bFN1ckd6TDJVRzZMdlJLenNtRC16UVpyYVZ3WUh3bE9QcW16WHRCUkcwd29tVWNXRENqWHRTNkZmTEYzMnk2UGVyLUxoMlEyMkY0Y1BMVVpCV2VxTzZveEFYMHZibl9RR0pWVVFHLWFpNjM3emJzUEZTV0F0YUxXQ0RjU3lEQXNJNk5F?oc=5",
+          "source": "Unknown source",
+          "publishedAt": "2026-06-04T11:01:49.000Z",
+          "ageHours": 2,
+          "isFresh": true,
+          "summary": "Cardano founder Charles Hoskinson takes \"a break\" - exposing who really controls ADA's next move  CryptoSlate"
+        },
+        {
+          "topicKey": "cardano",
+          "title": "ADAUSD – Cardano Price Crashes after Co-founder Warning - MarketForces Africa",
+          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOVUw5VDRwdGdrazcyRVZQQWVybzdXbFVjdFZCanI2blpnTDRYUmJLYndOUGZQTDEzeUdjVlV3bnZFRGtlZGR1VFZKcEkyV1VsTXdxR1BhVnN3WTRvWjE0Y1BiMmFqaGNGaXMyZ3lmTnVtZ09tOUVTdC15c0wzdlA3MVF0NGQ1bkU?oc=5",
+          "source": "Unknown source",
+          "publishedAt": "2026-06-04T10:45:49.000Z",
           "ageHours": 3,
           "isFresh": true,
-          "summary": "Cardano’s Most Important Analytics Platform Is Shutting Down After Losing 5 Executives in One Year  Cryptonews"
+          "summary": "ADAUSD – Cardano Price Crashes after Co-founder Warning  MarketForces Africa"
         },
         {
           "topicKey": "cardano",
-          "title": "Cardano Platform TapTools to Shut Down Operations - ForkLog",
-          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9nay1yTWNwNy1KTENCRUhVYXg1R0dZTEZ2Sktiek1IejhXY0ZpSy1UQ0RBVUliUFZyTnhJbWVHdlRYR2hldkxYSnRyWm9nVjMtM2J2NXg4bENnU3JmLTU1bjJ3aFFub0JOeHJqSl9MYlhZODFvMjdIZEJ3NjlEdw?oc=5",
+          "title": "Cardano’s ADA Plunges Below $0.20 as Founder Hoskinson Steps Back, Ecosystem Faces Collapse - CryptoRank",
+          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNQ0IyUjhzcVFMcVloQnRwODNiRHVGWVZ4SFU2ZDVPVi1aNDBWXzR0WUNTRFFDak5LazN2M2JseFo4OUx1NS1EQ1RPcTFHRjY0MEF1V1Z6NDB5QUdnUDZXN3EtZk1mNjJfZzZxRWVjczJEamI1ejZGdXdXYnNibXpDY1NCY2ZtbWx1Y1M1WkF2OA?oc=5",
           "source": "Unknown source",
-          "publishedAt": "2026-06-03T10:12:05.000Z",
-          "ageHours": 4,
+          "publishedAt": "2026-06-04T10:29:50.000Z",
+          "ageHours": 3,
           "isFresh": true,
-          "summary": "Cardano Platform TapTools to Shut Down Operations  ForkLog"
+          "summary": "Cardano’s ADA Plunges Below $0.20 as Founder Hoskinson Steps Back, Ecosystem Faces Collapse  CryptoRank"
         },
         {
           "topicKey": "cardano",
-          "title": "Cardano Price Outlook: ADA Nears 6½-Year Lows Despite ETF Optimism - ig.com",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQOUdKa0hfOUk0aVMycHlrY0E0c2hNYU02RFV6UUFuVFZLalBFM3kta3dLa3IxdzAwT2NJZnptVWRBVFQyY2dWNVlfZFVGbVFYOE43OVhJc1pYNXVsWGJ2S3lvcEdHNjcyNGtURlg2OEVncUZDdWFyV0ltUFhJZ2RmczRNMEpXbDdzNkh1NUFSdUJia1E1bmlVVV91Z3BNaFI0djJHUEhudEVtNkZ4dDllRkJfWHA?oc=5",
+          "title": "Cardano (ADA) Drops 3.92% Amid Ecosystem Concerns, Technical Breakdown - CoinMarketCap",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE96bzJxQ3ZuNXNuU2FEVnFZYjFxMnRRaURTbmlLdDdGa0JPMi1iSEt6R195ckVfQjJ2MFlGblVncTVMVWpacF9CclZhNW81S3MteTN4clpDMWtaSlVRZzdDQ0tnaFBxTnU3NVNITGlzaTg?oc=5",
           "source": "Unknown source",
-          "publishedAt": "2026-06-03T10:11:43.000Z",
-          "ageHours": 4,
+          "publishedAt": "2026-06-04T10:05:00.000Z",
+          "ageHours": 3,
           "isFresh": true,
-          "summary": "Cardano Price Outlook: ADA Nears 6½-Year Lows Despite ETF Optimism  ig.com"
+          "summary": "Cardano (ADA) Drops 3.92% Amid Ecosystem Concerns, Technical Breakdown  CoinMarketCap"
         },
         {
           "topicKey": "cardano",
-          "title": "Cardano Founder Charles Hoskinson Says Crypto Is 'Near-Perfect Complement' To AI Agents—Here's Why - Benzinga",
-          "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQQjE1MnU3S1pZMTllZktqVVN6Zk9yNlcwWG5xN0FhQ2M2c1V0MVVaUEg4LUJfYWduNE84WXA5YjlkaFFSREdQZThrLWNFR3k1b2NKLVVNX29yWFpIblhfc2RKYVVpMkdNcDNRM2ZpMDE3THItRExHQTAzY3pXUmdzM3p2QzNJZkVESnVrVkN1eWVHWW05NWpsemVGT1FZVXVSNEVJdFhSOXAxZHdmeWRBVzBaaFVLSFhaUEZZOE1pczU4UHc4Tk81ZDhkRk9Bd1E1VlBDd1RhTjFUVjNjM1JwUkxCSVF1VXlKQ0oyUUpR?oc=5",
+          "title": "Cardano slumps under 20 cents as Hoskinson says he is 'taking a break' after warning of ecosystem failures - Cryptonews.net",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5GVnAzbFFxSjNSaUhkRF9UblJUZVJFUmFoN0U3ZjZrVWNxTVVxRXA4azQ1X1JWa29YWjVKeW5EWG5mbzJIWGJZdmdqUVcyUG92QjRPOHhrQmZtZw?oc=5",
           "source": "Unknown source",
-          "publishedAt": "2026-06-03T09:48:11.000Z",
-          "ageHours": 4,
-          "isFresh": true,
-          "summary": "Cardano Founder Charles Hoskinson Says Crypto Is 'Near-Perfect Complement' To AI Agents—Here's Why  Benzinga"
-        },
-        {
-          "topicKey": "cardano",
-          "title": "Better Altcoin: Cardano vs. Solana - AOL.com",
-          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOZTVhUGpUbndKaGhPMngyQXNfbDh5T29vUlNRMGtLbHpRR0JzQ0ZNYU1fdlAxY1BSY2paRWRqd19wNGZGUEx4SUttY1hKZi1jQUt5elF0SmVFdHRrck9SeGZSZExDTnY4TTVJblRUV2NEa0JES25uaDl2UXFjeUxmbw?oc=5",
-          "source": "Unknown source",
-          "publishedAt": "2026-06-03T08:35:45.000Z",
+          "publishedAt": "2026-06-04T08:26:06.000Z",
           "ageHours": 5,
           "isFresh": true,
-          "summary": "Better Altcoin: Cardano vs. Solana  AOL.com"
+          "summary": "Cardano slumps under 20 cents as Hoskinson says he is 'taking a break' after warning of ecosystem failures  Cryptonews.net"
         },
         {
           "topicKey": "cardano",
-          "title": "Cardano's Charles Hoskinson warns of 'wave of failures' after TapTools wind-down - The Block",
-          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBvdk5VZTF3bk8xcG1KcGJLU0VFNXpiY3U2eEQyb21vZkdUTzJ1N3dpVC00OHhtaldJVEVFZll6Z0xialpmaUtYMnBVX1FFUm41VGlzb0ZSZkNja1hoZnltbmZ0dTZCZw?oc=5",
+          "title": "Cardano slumps under 20 cents as Hoskinson says he is 'taking a break' after warning of ecosystem failures - CoinDesk",
+          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQNlFraEJ6Q0RZUmtGajRaTGhLcEd4Q19LZjVDUmlMQ3otNmhhM0s4alVvWVptWkxIb3h5N1VGaDl6d1d4Qk1jdHp1aEJaSE94SmY3akg1SkFlSmdJQ0VkX2Y3U09CMUxTZUdiejVINkdFWE9fNGdfcUlZVHBGRVFEdGE0dnVTRzVMVklibDNybURNXzNxVm9HRm5jdFpDX09VM1V6dW95bmJMckVZdUpxQjlrazJTc3FqeXd0ODFNSl9MVEd0cDlHb0sxa3IzUQ?oc=5",
           "source": "Unknown source",
-          "publishedAt": "2026-06-03T07:49:19.000Z",
+          "publishedAt": "2026-06-04T08:02:27.000Z",
+          "ageHours": 5,
+          "isFresh": true,
+          "summary": "Cardano slumps under 20 cents as Hoskinson says he is 'taking a break' after warning of ecosystem failures  CoinDesk"
+        },
+        {
+          "topicKey": "cardano",
+          "title": "COB and Cardano Foundation partner up - Inside The Games",
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1ZdFVSYkpUU0RuTlMyUGR5MkJORU9oaVVVTXdaYm9Rc3poU2wxZUUxTjA0c2ZvZUktaEdpWWFjbTc1WjhPSGhGZ2c4M3Nkak0tY0Mta2Y5TlI0eDFWVXA5N1pQeGx1OWNhemxmakVBalFYdFZtelVZZ1pRQUtKYkU?oc=5",
+          "source": "Unknown source",
+          "publishedAt": "2026-06-04T07:08:36.000Z",
           "ageHours": 6,
           "isFresh": true,
-          "summary": "Cardano's Charles Hoskinson warns of 'wave of failures' after TapTools wind-down  The Block"
-        },
-        {
-          "topicKey": "cardano",
-          "title": "Cardano analytics platform TapTools to shut down after 4 years - crypto.news",
-          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQdWR1TV9lbjh1bXQ0bkxpQWM4SEUzWWtLUmVSdWh4TjNjaUJfcHhZdzdPSXduYWxoYk51M0tydmtIQUlZNUFWRHpaSnJHQVdONU5TdkNndURkMDlxbzBXcjcxTzl1RzVMSFRJRndWUVlLR1Y5Nk1xY2Rsd2dIQ3pMNVR1VW1HUE82WDE0?oc=5",
-          "source": "Unknown source",
-          "publishedAt": "2026-06-03T06:36:00.000Z",
-          "ageHours": 7,
-          "isFresh": true,
-          "summary": "Cardano analytics platform TapTools to shut down after 4 years  crypto.news"
-        },
-        {
-          "topicKey": "cardano",
-          "title": "Cardano’s Most Used Analytics Platform Shuts Down After Complete Leadership Collapse - Coinpedia",
-          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNZE9hTTZ1ZTZqUW9OWWVqVXAzNFQtZ3c0S21LSWJPMFltc2d4Z1Fvdm5ubzRDTFRab1pCTEhNdWZIN1BmZXdnbktCMTNQdFBneWg3cVc3X1FtaHZ2LVVrZGhHZW1zUEJTcmZxVGl3TXJNVm5nTVktN2pOeFVqV3doZGpJUGplSkhMSEVjOGxtOEVEcHhtRkRRTUd1UkpmbzU1NmxxVHB4SGxKbko5YXNwbGUtbUFKQdIBtgFBVV95cUxNZE9hTTZ1ZTZqUW9OWWVqVXAzNFQtZ3c0S21LSWJPMFltc2d4Z1Fvdm5ubzRDTFRab1pCTEhNdWZIN1BmZXdnbktCMTNQdFBneWg3cVc3X1FtaHZ2LVVrZGhHZW1zUEJTcmZxVGl3TXJNVm5nTVktN2pOeFVqV3doZGpJUGplSkhMSEVjOGxtOEVEcHhtRkRRTUd1UkpmbzU1NmxxVHB4SGxKbko5YXNwbGUtbUFKQQ?oc=5",
-          "source": "Unknown source",
-          "publishedAt": "2026-06-03T05:43:16.000Z",
-          "ageHours": 8,
-          "isFresh": true,
-          "summary": "Cardano’s Most Used Analytics Platform Shuts Down After Complete Leadership Collapse  Coinpedia"
+          "summary": "COB and Cardano Foundation partner up  Inside The Games"
         }
       ],
       "errors": []
@@ -198,7 +198,7 @@
         "https://news.google.com/rss/search?q=%22Midnight+City%22+Cardano+OR+site:midnight.city+when:14d&hl=en-US&gl=US&ceid=US:en"
       ],
       "freshCount": 0,
-      "updatedAt": "2026-06-03T13:57:47.757Z",
+      "updatedAt": "2026-06-04T13:24:51.518Z",
       "items": [
         {
           "topicKey": "midnight-city",
@@ -206,7 +206,7 @@
           "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9NVG9aaHBuSVEwbHItMFo3LUlHWDlxRUl6cW92cGhHdVBhZ0xKTl9CdUJtby04TDJYMU9IS2tTSTl5VVk0ZktR?oc=5",
           "source": "Unknown source",
           "publishedAt": "2026-05-21T22:21:05.000Z",
-          "ageHours": 304,
+          "ageHours": 327,
           "isFresh": false,
           "summary": "Midnight City  midnight.city"
         },
@@ -216,7 +216,7 @@
           "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBPU1JZcUx6QkVPb0xuS25TN2k0V3RPdUVrR1Y1VVEzMmk3bDR6Sjg0dzNJVXVHaHJ2TWNtVUxFZFB0Y3lyd2tiTzk1a0U?oc=5",
           "source": "Unknown source",
           "publishedAt": "2026-05-21T20:33:38.000Z",
-          "ageHours": 305,
+          "ageHours": 329,
           "isFresh": false,
           "summary": "Midnight City  midnight.city"
         }
@@ -231,18 +231,58 @@
         "https://news.google.com/rss/search?q=%22Input+Output+Global%22+OR+IOG+Cardano+when:7d&hl=en-US&gl=US&ceid=US:en",
         "https://news.google.com/rss/search?q=site:iohk.io+%22Input+Output%22+when:7d&hl=en-US&gl=US&ceid=US:en"
       ],
-      "freshCount": 0,
-      "updatedAt": "2026-06-03T13:57:47.757Z",
+      "freshCount": 2,
+      "updatedAt": "2026-06-04T13:24:51.518Z",
       "items": [
+        {
+          "topicKey": "iog",
+          "title": "Statements on risk of collapse for dozens of companies echo across the Cardano ecosystem! What are the new decisions shaking $ADA? - Bitget",
+          "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5iZUZMRWRzNFJLYmJrYllIdDFEYTlhSXNTWkdOMlkydzJVR0tEdEs4S1kwU3lSVzZUUjk0SExadnBGdm5EU2p5LXM0VG15ajhVUU44cGpNTVFJaGpDbkkzeUd4Z9IBY0FVX3lxTE5iZUZMRWRzNFJLYmJrYllIdDFEYTlhSXNTWkdOMlkydzJVR0tEdEs4S1kwU3lSVzZUUjk0SExadnBGdm5EU2p5LXM0VG15ajhVUU44cGpNTVFJaGpDbkkzeUd4Zw?oc=5",
+          "source": "Unknown source",
+          "publishedAt": "2026-06-03T16:14:17.000Z",
+          "ageHours": 21,
+          "isFresh": true,
+          "summary": "Statements on risk of collapse for dozens of companies echo across the Cardano ecosystem! What are the new decisions shaking $ADA?  Bitget"
+        },
+        {
+          "topicKey": "iog",
+          "title": "Dozens of Companies at Risk? Cardano Founder Responds to Critics With Warning - U.Today",
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNOUdLOWdVUDBTWEpfYVlwMHhGWmtNeV8zRlJCUUZ0LVNUS3RkQ1IwdUNSX0dKWnlUNkVPUURWNnNpTGpNZWNjWXg2bjdST1c2dGRvMVgwT0I4MTk2UDVUSm1FSGtIMzNOX0hQTDRqWTNCcVdQZjg1Nk9TMzRxMHRsWXhCODM5RC11bmE0TTFLR3IzTk1VOUJBV1pGdGvSAZwBQVVfeXFMTTlHSzlnVVAwU1hKX2FZcDB4RlprTXlfM0ZSQlFGdC1TVEt0ZENSMHVDUl9HSlp5VDZFT1FEVjZzaUxqTWVjY1l4Nm43Uk9XNnRkbzFYME9CODE5NlA1VEptRUhrSDMzTl9IUEw0alkzQnFXUGY4NTZPUzM0cTB0bFl4QjgzOUQtdW5hNE0xS0dyM05NVTlCQVdaRnRr?oc=5",
+          "source": "Unknown source",
+          "publishedAt": "2026-06-03T15:03:53.000Z",
+          "ageHours": 22,
+          "isFresh": true,
+          "summary": "Dozens of Companies at Risk? Cardano Founder Responds to Critics With Warning  U.Today"
+        },
+        {
+          "topicKey": "iog",
+          "title": "Cardano's TapTools Winding Down is a Symptom of a Shrinking Chain - thedefiant.io",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQdWVwcmNWRGt2NWRHYy0yWXpUNXZtZVdzdTNqdlU3Z3FCelRrcVp5TUNERXNCUUpiLUNYZGhnMW9GbzlWdjRFUnB5ZUxla1RPd2VPd3AxX1hjUWFkbkdtQldINlZSQlYzOTlkbjlFZUNJdVMzV0ZiTjRFN2VvaXdfQ095QlVfOXRlS21veVVHYU94WXZjMUR2VUd3elpXTWxzeTRLUTNrUQ?oc=5",
+          "source": "Unknown source",
+          "publishedAt": "2026-06-02T07:00:00.000Z",
+          "ageHours": 54,
+          "isFresh": false,
+          "summary": "Cardano's TapTools Winding Down is a Symptom of a Shrinking Chain  thedefiant.io"
+        },
         {
           "topicKey": "iog",
           "title": "Cardano Price Risks Deeper Drop If ADA Loses This Support Level - The Market Periodical",
           "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPa2RiUE5WQ1BZZkRUeTJ0cEpxZHhpaGhvUU8xbXdpdGl4SEdQTENiY3NlNTQtd0V4dGZvMnNtNEN6V3ZycUp1bzNtb2Ytb1ZJVW5GZ2VsRHV0d2djY1hqWDlfTVpmcExsdEZiOXFEelpFRkctWWg4SDFYRm4tREZRZjlPa0xwdENLSnRZZVlSS3JkbV9fV2QtdkNob0JvSS10YWNtZmR5REw1TGs?oc=5",
           "source": "Unknown source",
           "publishedAt": "2026-05-31T13:32:00.000Z",
-          "ageHours": 72,
+          "ageHours": 96,
           "isFresh": false,
           "summary": "Cardano Price Risks Deeper Drop If ADA Loses This Support Level  The Market Periodical"
+        },
+        {
+          "topicKey": "iog",
+          "title": "Cardano: IOG Director Confident Ouroboros Leios Will Launch This Year - CryptoRank",
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNTW52NS1lQ28yVzhPWnIzTXFBUzlXVmJFVlNPVW9wZnZnZUlFRFQ1SXU0SnkycWlFRXpCOG0wU1pKY2pCdmdFNjFJRUd5OFNCdkVkd3UwTGdudERDUGRuTjc5Sjk5d3hISEdQUWJWTDU1VXItZzR6NWI3VHVlSHFPbUc5Um5jaWRsYWN4bjR1YTNmVkJQdWtENjlHNGNRZXZITTFmdDhRTnp3dw?oc=5",
+          "source": "Unknown source",
+          "publishedAt": "2026-05-30T18:43:27.000Z",
+          "ageHours": 115,
+          "isFresh": false,
+          "summary": "Cardano: IOG Director Confident Ouroboros Leios Will Launch This Year  CryptoRank"
         },
         {
           "topicKey": "iog",
@@ -250,39 +290,9 @@
           "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBLUl9tZDBITHVIZ3phTGNWTWdEak94LVNDbVJ1SzFOb2RPYnRRTy05T2RYdTJ2T015ZkVFeDhJNDh3Sm1CcURhM01ZTEJqWGxMTmJsdDBzY3otZw?oc=5",
           "source": "Unknown source",
           "publishedAt": "2026-05-30T08:06:27.000Z",
-          "ageHours": 102,
+          "ageHours": 125,
           "isFresh": false,
           "summary": "Cardano: IOG Director Confident Ouroboros Leios Will Launch This Year  Cryptonews.net"
-        },
-        {
-          "topicKey": "iog",
-          "title": "Hoskinson Backs Major Proposal to Put Cardano Where It Belongs, Says We’re Stronger Together - The Crypto Basic",
-          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxONzVqc1dXUUVlSnUwRVVmS1NpcXhPSzlnenl2QnVXRUJONWYtY2xUSU9rVUtOTE93ZG5naEw2eDJKOVpoYmhNVHVrazNHZDdnNGJFd2JiZTlqY1hWMTNTMmRLNHZsS2xGWnBTbUVSbTFlaUtJcUwzVGFxOU9peUJXd1FTSE4wdXBqZzBZVnM5U3lpLUdIbVE4SWk3NXFTeS1Xd3gwaGt0UkI5RHBEME1MLVV0aUJyenVf?oc=5",
-          "source": "Unknown source",
-          "publishedAt": "2026-05-30T06:22:50.000Z",
-          "ageHours": 104,
-          "isFresh": false,
-          "summary": "Hoskinson Backs Major Proposal to Put Cardano Where It Belongs, Says We’re Stronger Together  The Crypto Basic"
-        },
-        {
-          "topicKey": "iog",
-          "title": "Cardano News: ADA Whales Reach Highest Level Since 2020 - MEXC",
-          "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5TZF9ZQkNsR1hoSWc1TVlFY0VFd2pHVlIxNGdRc1JkdjZjWXRUMDVKMnl0VFRnTDFjeUxIcjVxbGJ4N1BpTTh4Nw?oc=5",
-          "source": "Unknown source",
-          "publishedAt": "2026-05-29T14:54:27.000Z",
-          "ageHours": 119,
-          "isFresh": false,
-          "summary": "Cardano News: ADA Whales Reach Highest Level Since 2020  MEXC"
-        },
-        {
-          "topicKey": "iog",
-          "title": "Hoskinson On Why Cardano Needs Purpose Beyond ADA Price Amid Community Exhaustion - ZyCrypto",
-          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNQjhZemdLXzV3NTdobzN1aThfWF82dHViblplcm5CNG13cE80UWNtaWpOcHhBVmVSMjR5QVBEeDdXbVUtd0VRNzh6UEx4UUJpTXVCMnhlVHNRYjVqZDNZNzVwWGVFV0tsQ2VQRGVWUGtHTWRjdk4yUnR0SU94a21meS1Jd1RWM2g3VWM0ajVBNGg5YjZLOFg1TVJxQzR0TXd2R2x2d2p30gGrAUFVX3lxTE4tY2FtLXhqanEwelZYX056emVGS1NTejhDNk1xS3lSZ2F4dHVZZVhPWlhfQ1ZfMHE1WlJ1Yy1hNmc2dlpXZTNydkdCY3Bnb0UzNnJlUmp5UjZaYmxzYVI1eklhY3ZJVUw2am9vNzZFRVkxVXVHUHpIajZlWUUwdEhZWTJpYWFCRFV0MFIzcUp4d1U2Y2JqZEdWZjRLRU9QV0pIYzdUUVBJS296aw?oc=5",
-          "source": "Unknown source",
-          "publishedAt": "2026-05-27T17:40:54.000Z",
-          "ageHours": 164,
-          "isFresh": false,
-          "summary": "Hoskinson On Why Cardano Needs Purpose Beyond ADA Price Amid Community Exhaustion  ZyCrypto"
         }
       ],
       "errors": []
@@ -295,17 +305,37 @@
         "https://news.google.com/rss/search?q=Intersect+Cardano+when:7d&hl=en-US&gl=US&ceid=US:en",
         "https://news.google.com/rss/search?q=site:intersectmbo.org+Intersect+when:14d&hl=en-US&gl=US&ceid=US:en"
       ],
-      "freshCount": 1,
-      "updatedAt": "2026-06-03T13:57:47.757Z",
+      "freshCount": 2,
+      "updatedAt": "2026-06-04T13:24:51.518Z",
       "items": [
+        {
+          "topicKey": "intersect",
+          "title": "Cardano Founder Charles Hoskinson Steps Back as ADA Holders Question Network Control - MoneyCheck",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPTGVwNkVpb2Q4YlpCcFJiMERtR0gwYzVRZnpDVWtWdFJEQzZxY1JzZ2RYZG1BTGVva2t2eFU0NHkxWmlWd1pFU2JIT3dOWHh3YllMSzhsbUNKYm1YbVhoUUxlM1U0eDlNaTRqQlNBSFJIdHlMUHBiVkdlOEF1UHZFZTlYdEd0cGlpQW0wLUFWWjBCWWhlclpGazlZQWtUUFJ1UFZOVVhsWmQ1Wl9R?oc=5",
+          "source": "Unknown source",
+          "publishedAt": "2026-06-04T11:34:12.000Z",
+          "ageHours": 2,
+          "isFresh": true,
+          "summary": "Cardano Founder Charles Hoskinson Steps Back as ADA Holders Question Network Control  MoneyCheck"
+        },
+        {
+          "topicKey": "intersect",
+          "title": "Cardano founder Charles Hoskinson takes \"a break\" - exposing who really controls ADA's next move - CryptoSlate",
+          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPYk1sWlJyR1hVX3o2bFN1ckd6TDJVRzZMdlJLenNtRC16UVpyYVZ3WUh3bE9QcW16WHRCUkcwd29tVWNXRENqWHRTNkZmTEYzMnk2UGVyLUxoMlEyMkY0Y1BMVVpCV2VxTzZveEFYMHZibl9RR0pWVVFHLWFpNjM3emJzUEZTV0F0YUxXQ0RjU3lEQXNJNk5F?oc=5",
+          "source": "Unknown source",
+          "publishedAt": "2026-06-04T11:01:49.000Z",
+          "ageHours": 2,
+          "isFresh": true,
+          "summary": "Cardano founder Charles Hoskinson takes \"a break\" - exposing who really controls ADA's next move  CryptoSlate"
+        },
         {
           "topicKey": "intersect",
           "title": "Why Intersect facilitates an election process to confirm a new Constitutional Committee - Intersect MBO",
           "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNSW5ybHdocmxiYmpYYnB0NzB2dkhaU0tZWHpkeUN2ak5lVHU3a01yNl9Md2J2ZHRWV1EzLWtBRkNVbUJ1Vnd5QzZkOGhVdEhiWEhLRmNnNWpMNXlVaXJmeG1TWlpiSmFnV2NTdXVBd0k3eExwdTNHM1lFcnhTd0k4THJPQ2FnancwcTQ0T0lNMHNYZUZDOG9IY21aNnBfbFFaN2cxRHhfcVo5VU8zYzhwSWRaRWJUZkV4?oc=5",
           "source": "Unknown source",
           "publishedAt": "2026-06-02T23:26:11.000Z",
-          "ageHours": 15,
-          "isFresh": true,
+          "ageHours": 38,
+          "isFresh": false,
           "summary": "Why Intersect facilitates an election process to confirm a new Constitutional Committee  Intersect MBO"
         },
         {
@@ -314,7 +344,7 @@
           "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPRFJYZlM1YkFBRUwyZkdQTml1dWVkY3BleW5FVjMxNUM5UlFrQV9NZW9fbmliUFNUa200VkpZU3U4cThha0l0a2duYXU0QzZuS0I0YUlFZ1RxUy0tekctcTdBVVJQQjR0eERIaGVzOTFEQzlFQ01adTlFUzF0d1BleUdRelo3Q1NVdWR0RGFralJxWk03?oc=5",
           "source": "Unknown source",
           "publishedAt": "2026-06-02T04:52:40.000Z",
-          "ageHours": 33,
+          "ageHours": 57,
           "isFresh": false,
           "summary": "Cardano Community Votes Down 7.8M ADA Summit Budget, Killing Foundation's Flagship 2026 Event  thedefiant.io"
         },
@@ -324,7 +354,7 @@
           "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxORWJEWTlER1dKR0Z3ZnhibmpSRUFkemx4NFVtTGY5OGRsUmVLRjc2R29nMFpKWkxRNHcxOFIzWjdsVHhYUVVLSlRwV0xRazQzZmJsd1UzVXZqMnlNR052T3BENllVOUhtYXp1T1cyTXY3SnBpbTlIUkd2WFJ6OFRzcU5tejFUTUdxdGR3OE5jWGs?oc=5",
           "source": "Unknown source",
           "publishedAt": "2026-06-01T13:50:21.000Z",
-          "ageHours": 48,
+          "ageHours": 72,
           "isFresh": false,
           "summary": "ADA Holders Just Voted to Cancel the Cardano Summit Proposal, Self-Sabotage?  99Bitcoins"
         },
@@ -334,7 +364,7 @@
           "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9RQjRCN3hjTVhnay1BdklxVGNoVnJlaHNkRkVNQmlVTUF6YzFsT1VPU2RtdmgtaVFXd1hWZWx6YjJQR2NSWVBOag?oc=5",
           "source": "Unknown source",
           "publishedAt": "2026-05-31T12:19:43.000Z",
-          "ageHours": 74,
+          "ageHours": 97,
           "isFresh": false,
           "summary": "Cardano News Highlights Leios Progress and Stablecoin Growth  MEXC"
         },
@@ -344,7 +374,7 @@
           "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxOdVd1OE5hY1ozYkVFRjNiRGtKRDdJcEJjNGk3aFVMQUxpN0JIbkxJRHBfc2I4eS03bXBYdGFyXy0yOS1NbFhPeTFnX2ZLNWQzVUxMUVhhSW0wWU5MWHZLN3VhbV9fVV9weXVfZzJmNXRSMUlqZ2dObkN4RlBQb1RCVEpHWkZ2YmtyeF9tejdhTEtqRE9vR3p1WTR4UTJsMUpOMHlfYl8wVGctRFFCTktFUWNNWGJEVjNZNXRlaTdGcEVSSDE0UjRGNXZkMFFRZk54dEtPd1ZHZlhhaGN4U1g2ZGNiUkp2ZnJxRGUyb19GMHc0UWtuUnVKY1MzX01ILUpoRmVJeWtyVG9GZw?oc=5",
           "source": "Unknown source",
           "publishedAt": "2026-05-30T12:32:37.000Z",
-          "ageHours": 97,
+          "ageHours": 121,
           "isFresh": false,
           "summary": "Intersect MBO"
         },
@@ -354,29 +384,9 @@
           "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNOE5FVEctM09hNG1VMlk1UzBPZm9qVWdYWEFHUzZtcmdScXF5Y3lKZE9EbUxHVjc4ODd3WENuX0xFdC1lT0gwUXk4NHV4YXlxYjEtWUJUWGFUTWVpQnlMNFZFMkJFWUVQeUQxOUU4RWdRczNZUzdteGYtQUJjZHJJSUROMkRSbjlQeTFwX0stbWZrVGt5MkZWNEEwOGw2SUlGWU5mMXVlei1QSEtuYk81SmcwSVYzNjJYT0FieW5FUTdzakNwdEtGbzFRYVJSS056eXc?oc=5",
           "source": "Unknown source",
           "publishedAt": "2026-05-30T11:31:50.000Z",
-          "ageHours": 98,
+          "ageHours": 122,
           "isFresh": false,
           "summary": "Where can I access the latest ISC meeting notes and updates? - Intersect Committees  Intersect MBO"
-        },
-        {
-          "topicKey": "intersect",
-          "title": "Cardano Leaders Rally Last-Minute Support for $2 Million Singapore Summit Vote - BeInCrypto",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5LMUFKY1FWTm9rc21iRUVwNVBGZzlyZ0Q5SnUzOF9PSm03X2FjM2pGYVFWZ2hicUVrcTdwb2dPM2dSaUFOcjFKNmNFcVN3bGc1UENZcDdmU0ljZDBtcEJWZm9XSmV5U0tJVGtKTTV4VQ?oc=5",
-          "source": "Unknown source",
-          "publishedAt": "2026-05-29T22:00:00.000Z",
-          "ageHours": 112,
-          "isFresh": false,
-          "summary": "Cardano Leaders Rally Last-Minute Support for $2 Million Singapore Summit Vote  BeInCrypto"
-        },
-        {
-          "topicKey": "intersect",
-          "title": "- Intersect MBO",
-          "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOdzJqQ3ZjTFNBU1V2TDdPYk1vTEhJdDZVN19vNV9tc0Z2TzVsNWo5RkhiSFVzQW81aTUzMWZzRy1OQm13N3g3czVQT0RlcFhaYzR2ck0wQkljdm9PVlZpQTRxRXBubGdod1lFSDY3V1B0SUR3SFhXR0lXU3ZwUmhqYTRQbnVPTnpCbllmM1NQTldqTTdQR3JIQmNMSDBlcUxJYVM5ejNaRFFHNzAxdVB4NjRXX2h4RU9kajVUU25Ja0F6UlhvQTlJUldhQWZ4LS1sbHFyM2k5dGx3WTQwTW5HUmVoMThGVHB6cVFhTmZWaW03MURhLU1pS19JeVN6dw?oc=5",
-          "source": "Unknown source",
-          "publishedAt": "2026-05-29T17:41:56.000Z",
-          "ageHours": 116,
-          "isFresh": false,
-          "summary": "Intersect MBO"
         }
       ],
       "errors": []
@@ -390,87 +400,87 @@
         "https://news.google.com/rss/search?q=site:youtube.com+%22Charles+Hoskinson%22+when:7d&hl=en-US&gl=US&ceid=US:en"
       ],
       "freshCount": 8,
-      "updatedAt": "2026-06-03T13:57:47.757Z",
+      "updatedAt": "2026-06-04T13:24:51.518Z",
       "items": [
         {
           "topicKey": "charles-hoskinson",
-          "title": "CARDANO ADA - 3rd Largest of 2026! Surprising Cardano Announcement?! What Now? - YouTube",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5EZF9ueUFGOGNEQmFGTS1OWXZBdmNvZmZlODZQSDNHSHlPT1VXMmYtZU5BM0hDYmg0SUlYNWR5SzNQOFktWGxfVU1ZU0EtTzVNaUNOM3ZR?oc=5",
+          "title": "'Don't Make Sense': Ripple CTO Emeritus Speaks on XRP Price; Cardano Price Slump Expands as Founder Steps Away; Coinbase Lists SpaceX: Why It's Red Flag for Crypto - Morning Crypto Report - U.Today",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNTUpNTUFyZHVwQUNYWGdzMmpqSTI5RmpzMG52eVlsS3k5b1JxV1JIdWMxcDZaRVAxQURudmd4bVBPbnNyNC1NNVRyQnhLSHJUQlFHdk41T09hWjBlck9sSnM3VkZUOTAxMzhGbmlUb2p1RjJBeXVEYVd5TEppempucjRxM1Z4a2hVUUZtbUpBUW15V1hTeEpIZTkyRXA3QW5ac0I1elBjT0pMR1RnTVMw0gG0AUFVX3lxTFBOZnUwb1AtMVkzZ0NqMU94T0t4ZDFNS0dlOFpnaDZaSlo5TTQwaHQzMUY3WUVzbUJCVWJoWG9LR2pwTk9xMFB4UzlWd2JicExsdGx1RktqUmpqQmQ3ZjRRcjVjTmVCYUVKMUNZQTlCNjVwVER5UWQ3bFlveEJmZE91TDFSVWRaU0lkQnh6VnRnWkgzNk13MXRxdEpyWFFSMHhhVHhsNndtbFZkUFRvZ3NxYnl5bA?oc=5",
           "source": "Unknown source",
-          "publishedAt": "2026-06-03T11:30:18.000Z",
+          "publishedAt": "2026-06-04T12:28:41.000Z",
+          "ageHours": 1,
+          "isFresh": true,
+          "summary": "'Don't Make Sense': Ripple CTO Emeritus Speaks on XRP Price; Cardano Price Slump Expands as Founder Steps Away; Coinbase Lists SpaceX: Why It's Red Flag for Crypto - Morning Crypto Report  U.Today"
+        },
+        {
+          "topicKey": "charles-hoskinson",
+          "title": "ADA Crashes 12%: 'The Markets Are Really Bad, Taking A Break', Cardano Founder Hoskinson Says - Benzinga",
+          "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPWG9jeWFUWVZMdGNYWmwtQ0pZcTBUXzNXUk9mYkR0RHNhSm1DQnlDQWRJMENGckRSVjNnMFBOX2ZxMVVyRlN1Q0V5bkUwVlNQWmplR3pIQkVTd1B4aDNielBLM3RVWU43VXJkQ2YtQ1VpYkd4U2xDSWVvVnRUbnktQmZJaU9Gem5RU3h6eEJZOVpIc00wejNaNnN1eUE3Z3g5ZEpXTS0wNTRrRU5yRHA3LUdiNDNpZnk2MzdLWl9ERzFHM2dBckplbHhSYUpZbTNHWXFrdmtubU1Hc1ROUGwtQWd1dw?oc=5",
+          "source": "Unknown source",
+          "publishedAt": "2026-06-04T12:22:16.000Z",
+          "ageHours": 1,
+          "isFresh": true,
+          "summary": "ADA Crashes 12%: 'The Markets Are Really Bad, Taking A Break', Cardano Founder Hoskinson Says  Benzinga"
+        },
+        {
+          "topicKey": "charles-hoskinson",
+          "title": "Cardano Founder Just Warned More ADA Projects Will Die - MEXC",
+          "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFB0dy0td1pUa3FoSm1lYlJrWGlKYjI4VUFqS19vTmVuQ3VTTUJDOUFpcUNMcDU5ajEwTS1aXzhvQ251WjVkb0lmOA?oc=5",
+          "source": "Unknown source",
+          "publishedAt": "2026-06-04T12:08:01.000Z",
+          "ageHours": 1,
+          "isFresh": true,
+          "summary": "Cardano Founder Just Warned More ADA Projects Will Die  MEXC"
+        },
+        {
+          "topicKey": "charles-hoskinson",
+          "title": "Episode 7: The Master Indicator Just Flashed a Bitcoin WARNING... - YouTube",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5tdTZwYzBrRkh2NkpESmFLODRES3RBZ0Nja19mblBaLWFvZVBMcjhKLVNBSnFOTFEtQWtEUWxvYlM1MFBoUWFlcjVVRlFZM0s5TzV4R2tR?oc=5",
+          "source": "Unknown source",
+          "publishedAt": "2026-06-04T12:00:37.000Z",
+          "ageHours": 1,
+          "isFresh": true,
+          "summary": "Episode 7: The Master Indicator Just Flashed a Bitcoin WARNING...  YouTube"
+        },
+        {
+          "topicKey": "charles-hoskinson",
+          "title": "☠️ Are We Going to ZERO? - YouTube",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9wdXpwRlhhY0tmeGtJTjJPTXQ0d0xHcGpYaU9kVnlkTGRFSm5DcmU5SEczUGlzZ2NNSjJnenJsQWxIbF90SThkYTFheURPa1V6a0tSem1B?oc=5",
+          "source": "Unknown source",
+          "publishedAt": "2026-06-04T12:00:26.000Z",
+          "ageHours": 1,
+          "isFresh": true,
+          "summary": "☠️ Are We Going to ZERO?  YouTube"
+        },
+        {
+          "topicKey": "charles-hoskinson",
+          "title": "The Market Minute: ZCash Critical Bug Found (Explained) - YouTube",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9ueE9nMzU2QmpqWHg1eEhqZGhFU2ZFWDFzbzdSODFkSlF5X0Y3bjNPQWVkSHZGRUE2RTAzdThEd3ptYnh2ZENJbHdFYUZ6X2NHeUdjclVB?oc=5",
+          "source": "Unknown source",
+          "publishedAt": "2026-06-04T11:50:56.000Z",
           "ageHours": 2,
           "isFresh": true,
-          "summary": "CARDANO ADA - 3rd Largest of 2026! Surprising Cardano Announcement?! What Now?  YouTube"
+          "summary": "The Market Minute: ZCash Critical Bug Found (Explained)  YouTube"
         },
         {
           "topicKey": "charles-hoskinson",
-          "title": "Cardano’s Own Founder Says Its Apps Are Dying. He’s Not Wrong, and That’s the Problem - MEXC",
-          "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9nT3k1TWxMSjhpSHR2MklkMHllb1RZTFVZMEhyTWZhY2hnWk5ldDlDVmpLYWo5RWR6ZzJvR2JxZUtHX3VrY3FjOQ?oc=5",
+          "title": "Cardano founder Charles Hoskinson takes “a break” – exposing who really controls ADA’s next move - Bitget",
+          "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBlX0VPdFpfdkZheG9wQ0JUR0JxWm01a0MtOGdWQ0RSU3FCbkNMbFNGbUctTlJGVDByVkNvcWJfV3Rrd0tVaUhDUEVDV2hNbXhyOWdQWHUxalJ0X2RoczVSUUREMNIBY0FVX3lxTFBlX0VPdFpfdkZheG9wQ0JUR0JxWm01a0MtOGdWQ0RSU3FCbkNMbFNGbUctTlJGVDByVkNvcWJfV3Rrd0tVaUhDUEVDV2hNbXhyOWdQWHUxalJ0X2RoczVSUUREMA?oc=5",
           "source": "Unknown source",
-          "publishedAt": "2026-06-03T11:15:08.000Z",
-          "ageHours": 3,
+          "publishedAt": "2026-06-04T11:47:52.000Z",
+          "ageHours": 2,
           "isFresh": true,
-          "summary": "Cardano’s Own Founder Says Its Apps Are Dying. He’s Not Wrong, and That’s the Problem  MEXC"
+          "summary": "Cardano founder Charles Hoskinson takes “a break” – exposing who really controls ADA’s next move  Bitget"
         },
         {
           "topicKey": "charles-hoskinson",
-          "title": "Cardano Platform TapTools to Shut Down Operations - ForkLog",
-          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9nay1yTWNwNy1KTENCRUhVYXg1R0dZTEZ2Sktiek1IejhXY0ZpSy1UQ0RBVUliUFZyTnhJbWVHdlRYR2hldkxYSnRyWm9nVjMtM2J2NXg4bENnU3JmLTU1bjJ3aFFub0JOeHJqSl9MYlhZODFvMjdIZEJ3NjlEdw?oc=5",
+          "title": "Cardano Founder Hoskinson Steps Back, ADA Plummets Past $0.20 - The Crypto Times",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNa09QTVVaazJwWllVNmR1RFFNbHFHVVVRd1ZJS3NEMjk3R2ZzVmdKdUUtRHFMN1FUOXBoWUs5QkRSUEw1Tl81WWREUW1hSXUwdEdYb3ZhbUo5SWxwUHJfU1lvNU1JeFN3R3lMMHltSW9zQzU2WnBzTUJmLUpxZmI5OVo4R19jekp1ekx0ZkI5YmRuQTY5RWNZNkFYclZFQk0?oc=5",
           "source": "Unknown source",
-          "publishedAt": "2026-06-03T10:12:05.000Z",
-          "ageHours": 4,
+          "publishedAt": "2026-06-04T11:44:27.000Z",
+          "ageHours": 2,
           "isFresh": true,
-          "summary": "Cardano Platform TapTools to Shut Down Operations  ForkLog"
-        },
-        {
-          "topicKey": "charles-hoskinson",
-          "title": "Cardano Founder Charles Hoskinson Says Crypto Is 'Near-Perfect Complement' To AI Agents—Here's Why - Benzinga",
-          "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQQjE1MnU3S1pZMTllZktqVVN6Zk9yNlcwWG5xN0FhQ2M2c1V0MVVaUEg4LUJfYWduNE84WXA5YjlkaFFSREdQZThrLWNFR3k1b2NKLVVNX29yWFpIblhfc2RKYVVpMkdNcDNRM2ZpMDE3THItRExHQTAzY3pXUmdzM3p2QzNJZkVESnVrVkN1eWVHWW05NWpsemVGT1FZVXVSNEVJdFhSOXAxZHdmeWRBVzBaaFVLSFhaUEZZOE1pczU4UHc4Tk81ZDhkRk9Bd1E1VlBDd1RhTjFUVjNjM1JwUkxCSVF1VXlKQ0oyUUpR?oc=5",
-          "source": "Unknown source",
-          "publishedAt": "2026-06-03T09:48:11.000Z",
-          "ageHours": 4,
-          "isFresh": true,
-          "summary": "Cardano Founder Charles Hoskinson Says Crypto Is 'Near-Perfect Complement' To AI Agents—Here's Why  Benzinga"
-        },
-        {
-          "topicKey": "charles-hoskinson",
-          "title": "Cardano Founder Warns of Project Failures After TapTools Begins Shutdown Plan - CoinCentral",
-          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPSlBaT3BhX2tKNXpWV2JTZmhYdVZhSkxiSVRHMWxjZ0ZNN1lHWjU1dEZGZGMtRzFwaVlETEdERVhEeWNtS1RtbzF3YzIxV3NTX1JjRTNPS2UwZUtEYlZTbG4wVDF3UzlmclZMRDIxQ1BZME5XVFpmd3UxZGFwTU0tVVVObDMtNlFpVk9jMmtnZDZNbkI2cUxXTDIxV1JkUDk3ZDdMVw?oc=5",
-          "source": "Unknown source",
-          "publishedAt": "2026-06-03T09:18:10.000Z",
-          "ageHours": 5,
-          "isFresh": true,
-          "summary": "Cardano Founder Warns of Project Failures After TapTools Begins Shutdown Plan  CoinCentral"
-        },
-        {
-          "topicKey": "charles-hoskinson",
-          "title": "Cardano DeFi Shutdowns: Hoskinson Warns More Will Die As ADA Drops - BlockchainReporter",
-          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOZ3VRYktyVktycURfdWVqLVFLQVotZnJwMXN0bENzVnhPQVR2dGE1dndiOXNsaTFwRUFqaTRQMm9lYlYySTdBNzgzcE13WFMxNHpyaXBsV0VLT2owQlNHYmF2cDZoQjZwclpaX09HbjlWQVQ1RTA0QkV0QWJzQVFvWmF0eTQwQkRxOTJfRDJMWkNHSzdOQkFTb1d4TVIyYzZzLVNJN3lpeG5ra3h2djlYS2V3?oc=5",
-          "source": "Unknown source",
-          "publishedAt": "2026-06-03T08:33:36.000Z",
-          "ageHours": 5,
-          "isFresh": true,
-          "summary": "Cardano DeFi Shutdowns: Hoskinson Warns More Will Die As ADA Drops  BlockchainReporter"
-        },
-        {
-          "topicKey": "charles-hoskinson",
-          "title": "Cardano's Charles Hoskinson warns of 'wave of failures' after TapTools wind-down - The Block",
-          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBvdk5VZTF3bk8xcG1KcGJLU0VFNXpiY3U2eEQyb21vZkdUTzJ1N3dpVC00OHhtaldJVEVFZll6Z0xialpmaUtYMnBVX1FFUm41VGlzb0ZSZkNja1hoZnltbmZ0dTZCZw?oc=5",
-          "source": "Unknown source",
-          "publishedAt": "2026-06-03T07:49:19.000Z",
-          "ageHours": 6,
-          "isFresh": true,
-          "summary": "Cardano's Charles Hoskinson warns of 'wave of failures' after TapTools wind-down  The Block"
-        },
-        {
-          "topicKey": "charles-hoskinson",
-          "title": "Big tech is 'terrified' of AI agents wiping out ad revenue, says Billions Network CEO - YouTube",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBaVTFvU3I4dEdLUm9EejFNb1puU2dKWXF2ZTVQeEZycm93T25BUU1QXzBLa1FsU0pUeTlmejBRem5JQmo2cWtSUFpETGxfMWJBYWZHWDdn?oc=5",
-          "source": "Unknown source",
-          "publishedAt": "2026-06-03T07:10:20.000Z",
-          "ageHours": 7,
-          "isFresh": true,
-          "summary": "Big tech is 'terrified' of AI agents wiping out ad revenue, says Billions Network CEO  YouTube"
+          "summary": "Cardano Founder Hoskinson Steps Back, ADA Plummets Past $0.20  The Crypto Times"
         }
       ],
       "errors": []
