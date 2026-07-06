@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-05T13:48:51.599Z",
+  "generatedAt": "2026-07-06T15:41:26.657Z",
   "freshnessWindowHours": 24,
   "topics": [
     {
@@ -11,18 +11,90 @@
         "https://news.google.com/rss/search?q=site:forum.midnight.network+Midnight+when:7d&hl=en-US&gl=US&ceid=US:en"
       ],
       "freshCount": 0,
-      "updatedAt": "2026-07-05T13:48:51.599Z",
-      "items": [],
-      "errors": [
+      "updatedAt": "2026-07-06T15:41:26.657Z",
+      "items": [
         {
-          "feed": "https://news.google.com/rss/search?q=%22Midnight+Network%22+OR+site:midnight.network+when:7d&hl=en-US&gl=US&ceid=US:en",
-          "error": "Status code 503"
+          "topicKey": "midnight-network",
+          "title": "Ledgers - Midnight Docs",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5PWjhnaVNhZXNZRFdtNHNSenlYRjRNV0FLRTNNbi1kaHlveThCRHRxVkJPWmlLczNwSGpMWDlwQmFmYTE2R0RkSEQ1MHh4dmE4aTJSamY3dkFtZw?oc=5",
+          "source": "Unknown source",
+          "publishedAt": "2026-07-01T11:11:12.000Z",
+          "ageHours": 125,
+          "isFresh": false,
+          "summary": "Ledgers  Midnight Docs"
         },
         {
-          "feed": "https://news.google.com/rss/search?q=site:forum.midnight.network+Midnight+when:7d&hl=en-US&gl=US&ceid=US:en",
-          "error": "Status code 503"
+          "topicKey": "midnight-network",
+          "title": "API reference - Midnight Docs",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5OX2JhRy04WEwzTEVaTUkwX0ZHQjNGS2VDMHdldzcyV3haLV9CRU11UE1fSTJsZS1Ga3EwaGk5Z2NqOVBTLV9PMDVzakRadC1lejJRWjB3?oc=5",
+          "source": "Unknown source",
+          "publishedAt": "2026-07-01T11:11:12.000Z",
+          "ageHours": 125,
+          "isFresh": false,
+          "summary": "API reference  Midnight Docs"
+        },
+        {
+          "topicKey": "midnight-network",
+          "title": "Midnight DApp connector API - Midnight Docs",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE94QjZJY2xmbXRyNWlSTFktY0dEZmcyTXpNSkFWbC12RUZYMlM5clpnYUd2N1NycjNIUEpXMEpLMExmTHBqQ25WWkhMOUF3UVNUMEU1dklUMVVJQkdUcGppc0lBUGtHTjhEQ0E?oc=5",
+          "source": "Unknown source",
+          "publishedAt": "2026-07-01T11:11:12.000Z",
+          "ageHours": 125,
+          "isFresh": false,
+          "summary": "Midnight DApp connector API  Midnight Docs"
+        },
+        {
+          "topicKey": "midnight-network",
+          "title": "Latest stable release - Midnight Docs",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5YeGlNOUxLWWxGYmk3QVByV0JCWGNnNkEtOUJQUnBweDllQzhNdDhEWEFpLXdjSlRXdFdTalNkNzZCeHVvYTFSM2lOVE9iYUJWWENkdk1qazRMcHM?oc=5",
+          "source": "Unknown source",
+          "publishedAt": "2026-07-01T11:11:12.000Z",
+          "ageHours": 125,
+          "isFresh": false,
+          "summary": "Latest stable release  Midnight Docs"
+        },
+        {
+          "topicKey": "midnight-network",
+          "title": "Midnight developer documentation - Midnight Docs",
+          "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTFAySnNyOEt3RktzODRxOXJwYXE4Sk91OW9QOEtCTWRiTk5LYVlUcFViLUZuLWx3Y0hpSDlMdFQ0M3dRYWh0?oc=5",
+          "source": "Unknown source",
+          "publishedAt": "2026-07-01T11:11:12.000Z",
+          "ageHours": 125,
+          "isFresh": false,
+          "summary": "Midnight developer documentation  Midnight Docs"
+        },
+        {
+          "topicKey": "midnight-network",
+          "title": "Compact fixup usage page - Midnight Docs",
+          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9sY1VIdnpGSHJYNnhpZ1Myd3hOblc1SDNFV1QtV2p3RHZfYWxFLTk4bHRWdm1nMmpiLTA4bmVNRkJ1cHJmWHU0Vks1SUtEcG0xZFVrTjRoTWZsakVXaE16c0NxdDdHaG52RTdKSmk0Wlo5SXBOM0o2bjVWU1JxZw?oc=5",
+          "source": "Unknown source",
+          "publishedAt": "2026-07-01T11:11:12.000Z",
+          "ageHours": 125,
+          "isFresh": false,
+          "summary": "Compact fixup usage page  Midnight Docs"
+        },
+        {
+          "topicKey": "midnight-network",
+          "title": "Midnight Node overview - Midnight Docs",
+          "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5oZkNVZXNEM1c3TkpQcmE5dG13ejdxbWEyVVcyZlJyY2hqWmVxNTdDM2hZOXlRNEtSRHBJbzktNDUxdXgwWU5CTzM3NA?oc=5",
+          "source": "Unknown source",
+          "publishedAt": "2026-07-01T11:11:12.000Z",
+          "ageHours": 125,
+          "isFresh": false,
+          "summary": "Midnight Node overview  Midnight Docs"
+        },
+        {
+          "topicKey": "midnight-network",
+          "title": "Bulletin board DApp - Midnight Docs",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1RV3JXQ0tqVVZJazJEVXpsWkYtaUFiS2dQYVg1d1ZoeUdUdEhYTzkxdEVocnN1MlljV0dJVjFmTXNMNVN5TmlTblNpZkNyQnRxX1pWVWMyWWpEekpTNnRFeg?oc=5",
+          "source": "Unknown source",
+          "publishedAt": "2026-07-01T11:11:12.000Z",
+          "ageHours": 125,
+          "isFresh": false,
+          "summary": "Bulletin board DApp  Midnight Docs"
         }
-      ]
+      ],
+      "errors": []
     },
     {
       "key": "cardano",
@@ -32,19 +104,91 @@
         "https://news.google.com/rss/search?q=Cardano+when:7d&hl=en-US&gl=US&ceid=US:en",
         "https://news.google.com/rss/search?q=site:cardano.org+Cardano+when:7d&hl=en-US&gl=US&ceid=US:en"
       ],
-      "freshCount": 0,
-      "updatedAt": "2026-07-05T13:48:51.599Z",
-      "items": [],
-      "errors": [
+      "freshCount": 8,
+      "updatedAt": "2026-07-06T15:41:26.657Z",
+      "items": [
         {
-          "feed": "https://news.google.com/rss/search?q=Cardano+when:7d&hl=en-US&gl=US&ceid=US:en",
-          "error": "Status code 503"
+          "topicKey": "cardano",
+          "title": "Cardano Rises to 14th in Market Cap as 14,783 New Holders Join - KuCoin",
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOdENPQ21weDJTd29tTy12QnlWaHI2aDVGWFpYNFdRXzBsUHRCdmFPRC02dGtJUHV4QVBGS25rUElMazl2T1dkQ1U0T1l0OHEyOUU4S0kwaE1lZkMyZUJCdnlYdWNPVXl1UVNkdWFiN0tHQmNveWV3YzlKd01fOHB3a0dxQlhoLXdBWnNoTVllLWd6d1lxYlRWd0JXcnE?oc=5",
+          "source": "Unknown source",
+          "publishedAt": "2026-07-06T14:43:18.000Z",
+          "ageHours": 1,
+          "isFresh": true,
+          "summary": "Cardano Rises to 14th in Market Cap as 14,783 New Holders Join  KuCoin"
         },
         {
-          "feed": "https://news.google.com/rss/search?q=site:cardano.org+Cardano+when:7d&hl=en-US&gl=US&ceid=US:en",
-          "error": "Status code 503"
+          "topicKey": "cardano",
+          "title": "Oura, Cardano builder tool - Cardano Developer Portal",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBtdVBFMFM5UTNxclU2RnVNWkFHUDdsV19vdF9nc3NVcXRMVU5WUm1Bc0RiR2pVQzA1YnJ6d2FkNUdXU3J5bzY5RGlRNjhhVUtEb0ZIMQ?oc=5",
+          "source": "Unknown source",
+          "publishedAt": "2026-07-06T14:09:14.000Z",
+          "ageHours": 2,
+          "isFresh": true,
+          "summary": "Oura, Cardano builder tool  Cardano Developer Portal"
+        },
+        {
+          "topicKey": "cardano",
+          "title": "Cardano leads way as large cryptocurrencies slump - MarketWatch",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQTGRXQmpwZTU3Qjh2RDlGR1lsWTVHVE9ZelNDZzh5d21OWlVsanhLdlFFMzJuekRSMmNoaEhuRC12cEFCRDVsc0NCV29maFY0VTJhZnFEVHhTd1UzZ1NjTlhIRG5pQmZra0lWZms0TzkwczF0Zi1jcjRFS1pUTldoT1F0b1E1ck5xV3BDQWstb2hfWVY0MklLV0NQZXN4LTZiZkI5MnFmTE0xeVZaWkE?oc=5",
+          "source": "Unknown source",
+          "publishedAt": "2026-07-06T14:00:00.000Z",
+          "ageHours": 2,
+          "isFresh": true,
+          "summary": "Cardano leads way as large cryptocurrencies slump  MarketWatch"
+        },
+        {
+          "topicKey": "cardano",
+          "title": "Cardano Price Forecast: ADA Is Making a Summer Comeback — Can It Finally Break Out in 2026? - Bitcoin Foundation",
+          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNekdNWEp3em1rQ0hDYkw5TUpHRkdkRUNGZFlVanpVblQ2V29xUElIc2RFU0xUWWppTFV1WWh3bGNvV01IWUE2S0FYdnNZQmZKRkVMSTI3Q0hQaDVaM3dCSjdmVWlZUzE0Y1A5TEZ3d0VFNm9oZWRNcUFVRWRsUWRqNHpWd0h4cE14ZEtLY0piNjlTYnNUNDIzeHpVS2lMSmNzU1E2TmpIM2x0MmdDcEExQ3hONEx0UWU3VkdoYXRNZExLVG1sTDdmeGFoeWo?oc=5",
+          "source": "Unknown source",
+          "publishedAt": "2026-07-06T13:21:21.000Z",
+          "ageHours": 2,
+          "isFresh": true,
+          "summary": "Cardano Price Forecast: ADA Is Making a Summer Comeback — Can It Finally Break Out in 2026?  Bitcoin Foundation"
+        },
+        {
+          "topicKey": "cardano",
+          "title": "Cardano drops 4% amid selling pressure; Leios u... - Pluang",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPaUZUWmdkeTBKdWJQUXVHaVJvR0FpeUZLbmJQejlKR0JkbnFKbWpudUdTR2FnQS1CVXp4a2p6azNSVEdIMlZHdVprb2N3c1JwcFFxVndpUjZQdFBhYmQ3eEl0QVNjYkVDcGtrcjRBQS1teUNhQkxIQkZlRXFJQmg0WTNtcFlGemRrWTkwNEZ0QWhLNDF0UVJ2YkdocUVTYjVOcE1adjlNOUV5Tmw1?oc=5",
+          "source": "Unknown source",
+          "publishedAt": "2026-07-06T13:10:23.000Z",
+          "ageHours": 3,
+          "isFresh": true,
+          "summary": "Cardano drops 4% amid selling pressure; Leios u...  Pluang"
+        },
+        {
+          "topicKey": "cardano",
+          "title": "Here's What to Expect for Cardano in July - AOL.com",
+          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5HLXVyMjRScExKbEtQdlI4a0tmWmlOVm9yNEdzMmdJRXpyMk9iNW5GSDEza1I4NUFHRXFMakExeTdfSWZ3VDZPSzJKWkxfV1hnZ2pTNDBtelMwYWxhTzQtMVk5V0RBc2VvM0FxeHRid1BmTGJPemxJ?oc=5",
+          "source": "Unknown source",
+          "publishedAt": "2026-07-06T12:24:39.000Z",
+          "ageHours": 3,
+          "isFresh": true,
+          "summary": "Here's What to Expect for Cardano in July  AOL.com"
+        },
+        {
+          "topicKey": "cardano",
+          "title": "SecondFi won’t reopen after Cardano wallet breach - Crypto News",
+          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE90UnN4ckJ1UFZxTEZXcHNDYXRnZFkxLTJQeURCY3R3WkRfN2prLWpvNWtMVXd4Y0JJSGVMMERQb3Y3UEtUSTdOSVB3RG9fbUsxclhYSmZjRl8tT1hoTkZRZ3FubzlqOXIxNVo3aWdpa1B5ZU5wXzhqRA?oc=5",
+          "source": "Unknown source",
+          "publishedAt": "2026-07-06T11:03:40.000Z",
+          "ageHours": 5,
+          "isFresh": true,
+          "summary": "SecondFi won’t reopen after Cardano wallet breach  Crypto News"
+        },
+        {
+          "topicKey": "cardano",
+          "title": "Your staking rewards are being taxed twice - Cardano Forum",
+          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNbGZyczdJVTBBZmtwVlJWY0R3dE5tZktnYl9QY1NUVElwYVhiYlFNUmhQWlBCX0RqMG5zYmpDXy1uUVQzQ005LThIa3NaMDl1T2RVZnBBM1U5WHVUeWhEcm5sQlBJaUowSnJJNU91eXV1SVloUFNubnRHWFRka1NwNHJyRQ?oc=5",
+          "source": "Unknown source",
+          "publishedAt": "2026-07-06T09:59:04.000Z",
+          "ageHours": 6,
+          "isFresh": true,
+          "summary": "Your staking rewards are being taxed twice  Cardano Forum"
         }
-      ]
+      ],
+      "errors": []
     },
     {
       "key": "midnight-city",
@@ -54,14 +198,9 @@
         "https://news.google.com/rss/search?q=%22Midnight+City%22+Cardano+OR+site:midnight.city+when:14d&hl=en-US&gl=US&ceid=US:en"
       ],
       "freshCount": 0,
-      "updatedAt": "2026-07-05T13:48:51.599Z",
+      "updatedAt": "2026-07-06T15:41:26.657Z",
       "items": [],
-      "errors": [
-        {
-          "feed": "https://news.google.com/rss/search?q=%22Midnight+City%22+Cardano+OR+site:midnight.city+when:14d&hl=en-US&gl=US&ceid=US:en",
-          "error": "Status code 503"
-        }
-      ]
+      "errors": []
     },
     {
       "key": "iog",
@@ -71,19 +210,81 @@
         "https://news.google.com/rss/search?q=%22Input+Output+Global%22+OR+IOG+Cardano+when:7d&hl=en-US&gl=US&ceid=US:en",
         "https://news.google.com/rss/search?q=site:iohk.io+%22Input+Output%22+when:7d&hl=en-US&gl=US&ceid=US:en"
       ],
-      "freshCount": 0,
-      "updatedAt": "2026-07-05T13:48:51.599Z",
-      "items": [],
-      "errors": [
+      "freshCount": 2,
+      "updatedAt": "2026-07-06T15:41:26.657Z",
+      "items": [
         {
-          "feed": "https://news.google.com/rss/search?q=%22Input+Output+Global%22+OR+IOG+Cardano+when:7d&hl=en-US&gl=US&ceid=US:en",
-          "error": "Status code 503"
+          "topicKey": "iog",
+          "title": "Cardano Foundation says OpenUSD integration possible after Visa, Ripple join - 디지털투데이",
+          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQOVN5UHFKVUNFdWhJVlBYd2Y3SHU1QWkzMmk5N0xEeVUwMXdFaDhlT3hUNW82QndkSFgyNmJCVXhodG1uVlZDXzEzQV9MOUtjX0xEUlZpSE1pb2RTRnkwTk1OVENBOEtkSzg5STRIejhtRnZhRnlyYVdqZFJFZm5IRUpFVWs5VUVFM0gyUFhJa3JTZkd3Yms0bWpYVjNJa0R1b2tOYW5SaUNWTHRzQ25CS25FN2R5dkFyTkRsdQ?oc=5",
+          "source": "Unknown source",
+          "publishedAt": "2026-07-06T01:16:49.000Z",
+          "ageHours": 14,
+          "isFresh": true,
+          "summary": "Cardano Foundation says OpenUSD integration possible after Visa, Ripple join  디지털투데이"
         },
         {
-          "feed": "https://news.google.com/rss/search?q=site:iohk.io+%22Input+Output%22+when:7d&hl=en-US&gl=US&ceid=US:en",
-          "error": "Status code 503"
+          "topicKey": "iog",
+          "title": "Cardano Price Prediction July 2026: RealFi Testnet Lifts ADA Outlook as Pepeto Presale Pulls in Over $10.3M - openPR.com",
+          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxObEZxcTZGNWh3VUVvQ0dyYmktM3NrQWVWd3dhMWhZZ1kwM2NkdXdoeEZNZFR1UFdNd2tXZDNMaFFBdGpUY18wOUFqT2F3U05LQ3lIYnJISzVRaWw4TUJJbkxJcFBCQjBVVFI0c0pIemJzRjk4VGhuY3kxZ2RLQmMwVjBJNmFIV0xaSmFXVzJrblJyME1HclRVRjdQYw?oc=5",
+          "source": "Unknown source",
+          "publishedAt": "2026-07-05T23:29:51.000Z",
+          "ageHours": 16,
+          "isFresh": true,
+          "summary": "Cardano Price Prediction July 2026: RealFi Testnet Lifts ADA Outlook as Pepeto Presale Pulls in Over $10.3M  openPR.com"
+        },
+        {
+          "topicKey": "iog",
+          "title": "Learn All Crypto Topics | Phemex Academy - Phemex",
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1SQi1HSlc1UGdBVEg4Tkk5blE1ZHo3NFo3YmJ1My1LMjJtV1l1SmdLaHc1Q0JyVnJfYk5WcUZ5andtQjByb1NsbExxT0FlVDNCLThrLUgyaXpON3JQQkMzMXlha2c5cjYzcDRQTWVQdlVoZ3Y3T0E?oc=5",
+          "source": "Unknown source",
+          "publishedAt": "2026-07-05T05:13:09.000Z",
+          "ageHours": 34,
+          "isFresh": false,
+          "summary": "Learn All Crypto Topics | Phemex Academy  Phemex"
+        },
+        {
+          "topicKey": "iog",
+          "title": "Cardano Foundation Hints at Deeper Open USD Engagement, Says “We Are Exploring Other Integration Options” - Cryptonews.net",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1fUzhBaW1ZQnpITFJSSVN4UFd6bExyOUJ6dGhNaS1NbTE2Z1AyY1lLNWc2T3NxdnlkcUVqRUN0WUctVmVGVm9OVUwzNHBHQktEUGtQeGtieW1kUQ?oc=5",
+          "source": "Unknown source",
+          "publishedAt": "2026-07-03T14:02:08.000Z",
+          "ageHours": 74,
+          "isFresh": false,
+          "summary": "Cardano Foundation Hints at Deeper Open USD Engagement, Says “We Are Exploring Other Integration Options”  Cryptonews.net"
+        },
+        {
+          "topicKey": "iog",
+          "title": "Did Cardano’s Own Governance Block Its Open USD Integration? - The Cryptonomist",
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9wTzE4MDBiT05FcjRzaHI0SFBDbEJMenBBcm5jS1JfSG5tY3Z4X0ZXZDd1anBUdHFUTG4xU29DQ3hiMXoxSnlURzBJYXlBMHhQNWZ1Y1dfTElabzZCY0NHbXdOOHlnS0JTVUZiV253TDJzeDRVa0E?oc=5",
+          "source": "Unknown source",
+          "publishedAt": "2026-07-03T11:09:07.000Z",
+          "ageHours": 77,
+          "isFresh": false,
+          "summary": "Did Cardano’s Own Governance Block Its Open USD Integration?  The Cryptonomist"
+        },
+        {
+          "topicKey": "iog",
+          "title": "Hoskinson Responds to Criticism Over OUSD Stablecoin Exclusion, Says DRep Can’t Reject Cardano Commercialization and Complain About It - The Crypto Basic",
+          "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPc3gzdU1GRjRRUGZJYzBXOGpaeUNyZ3pCZlM2YzNTeVB1RHl5bUdLZjRsUVh6d1AzRkJiWWRIY2dCTmZ0VmpORWx6N0VLaTJpYVYzU1NIbzZfU2pBenZOVzNkY3lqVG56R1FiZC1CN2VmR2tHdkpFcjZtajJZQVZhYjZOQkR1YTctbWVvVUhkT2RTRUVWVU8wWW9VWlR5bTVPeDJQS2R3Z2tkWnhLREpLc05zWHdCc3BTTkZwZ2Q0cmotNHA0di16b0pRdVY2V0Q0U0N5SUlROGpPUnNyZlNmQ3poME1IaWVzQkZuVk8xczVfMDdlazhMVVdMcENyYXJ0?oc=5",
+          "source": "Unknown source",
+          "publishedAt": "2026-07-02T08:59:00.000Z",
+          "ageHours": 103,
+          "isFresh": false,
+          "summary": "Hoskinson Responds to Criticism Over OUSD Stablecoin Exclusion, Says DRep Can’t Reject Cardano Commercialization and Complain About It  The Crypto Basic"
+        },
+        {
+          "topicKey": "iog",
+          "title": "Hoskinson Says “I’m the Guy Who Has Been Here Since Day One,” Reaffirms Commitment to Lead Cardano - Cryptonews.net",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5KRHJFS0tpLTM3ZkdTckk3UUl4UzA5YU93OHZCU2pqU1BleGNQbWkwSmNRRlYxeVJ0Nk93UU0yTElCWUJNWFhqdVhsVURCSGlyZmRPMDRfS3FoQQ?oc=5",
+          "source": "Unknown source",
+          "publishedAt": "2026-07-01T19:54:27.000Z",
+          "ageHours": 116,
+          "isFresh": false,
+          "summary": "Hoskinson Says “I’m the Guy Who Has Been Here Since Day One,” Reaffirms Commitment to Lead Cardano  Cryptonews.net"
         }
-      ]
+      ],
+      "errors": []
     },
     {
       "key": "intersect",
@@ -93,19 +294,91 @@
         "https://news.google.com/rss/search?q=Intersect+Cardano+when:7d&hl=en-US&gl=US&ceid=US:en",
         "https://news.google.com/rss/search?q=site:intersectmbo.org+Intersect+when:14d&hl=en-US&gl=US&ceid=US:en"
       ],
-      "freshCount": 0,
-      "updatedAt": "2026-07-05T13:48:51.599Z",
-      "items": [],
-      "errors": [
+      "freshCount": 3,
+      "updatedAt": "2026-07-06T15:41:26.657Z",
+      "items": [
         {
-          "feed": "https://news.google.com/rss/search?q=Intersect+Cardano+when:7d&hl=en-US&gl=US&ceid=US:en",
-          "error": "Status code 503"
+          "topicKey": "intersect",
+          "title": "Cardano rebound brings investors back, 14,783 new wallets added - 디지털투데이",
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQN3ptckM1cnpIRzF4Sl9jQW42MWlWRFMxQ3BoTzFTeDRSOFZtcGxoYWhGa25wQnR1c1BiMXcwbkExcUo0ZG1qWjF4eGU4cTRJOFAyMm9VMDBLMkV4VFRHQlI1dXBhOW9YdFFnemdqWjE4Tk96SGQ4WTU0d1FuWjFWMWRYaTBnSEdCNWR3aUJMZlE5LTRGVXJJX3EzbnpXdzlDcjl1UHVZRWNoZw?oc=5",
+          "source": "Unknown source",
+          "publishedAt": "2026-07-06T01:56:18.000Z",
+          "ageHours": 14,
+          "isFresh": true,
+          "summary": "Cardano rebound brings investors back, 14,783 new wallets added  디지털투데이"
         },
         {
-          "feed": "https://news.google.com/rss/search?q=site:intersectmbo.org+Intersect+when:14d&hl=en-US&gl=US&ceid=US:en",
-          "error": "Status code 503"
+          "topicKey": "intersect",
+          "title": "Cardano Quietly Rallies 32% With 14,783 New ADA Wallets Joining Network - Bitget",
+          "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBMRTZzVEhCZWh5Y2JLNF9DRFN0QW5PR0FYd1dnQ0VldlpfeEk2ekYwcGYydjF0OTVsQ2dCazBJQVQxdHBaMmNtOEFCMXRndVJhMG9CWkxId1NWMTI4aER5T0pDWdIBY0FVX3lxTFBMRTZzVEhCZWh5Y2JLNF9DRFN0QW5PR0FYd1dnQ0VldlpfeEk2ekYwcGYydjF0OTVsQ2dCazBJQVQxdHBaMmNtOEFCMXRndVJhMG9CWkxId1NWMTI4aER5T0pDWQ?oc=5",
+          "source": "Unknown source",
+          "publishedAt": "2026-07-05T23:00:10.000Z",
+          "ageHours": 17,
+          "isFresh": true,
+          "summary": "Cardano Quietly Rallies 32% With 14,783 New ADA Wallets Joining Network  Bitget"
+        },
+        {
+          "topicKey": "intersect",
+          "title": "Cardano rose 32% in the past week, network upgrade preparation reached 83% - Bitget",
+          "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE4zak9MMXItUzFpbGRGTzlrVmhyLUpjdlFLV2g5SWtqbjl3dFRGRkNPWTk3bG1tanVUckxjNVpIcW80NmlMbWkzM3dlaFN2dkNZb3A4clU1T3lwbENkNEoybzFBVdIBY0FVX3lxTE4zak9MMXItUzFpbGRGTzlrVmhyLUpjdlFLV2g5SWtqbjl3dFRGRkNPWTk3bG1tanVUckxjNVpIcW80NmlMbWkzM3dlaFN2dkNZb3A4clU1T3lwbENkNEoybzFBVQ?oc=5",
+          "source": "Unknown source",
+          "publishedAt": "2026-07-05T16:52:04.000Z",
+          "ageHours": 23,
+          "isFresh": true,
+          "summary": "Cardano rose 32% in the past week, network upgrade preparation reached 83%  Bitget"
+        },
+        {
+          "topicKey": "intersect",
+          "title": "- Intersect MBO",
+          "link": "https://news.google.com/rss/articles/CBMirwJBVV95cUxNdVp3SC1CcmhZSGIzZ1dKT3FLM0lrcmU0TUFQRjc4Z3M4bVFDMmgta1ZqNHYzSnA4NmtPTEt3TUZ5VENkSkJFSFVhelQ2Mzc0dXczZGtkbk1wYnF0MjduVHp0Nld4WmVJdS1qakZFOFZTSHNDV2RLckV3bjZVM25WOGdEOW9ZYkhnSmpMVmNSdlg1cjM2WGdjOFhBd1l0RGN1Y3VFX2g5ZTVXWDF2Y2cxNHczdkZleU9ENnRlMkpmN1gwVHFFQXlVNS1kVkxGUzJ4UkJaWEIyQjAtMW1ady1UZmN4SzNlTTBtQnhZYTJheWd0NkJZdEJ3RVZNeE9NYkJWOG9TZ2x2WElzckVhQkZkbjlZWlpSbjhha3ZGakg2SF9uVHF4RDJ1Ri1Pc0pYQ0E?oc=5",
+          "source": "Unknown source",
+          "publishedAt": "2026-07-04T21:10:02.000Z",
+          "ageHours": 43,
+          "isFresh": false,
+          "summary": "Intersect MBO"
+        },
+        {
+          "topicKey": "intersect",
+          "title": "Intersect weekly update #118 July 3, 2026 - Intersect MBO",
+          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1kdHdxaEZwREd0VHN4c0FpcnROcmYwRFl6NVZFWVY4YjhHamtqLWQwX21XRDFJS0I1akRIMkhtTk8tZzZ5VTQzQk5HY0QyMnZYTzVGQ3NyWEdWMHdzeWZ4NVBlOEhXa0h1RHNYZkctWmhkcWNtclVoUw?oc=5",
+          "source": "Unknown source",
+          "publishedAt": "2026-07-03T15:11:50.000Z",
+          "ageHours": 72,
+          "isFresh": false,
+          "summary": "Intersect weekly update #118 July 3, 2026  Intersect MBO"
+        },
+        {
+          "topicKey": "intersect",
+          "title": "News from Across the Cardano Community | Intersect - Intersect MBO",
+          "link": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE1obXMtOUZfT2p6bE9FNzBubXBaY0R3ZmRQbzVlc1djTmdUS1Q1NTFCaDJ4V1E0VGFsakN6anNpQzlqd1k?oc=5",
+          "source": "Unknown source",
+          "publishedAt": "2026-07-03T15:11:50.000Z",
+          "ageHours": 72,
+          "isFresh": false,
+          "summary": "News from Across the Cardano Community | Intersect  Intersect MBO"
+        },
+        {
+          "topicKey": "intersect",
+          "title": "Cardano Foundation’s June Update Showcases New Partnerships and Strong Governance Progress - Cryptonews.net",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFAySHo1REV4Sjc2UzlmYjRYRjFZQ3RraDczVHFuZmJnVVFybGFRbGQ4ak1pVElEYXN2NEhMRUQ0Y2J4MndzbGF1d3NuX0NONmd5UFFseTN0dG82UQ?oc=5",
+          "source": "Unknown source",
+          "publishedAt": "2026-07-03T14:12:07.000Z",
+          "ageHours": 73,
+          "isFresh": false,
+          "summary": "Cardano Foundation’s June Update Showcases New Partnerships and Strong Governance Progress  Cryptonews.net"
+        },
+        {
+          "topicKey": "intersect",
+          "title": "Technical Steering committee (TSC) - Intersect - Knowledge Base",
+          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPR3RHZ0VTZllNY1llMTU1X3BPb2ViZU9GSk0yY3JfdGJnM3d6eGpLQ2dCUVZ1N1JSRWxHQXREMWt3d3lzM0JMYVZSeVU3cmZuZXk5Skw5X09qNmJac2RrTmdxZlYwMjJWdnhHclFrQjI2RXRGemtLbmtxWl9hNEl6YmM2QTZpQVBvaDBnZ2tZUmFlUFdLTlVFNUw1OTRwUzdVYzRQWS1NTGVKX3BJSlhKXzFnd0hXVDhjVVVmZTltZVRBOGNpSDJxUg?oc=5",
+          "source": "Unknown source",
+          "publishedAt": "2026-07-03T13:06:35.000Z",
+          "ageHours": 75,
+          "isFresh": false,
+          "summary": "Technical Steering committee (TSC)  Intersect - Knowledge Base"
         }
-      ]
+      ],
+      "errors": []
     },
     {
       "key": "charles-hoskinson",
@@ -115,19 +388,91 @@
         "https://news.google.com/rss/search?q=%22Charles+Hoskinson%22+when:7d&hl=en-US&gl=US&ceid=US:en",
         "https://news.google.com/rss/search?q=site:youtube.com+%22Charles+Hoskinson%22+when:7d&hl=en-US&gl=US&ceid=US:en"
       ],
-      "freshCount": 0,
-      "updatedAt": "2026-07-05T13:48:51.599Z",
-      "items": [],
-      "errors": [
+      "freshCount": 8,
+      "updatedAt": "2026-07-06T15:41:26.657Z",
+      "items": [
         {
-          "feed": "https://news.google.com/rss/search?q=%22Charles+Hoskinson%22+when:7d&hl=en-US&gl=US&ceid=US:en",
-          "error": "Status code 503"
+          "topicKey": "charles-hoskinson",
+          "title": "How To Buy Cardano? - SunCrypto",
+          "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9HTTZCSGJWQTJDVjRaLU80UzNxelR6LVdyeXJfSmEyM0NCa0NiT3U0bFR1UHRoaVFPQmYtd0NGOVlJaFhtbFdRS1hrckdMVmxBNlFmWGlsQUw?oc=5",
+          "source": "Unknown source",
+          "publishedAt": "2026-07-06T14:04:54.000Z",
+          "ageHours": 2,
+          "isFresh": true,
+          "summary": "How To Buy Cardano?  SunCrypto"
         },
         {
-          "feed": "https://news.google.com/rss/search?q=site:youtube.com+%22Charles+Hoskinson%22+when:7d&hl=en-US&gl=US&ceid=US:en",
-          "error": "Status code 503"
+          "topicKey": "charles-hoskinson",
+          "title": "ADA Jumps Ahead of XLM Amid Unexpected Rally - Bitget",
+          "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBMck1ueElybDZ1STlxS05iTU5RMXFhbUd4bm5HamJKWFc1Vnp5aVk3VW1qUTh0UGFQOGEyVzNKMkxDRmowX1dQWEtUWFpBbTRWLVZzQ3o4Rm9YVzBzUW1peERURdIBY0FVX3lxTFBMck1ueElybDZ1STlxS05iTU5RMXFhbUd4bm5HamJKWFc1Vnp5aVk3VW1qUTh0UGFQOGEyVzNKMkxDRmowX1dQWEtUWFpBbTRWLVZzQ3o4Rm9YVzBzUW1peERURQ?oc=5",
+          "source": "Unknown source",
+          "publishedAt": "2026-07-06T13:28:55.000Z",
+          "ageHours": 2,
+          "isFresh": true,
+          "summary": "ADA Jumps Ahead of XLM Amid Unexpected Rally  Bitget"
+        },
+        {
+          "topicKey": "charles-hoskinson",
+          "title": "Cardano drops 4% amid selling pressure; Leios u... - Pluang",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPaUZUWmdkeTBKdWJQUXVHaVJvR0FpeUZLbmJQejlKR0JkbnFKbWpudUdTR2FnQS1CVXp4a2p6azNSVEdIMlZHdVprb2N3c1JwcFFxVndpUjZQdFBhYmQ3eEl0QVNjYkVDcGtrcjRBQS1teUNhQkxIQkZlRXFJQmg0WTNtcFlGemRrWTkwNEZ0QWhLNDF0UVJ2YkdocUVTYjVOcE1adjlNOUV5Tmw1?oc=5",
+          "source": "Unknown source",
+          "publishedAt": "2026-07-06T13:10:23.000Z",
+          "ageHours": 3,
+          "isFresh": true,
+          "summary": "Cardano drops 4% amid selling pressure; Leios u...  Pluang"
+        },
+        {
+          "topicKey": "charles-hoskinson",
+          "title": "Pepeto Presale Passes Key Milestone as Cardano Price Tests Recovery - TechBullion",
+          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPYTI4OTRFRlR2d2prVmRLeVpBOUxLVjBWaGpia3NnSXQxSG9DVjR1SlY5UWRjWWdaYTNqNDg0WFhzWGF1ZDJWMFZkekQxWXl2M3UtMTE5SkNaTDlDRkZ0T0tPd1FiSEdMX0Z0VFYyaUdNSnVMUHo4TEJoOHY2N1N0UXJ5NjJEM0g5QXNkMEJSS0NUX1czWVBn?oc=5",
+          "source": "Unknown source",
+          "publishedAt": "2026-07-06T12:52:34.000Z",
+          "ageHours": 3,
+          "isFresh": true,
+          "summary": "Pepeto Presale Passes Key Milestone as Cardano Price Tests Recovery  TechBullion"
+        },
+        {
+          "topicKey": "charles-hoskinson",
+          "title": "LIVE AT THE MOVIE PREMIERE OF BUKKYWRIGHT THE RETURN OF OMOTARA JOHNSON - YouTube",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9OV3FkRWhvSzJsbFFSNV9SYWZhUm56ejdKZUtfUzNwTVhac0dvMVc2ZHd4NE1Ca2JpcHRYSVRFdHhpSVI4d09wQ2pOTHBxQWUxQ1EydS1B?oc=5",
+          "source": "Unknown source",
+          "publishedAt": "2026-07-06T12:12:22.000Z",
+          "ageHours": 3,
+          "isFresh": true,
+          "summary": "LIVE AT THE MOVIE PREMIERE OF BUKKYWRIGHT THE RETURN OF OMOTARA JOHNSON  YouTube"
+        },
+        {
+          "topicKey": "charles-hoskinson",
+          "title": "CARDANO ADA - Back On Track! Surging Back From Peak FUD! This Week's Schedule! - YouTube",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE14eThrZ3R6REVXTENiTWJ1MXg0TzFkWW5tRFhFd1ZrS1JMNlhHQWViQ0JBQU50Q3ZndnhNNGdvQzRhNVdxenB4NkJweU1zWjZROXBVS0Fn?oc=5",
+          "source": "Unknown source",
+          "publishedAt": "2026-07-06T11:30:27.000Z",
+          "ageHours": 4,
+          "isFresh": true,
+          "summary": "CARDANO ADA - Back On Track! Surging Back From Peak FUD! This Week's Schedule!  YouTube"
+        },
+        {
+          "topicKey": "charles-hoskinson",
+          "title": "Cardano Price as Hoskinson Predicts ADA Will Rival XRP Ledger After Leios - CoinGape",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQaThrRS13QVhzSkRWWF9LVko5Z1BhYndvdHhNVWFCZ25WRXRQdFBMUFdnZkI3eV9RaDdOWmpkWmtNNk8tbXFaVDlKdEhEWVhYWFUwX3BwV3FnMi1MRTZfTmxub1VMYl9leU1vekJnYW54cWZ6RXZCR0RaZjRlUnRJWU1icjB0QURVM2xQWUpUellPYjVVLXBnMnJoSEtmLXZodkJHZnRB?oc=5",
+          "source": "Unknown source",
+          "publishedAt": "2026-07-06T09:39:19.000Z",
+          "ageHours": 6,
+          "isFresh": true,
+          "summary": "Cardano Price as Hoskinson Predicts ADA Will Rival XRP Ledger After Leios  CoinGape"
+        },
+        {
+          "topicKey": "charles-hoskinson",
+          "title": "How to make Registration,swap & staking in zorp Protocol ..?? - YouTube",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9PZkYxSkxOZnZJbGV4WEZkSEVRQXduSEJDUUtMbkdUdUc1akhfcDJlaEdlYVI1QU1lWDQ0QmMwazFuOW1RUUVYVkRIVGZCbUdFTWdkV0xB?oc=5",
+          "source": "Unknown source",
+          "publishedAt": "2026-07-06T09:35:57.000Z",
+          "ageHours": 6,
+          "isFresh": true,
+          "summary": "How to make Registration,swap & staking in zorp Protocol ..??  YouTube"
         }
-      ]
+      ],
+      "errors": []
     }
   ]
 }
