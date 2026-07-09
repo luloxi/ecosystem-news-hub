@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-08T14:23:50.725Z",
+  "generatedAt": "2026-07-09T15:18:15.490Z",
   "freshnessWindowHours": 24,
   "topics": [
     {
@@ -11,19 +11,8 @@
         "https://news.google.com/rss/search?q=site:forum.midnight.network+Midnight+when:7d&hl=en-US&gl=US&ceid=US:en"
       ],
       "freshCount": 0,
-      "updatedAt": "2026-07-08T14:23:50.725Z",
-      "items": [
-        {
-          "topicKey": "midnight-network",
-          "title": "Midnight Indexer - Midnight Docs",
-          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5JMVhQbWltMVBBcGs4bHVONGFBV0I2X2tpVi1CQ05RVno1NF9KMzhjWEpRYjlWR0JvQW1NcHVBbHQtWVFNQS1iUG11OVd6cGU5ejlQeEZ5MTFjNzVkRzlZbElFWWt5dw?oc=5",
-          "source": "Unknown source",
-          "publishedAt": "2025-04-09T10:45:31.000Z",
-          "ageHours": 10924,
-          "isFresh": false,
-          "summary": "Midnight Indexer  Midnight Docs"
-        }
-      ],
+      "updatedAt": "2026-07-09T15:18:15.490Z",
+      "items": [],
       "errors": []
     },
     {
@@ -35,87 +24,87 @@
         "https://news.google.com/rss/search?q=site:cardano.org+Cardano+when:7d&hl=en-US&gl=US&ceid=US:en"
       ],
       "freshCount": 8,
-      "updatedAt": "2026-07-08T14:23:50.725Z",
+      "updatedAt": "2026-07-09T15:18:15.490Z",
       "items": [
         {
           "topicKey": "cardano",
-          "title": "Large cryptocurrencies drop on Solana, Cardano decreases - MarketWatch",
-          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNUU10bFNyU2tYSUR3a3VlZ3RFR3RYYkwtbmY5T1p6ZFpmeURXX3RoaEdON3V0WVVWQnd0V21ibldkcFpoQnpwQVhRbUtlMlk5emRnakVqV2VraGdxZjI0aG04QXhCOXRJX21CY09sQ05XU2ZlZTNSSk5BNFFRZGVOTTc2TVNxOVM3NnJVWHdFb2hYRkt1aEVkY05OOFdLYnpjbUduQ0tSVXQyWVluQUVQUlJ0LUJTdw?oc=5",
+          "title": "ADA bulls eye $0.20 as Cardano founder says Ethereum is adopting its eUTXO concept - Bitget",
+          "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9yOTdZTWV0LU1WMlJ2LXJ0SFdDNmNJbzdWUG5BUmRVaC1NY0hFQkVDU09vcF9CTTZiS0IxdzFLb1RoRS0tMVRIcUFEZE1xV1owRk52UnVULWsydU1uay1Jd0lwbw?oc=5",
           "source": "Unknown source",
-          "publishedAt": "2026-07-08T14:00:00.000Z",
-          "ageHours": 0,
+          "publishedAt": "2026-07-09T13:02:57.000Z",
+          "ageHours": 2,
           "isFresh": true,
-          "summary": "Large cryptocurrencies drop on Solana, Cardano decreases  MarketWatch"
+          "summary": "ADA bulls eye $0.20 as Cardano founder says Ethereum is adopting its eUTXO concept  Bitget"
         },
         {
           "topicKey": "cardano",
-          "title": "Cardano Price Forecast: History Shows that ADA Could Rise to $1 Again – Here’s Why - FXEmpire",
-          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPZThNUHNMNjlPZWFYMEpuMmRmMkRLWDItMFVoWHpXMFUwU2lLcmlaOHRGWmp3YUNvdlRudGk1SlZHSElaWkhnbnA4TTJBWER3YWRqMVVXMDN3VHQ0RDFqU05mOVd3UEFBTkNhN0FkWTFQeXdHRVhldmFmU1BZTlY5TDdUd2ZaaEdFTnZ4RjJFaXo3eExJSko3Mk5GWG9STjBNYVFreHAzSFEzd2ViX1JXSkNuRW5UeXphaERVQ3h4Tmt5X0xvWDI4?oc=5",
+          "title": "Fund Update: New $232.2M $LRCX stock position opened by Cardano Risk Management B.V. - Quiver Quantitative",
+          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOTWFIcXUyOFdJbVNUUWZ5RjEzdFphZ2o5bEthc3R6Z2FtaGNJSkhwcVNuRVRseTJibVU1blJYdTg1R1prQ1NlM0h5dFMzSE5tRHdUMzdSekpFMEFNdHVFLTYwX19LcFJFZXRqOEtRclBsRXAwVXc4emN3SVJzeG9nRDI3YUpLdDZCX1UzQzZ4amNHMkxMZ2ltQTREWUs1T0dteXFLTHdldUk5TDZVclpIX2VGazJqeHo4ZFVQTUJTTko?oc=5",
           "source": "Unknown source",
-          "publishedAt": "2026-07-08T13:18:00.000Z",
-          "ageHours": 1,
-          "isFresh": true,
-          "summary": "Cardano Price Forecast: History Shows that ADA Could Rise to $1 Again – Here’s Why  FXEmpire"
-        },
-        {
-          "topicKey": "cardano",
-          "title": "Cardano Founder Says Ethereum Is Quietly Copying Its Core Design - Yellow.com",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBSMlNhSVVJMkNtWGxZRURDclF5TFFqdnZVUTA3ZlREdlBsTm5aQ09JMEx2VHJhN0ROa293X0E2R2ZBdzFVdTNsQXJFWFFNR2drSE12c1FfSGhDb3RpT0lMY3pXVGo?oc=5",
-          "source": "Unknown source",
-          "publishedAt": "2026-07-08T13:06:23.000Z",
-          "ageHours": 1,
-          "isFresh": true,
-          "summary": "Cardano Founder Says Ethereum Is Quietly Copying Its Core Design  Yellow.com"
-        },
-        {
-          "topicKey": "cardano",
-          "title": "Cardano Price Prediction: ADA Pulls Back to $0.17 After a Strong Weekly Rally as Bulls Watch $0.20 and $0.22 Reclaim - Brave New Coin",
-          "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNQzN4S2xuWDVuSkhBRHBEY1ZtblZIN0U2d2tCVW5zOGZoeGpMTDY3RzZPS0owbEw1cE5VT2I2S3hFMXpQTGQtaDU5TFBPb3J0QjNkYlRPM2R3NTdNUFI4R3AtQV9VNzZJZFhLS1NOYTlfWWhpQWFKLXJwTXU2bFplWFFmamlNNjBDbWtnYU9jeEVpNE94aHZWQkRBdFlMZGV1OHNfOVBIS3NrWmpBeHBzeUJvU2I1RzE0QlBkRXNiYlBCY3oxUjVZYTV6NE9WQTgwME9FckFzSmFSMWt5ejY0?oc=5",
-          "source": "Unknown source",
-          "publishedAt": "2026-07-08T13:05:19.000Z",
-          "ageHours": 1,
-          "isFresh": true,
-          "summary": "Cardano Price Prediction: ADA Pulls Back to $0.17 After a Strong Weekly Rally as Bulls Watch $0.20 and $0.22 Reclaim  Brave New Coin"
-        },
-        {
-          "topicKey": "cardano",
-          "title": "ADA Whale Offloading Puts $0.138 in Sight - Cryptonews",
-          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9QbnltRVBHV0tJRmp4RlYtaWlESjA5a2U3ampVV1ZETDFKZ0RMR2EwN1NUUklsZGtoYm1xeGRtYWpmRGNObE1GVnFjRHFLak5PWXptQmdrdWx4YmtWNWhkTHVKeklXeDRzbjZWMEIzNEc5emFVOGlzZmp5bmI?oc=5",
-          "source": "Unknown source",
-          "publishedAt": "2026-07-08T11:32:13.000Z",
+          "publishedAt": "2026-07-09T12:31:00.000Z",
           "ageHours": 3,
           "isFresh": true,
-          "summary": "ADA Whale Offloading Puts $0.138 in Sight  Cryptonews"
+          "summary": "Fund Update: New $232.2M $LRCX stock position opened by Cardano Risk Management B.V.  Quiver Quantitative"
         },
         {
           "topicKey": "cardano",
-          "title": "Cardano Founder Hoskinson Claims Ethereum Is Secretly Copying Its Biggest Innovation - Yahoo Finance",
-          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPVVhpeTVRdXdILUtXcXJvSjBfTW82S1dEcndoU0tKX2NybTAzM3RVQlpfSVdXeEg5ZWJXLVlOYzVwellLR2Q2UUNtejcxNXkwMUQyVEljTjNGZHQtVTN6TXlQQndsYzBFT2tLVVg4NVJxQXB2QlN1ODMtelFoUTNTTWpzWDJUZFRjTGxwa3F4X1JvTm9peVNDdjFjaEVDWG1VNlVuWC1qZXNKUQ?oc=5",
+          "title": "Fund Update: New $185.5M $SLB stock position opened by Cardano Risk Management B.V. - Quiver Quantitative",
+          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOTU9aYUZkeHljTWdCRTFkclhJZFFtWm5WWnJid3hDNHdsT1lJZXkzNFpsYjhXMjNZVXJqckZGaXNKanl4LWdHQnhLb0NPU0pvaWJPMVZKZUMxMDc4cUI0bEVrS2dGbFFweDhtd1o2ZUVxUm52Qnlmay1rNk1CRmJRanpTd195cHVrZWZmZnFzSkJHS1ZhcWMzMXlKRDdKc2ZKQWRoVnJ5MDFQVlFqU2Voa3ZxUU5mM2pkb0pVaTNyYw?oc=5",
           "source": "Unknown source",
-          "publishedAt": "2026-07-08T10:23:40.000Z",
+          "publishedAt": "2026-07-09T12:31:00.000Z",
+          "ageHours": 3,
+          "isFresh": true,
+          "summary": "Fund Update: New $185.5M $SLB stock position opened by Cardano Risk Management B.V.  Quiver Quantitative"
+        },
+        {
+          "topicKey": "cardano",
+          "title": "Fund Update: New $187.3M $INTC stock position opened by Cardano Risk Management B.V. - Quiver Quantitative",
+          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQNUVMdWJZdzh0UG1YS1dXTmZPQllReDhnd0FRVlpmRi1qcTNHcEk1MkFWLTRtWGpsWGtqN3R6VzVKTjBCbUNZdXBkWjF6WUJUdmFPdkQwcEl5Z210UWhQcGR4ZFg2a0ltVFFqamZPbFdSUy01T2NkeU1fd09OdTNicFRZYzBkWDJsRC10RndQQmQ2LWhDSjZwejE5U05meGpSMTFiVm9DMS1Scm1mTlg1eEJrTzRmTUhDMWY1bHJ5dVc?oc=5",
+          "source": "Unknown source",
+          "publishedAt": "2026-07-09T12:31:00.000Z",
+          "ageHours": 3,
+          "isFresh": true,
+          "summary": "Fund Update: New $187.3M $INTC stock position opened by Cardano Risk Management B.V.  Quiver Quantitative"
+        },
+        {
+          "topicKey": "cardano",
+          "title": "Cardano’s eUTXO Model Takes Center Stage as Ethereum Eyes UTXO Adoption - TradingView",
+          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPWGh4QTJRREVxX051TFg5dWtaUjlfNU1kVnl6MmYzTUU4emE4dnotNGNJUlRZOTVJdTBVT3ZERW1RS3lNaWk3cFgzSi1CV0Y3NlhtYlRCc0FvMmxnTURDVlJaUHAzOWZsVGZjV25hcHZIOTJGbGdFUXZQbG14dDVJaWliWE1ud3BZbXRBS3RYQ0pfZl91emx3VEIzSHppNmpjY3gtc1ZCXzZZQWRGV2JpN2JSZVh0RUhhUTRmNkt0QmRsMmliUHBRRHdzUHk?oc=5",
+          "source": "Unknown source",
+          "publishedAt": "2026-07-09T11:38:52.000Z",
           "ageHours": 4,
           "isFresh": true,
-          "summary": "Cardano Founder Hoskinson Claims Ethereum Is Secretly Copying Its Biggest Innovation  Yahoo Finance"
+          "summary": "Cardano’s eUTXO Model Takes Center Stage as Ethereum Eyes UTXO Adoption  TradingView"
         },
         {
           "topicKey": "cardano",
-          "title": "Cardano (ADA) Drops 3.82% Amid Broad Crypto Risk-Off - CoinMarketCap",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBEai03T3BiZGVqQW41SEp5bDlRdEE4VzJJV2ZZVHYycUpZSmgwTFI1dDdyWnZWU2tZTHNMemg0UnoxUk84d2R1QTZOSkpkV3VhZGQ0Q1Zab3JsSXM1THdGSkZvbzVZWjNmdkdDT2JGUXQ?oc=5",
+          "title": "Cardano Tests Key Support Amid Downside Risks - TradingPedia",
+          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQSXZhUTNYNVBQSVJIa1Y2ZWJvQzI1SlkxSk5Ld1JRRTNlTElfTWxqOGN6dmtNQmdGOXlPS2pTMVVuVW9ZU1FKSEZ4bHBfcWk4ZS1Md2d4QXRYZVZkM2xKV3UyRTdaTGRReU1VY29MWkFPQ2U4ZWhRX2RLZFJqNXEzQUdHS0h6M0ZZZHJvZ1hYQQ?oc=5",
           "source": "Unknown source",
-          "publishedAt": "2026-07-08T09:06:00.000Z",
+          "publishedAt": "2026-07-09T09:58:24.000Z",
           "ageHours": 5,
           "isFresh": true,
-          "summary": "Cardano (ADA) Drops 3.82% Amid Broad Crypto Risk-Off  CoinMarketCap"
+          "summary": "Cardano Tests Key Support Amid Downside Risks  TradingPedia"
         },
         {
           "topicKey": "cardano",
-          "title": "Charles Hoskinson Says Ethereum Is Copying Cardano’s EUTXO Model - Coinpedia",
-          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNUFZQd2Q4MkdBSGdJd0VHVHdWM1ZQSUhPOWxVaGRUQWs4NnBQekVON1JTT0NSZXBGQTg4Y2w0T1BMb1FNaGZNNGZCSF9BVGl4SDhsR2w3WWd5emZpLWRYTkdOTDJnQ3BHYURqdVc1bm5jMnVFekR1dHZSQW5JdnZtMVlGZFJSTWFReTJ2cVZEMGo0aF9lU1VHYWRWY1ZQcmVWTjJJSVdR0gGrAUFVX3lxTFBOdVQ3bGZFQ3ZaRE1Jb181aWRrbkdJSkpmOWk4X0haeHVuUjRVNmNXQzNYSDNRbC1Ia0lod0p2ZGdHVHNveHM0eUdFRlgtbkZxakh0ZmZoSElCNGxHZmdCX3h2ZVhiXzdxMnRHWl8xWk9JamRLcWVDZG1OSHBOcnNydm9IRUhhM3BtOEtqTllfVWdpbWxOM1R6U1Iwb2U0amptUU1aVWkwOUJBOA?oc=5",
+          "title": "Top Altcoins Updates: Cardano and Ethereum Strengthen Their Bullish Case - CryptoRank",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQMy1jelNXVjNvb0tER05lNk4wdm9SOWZCZVFUMTB4NUpQQm13b2Y2LUY4dFpXaDhfS1IwUFdqaTJNeXQ1Vk9ibVN3TFUyZ0NTenNKcjItSEM2RGRhcVZMUE9qVjA2akZXeGF0bzl6LU9PdjNiU1BINVB0QTgxa2JSWTVpSXhKMkRmazJXLU45VFp6RjdyLUR3U1FjaEd6OTNxRTM4WHRlbHlZWFFwbWc?oc=5",
           "source": "Unknown source",
-          "publishedAt": "2026-07-08T07:14:18.000Z",
+          "publishedAt": "2026-07-09T08:37:23.000Z",
           "ageHours": 7,
           "isFresh": true,
-          "summary": "Charles Hoskinson Says Ethereum Is Copying Cardano’s EUTXO Model  Coinpedia"
+          "summary": "Top Altcoins Updates: Cardano and Ethereum Strengthen Their Bullish Case  CryptoRank"
+        },
+        {
+          "topicKey": "cardano",
+          "title": "Cardano Price Prediction 2026: Will ADA Recover or Extend Its Multi-Year Downtrend? - CryptoRank",
+          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQNXpnWENOWVlwdHktaWtkUV9hdXlXdm9CdjNoRkRjR1k3NGpWTm9UdVpWUUVHc3BWMUFPb2pOTEdxNUJKRG53a3NDRDEta3JicEtRZ3R6aGRkR1NPRTlneTNoME1STjZQYUE3b3U4Y1gwQ0xrNkZjMnFpRDN3MmpuUEF6dXc1RTFhUUo5d2FvYW95R3AxbENTSWYxblJaSmZxbm1OSXlQWjBVb3BweWpHcDh3c3BRT2hBVkJF?oc=5",
+          "source": "Unknown source",
+          "publishedAt": "2026-07-09T08:19:43.000Z",
+          "ageHours": 7,
+          "isFresh": true,
+          "summary": "Cardano Price Prediction 2026: Will ADA Recover or Extend Its Multi-Year Downtrend?  CryptoRank"
         }
       ],
       "errors": []
@@ -128,7 +117,7 @@
         "https://news.google.com/rss/search?q=%22Midnight+City%22+Cardano+OR+site:midnight.city+when:14d&hl=en-US&gl=US&ceid=US:en"
       ],
       "freshCount": 0,
-      "updatedAt": "2026-07-08T14:23:50.725Z",
+      "updatedAt": "2026-07-09T15:18:15.490Z",
       "items": [],
       "errors": []
     },
@@ -140,88 +129,88 @@
         "https://news.google.com/rss/search?q=%22Input+Output+Global%22+OR+IOG+Cardano+when:7d&hl=en-US&gl=US&ceid=US:en",
         "https://news.google.com/rss/search?q=site:iohk.io+%22Input+Output%22+when:7d&hl=en-US&gl=US&ceid=US:en"
       ],
-      "freshCount": 3,
-      "updatedAt": "2026-07-08T14:23:50.725Z",
+      "freshCount": 5,
+      "updatedAt": "2026-07-09T15:18:15.490Z",
       "items": [
         {
           "topicKey": "iog",
-          "title": "Hoskinson Says “There’s No Locking in Cardano,” Criticizes Ethereum Staking Model - The Crypto Basic",
-          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPdVFJelFNUTZlcVQySGd1V0piaFo3NTVDTjV2RnJLU2R5RW8tSjBJY0xWUFpYbC1vbVB6bHd3NnpwSkJ5UWVROXljbXBhY3JrZFVndmhWb3Z3ZkZQdmdveDA0QkRYMnhpWWVmejg4bVFYLWNOLUJhSHRMR2U4VmdRUTVrTldtUVdfUUVGUk5tbGFJb1QwenFXbklYYVc3di1faGxkU2Rwcm5qdlRQQ09STEdkNHhqcFE?oc=5",
+          "title": "Cardano Faces a Week of Crosswinds as Hack Fallout, Hard Fork Deadline, and Founder’s Broadside Co - Ad-hoc-news.de",
+          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNSGUtcWl1STVPeGx2NmhPcUZiekppdE5UTXBpX2lRNW80ZmlFY0gxaEdFNkstZS15OUdTSU10MmltZGRHeUM2Z2JhSmNPOE12TExPZnd0bmNDdHZlRTc2TXlwSlhCa0h0TmlQX2pFZXU0VTZRcEt2SHpsci1ZU2FPZVFtTFMxeTNueFRhaldhTmk3cF8tQWUxd09HbUZoZzFrdXpTM05IWWU3Q1RFVU95R3VrU1pURW01YkhUb2ZrSVBkdUhqM0tn?oc=5",
           "source": "Unknown source",
-          "publishedAt": "2026-07-08T13:27:22.000Z",
-          "ageHours": 1,
+          "publishedAt": "2026-07-09T04:25:16.000Z",
+          "ageHours": 11,
           "isFresh": true,
-          "summary": "Hoskinson Says “There’s No Locking in Cardano,” Criticizes Ethereum Staking Model  The Crypto Basic"
+          "summary": "Cardano Faces a Week of Crosswinds as Hack Fallout, Hard Fork Deadline, and Founder’s Broadside Co  Ad-hoc-news.de"
         },
         {
           "topicKey": "iog",
-          "title": "Cardano Price Prediction Heats Up as ADA Surges 31% and RealFi Testnet Goes Live - openPR.com",
-          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPV3ZqSDdxN2xWSi1jU1VpUUNGUHZ6OXpNanhnVTRnNkJZSVlGX25Jc25HbnF2LXh4ZmN5WnRVWGpzUzBsMEx2bFFfbzdrQ2JySTFBa1dlbXduamxLb29fVmtlSnc3dVNGbW00eURHSmNfSEYwLXZSWUFVT0VzY2ZvZHZ5SEFTbHpKSlVPMDJVWDZnNTNhUE91M0lJQ2toUQ?oc=5",
+          "title": "Charles Hoskinson calls Ethereum staking structure a mess, says Cardano is better - 디지털투데이",
+          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPUnNUNHJ1R1JPSEwtMkZfWkdtZmttSzQ0OVNsYU40Qm1pcU5xcmZfQTFzLTdqQkR5OE1Fb3V0T0xVc3FvRVRrVlFpT2RKRDVZVHotTzh5NmM2V2c3VkxidkhDb1oxU2tDOFFLX25hZ0VJeFhQS2NQT3pHQTI2YUh5VmVnSkRLNU1LdnJqYVI0bGN3NEdqUnZ2QWtqWkRYeGY3TWpkZGxkdDdKYTdOYjFfNmRvWHg1Z1NPTlJROXo5SjJnaWM?oc=5",
           "source": "Unknown source",
-          "publishedAt": "2026-07-08T11:43:10.000Z",
-          "ageHours": 3,
+          "publishedAt": "2026-07-09T01:10:19.000Z",
+          "ageHours": 14,
           "isFresh": true,
-          "summary": "Cardano Price Prediction Heats Up as ADA Surges 31% and RealFi Testnet Goes Live  openPR.com"
+          "summary": "Charles Hoskinson calls Ethereum staking structure a mess, says Cardano is better  디지털투데이"
         },
         {
           "topicKey": "iog",
-          "title": "Cardano was once third on coinmarketcap, Charles Hoskinson notes - Traders Union",
-          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOWGxMcG5nTHlPVE5FbFBLM05RRFk2ekFTdWlNb1RPd3pNY2xDWko3ZVlWcEJVWjhIbnJCSzNJLS1VdGtOdFhvMkxWYTEzNUwtU3VCNTIzUmhnUDlnVjFvVUdWYXY2dlFzN3BWQzhsYVlfVnFsTlE4WlNMb2tyaUxjMk9rNFdwQVZxT0E?oc=5",
+          "title": "EMURGO Cardano Pentad Withdrawal Signals Governance Shift - The Cryptonomist",
+          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBySkVHb0RPVGZIT3JlV1Y0eG54Qjl3UHNkV1RXWGp0T0daWmg0TlVWcGVXdVFuNmxTRXFSOWtxUlNJLUFmeXNwM0t3RFJxQVBFTzFneGcyR05YSVRtWF8xOHZ2dFpJLXhrejNFN2p6VnBUZ1J5amFuZ2NTYw?oc=5",
           "source": "Unknown source",
-          "publishedAt": "2026-07-07T21:00:08.000Z",
-          "ageHours": 17,
+          "publishedAt": "2026-07-08T19:24:07.000Z",
+          "ageHours": 20,
           "isFresh": true,
-          "summary": "Cardano was once third on coinmarketcap, Charles Hoskinson notes  Traders Union"
+          "summary": "EMURGO Cardano Pentad Withdrawal Signals Governance Shift  The Cryptonomist"
         },
         {
           "topicKey": "iog",
-          "title": "Cardano Foundation says OpenUSD integration possible after Visa, Ripple join - 디지털투데이",
-          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQOVN5UHFKVUNFdWhJVlBYd2Y3SHU1QWkzMmk5N0xEeVUwMXdFaDhlT3hUNW82QndkSFgyNmJCVXhodG1uVlZDXzEzQV9MOUtjX0xEUlZpSE1pb2RTRnkwTk1OVENBOEtkSzg5STRIejhtRnZhRnlyYVdqZFJFZm5IRUpFVWs5VUVFM0gyUFhJa3JTZkd3Yms0bWpYVjNJa0R1b2tOYW5SaUNWTHRzQ25CS25FN2R5dkFyTkRsdQ?oc=5",
+          "title": "ADA Price Plunges 5% After Another Cardano Governance Mess - Bitget",
+          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5BangzTWtxRnJfblNvaEdBUVhxSTFBUXZiaVgtM0loU1lZQ1ZTNEVtS21tM1NDQ1RrNThxTkJLamhsRUF1YTFVMGtxa3Eyd1pCWktLQU9qbmNBQTNRU2fSAWNBVV95cUxOVGhPbVlQQk1BdElIWHIzcW14V2ZfUTgwSUR5SHVaS2FhT1hpeVJBVzUtQUR1VGxpdmg3OXM5YXBSMHVadFZPSy1Ba08xM3EwY3cyREtQLS1waDc2cDNVN1RJdVk?oc=5",
           "source": "Unknown source",
-          "publishedAt": "2026-07-06T01:16:49.000Z",
-          "ageHours": 61,
-          "isFresh": false,
-          "summary": "Cardano Foundation says OpenUSD integration possible after Visa, Ripple join  디지털투데이"
+          "publishedAt": "2026-07-08T15:33:33.000Z",
+          "ageHours": 24,
+          "isFresh": true,
+          "summary": "ADA Price Plunges 5% After Another Cardano Governance Mess  Bitget"
         },
         {
           "topicKey": "iog",
-          "title": "Cardano Price Prediction July 2026: RealFi Testnet Lifts ADA Outlook as Pepeto Presale Pulls in Over $10.3M - openPR.com",
-          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxObEZxcTZGNWh3VUVvQ0dyYmktM3NrQWVWd3dhMWhZZ1kwM2NkdXdoeEZNZFR1UFdNd2tXZDNMaFFBdGpUY18wOUFqT2F3U05LQ3lIYnJISzVRaWw4TUJJbkxJcFBCQjBVVFI0c0pIemJzRjk4VGhuY3kxZ2RLQmMwVjBJNmFIV0xaSmFXVzJrblJyME1HclRVRjdQYw?oc=5",
+          "title": "Cardano ADA Falls as EMURGO Exits Pentad Following SecondFi Hack - tokenpost.com",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5aMzF3QkZUdmJ5YXlsQnJTV1BUcFEyemNiLWhuN2hHdGtIZk9XdkZ4M0FkRU9IN2RnZkJJQ185dWplaTNGM1ZGTG5sM3RlN19TMFpZLXllS2FmQQ?oc=5",
           "source": "Unknown source",
-          "publishedAt": "2026-07-05T23:29:51.000Z",
-          "ageHours": 63,
-          "isFresh": false,
-          "summary": "Cardano Price Prediction July 2026: RealFi Testnet Lifts ADA Outlook as Pepeto Presale Pulls in Over $10.3M  openPR.com"
+          "publishedAt": "2026-07-08T15:21:04.000Z",
+          "ageHours": 24,
+          "isFresh": true,
+          "summary": "Cardano ADA Falls as EMURGO Exits Pentad Following SecondFi Hack  tokenpost.com"
         },
         {
           "topicKey": "iog",
-          "title": "Learn All Crypto Topics | Phemex Academy - Phemex",
-          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1SQi1HSlc1UGdBVEg4Tkk5blE1ZHo3NFo3YmJ1My1LMjJtV1l1SmdLaHc1Q0JyVnJfYk5WcUZ5andtQjByb1NsbExxT0FlVDNCLThrLUgyaXpON3JQQkMzMXlha2c5cjYzcDRQTWVQdlVoZ3Y3T0E?oc=5",
+          "title": "Cardano founding entity EMURGO steps down from Pentad governance role after wallet exploit - The Block",
+          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNbmc4ZnpjVi1BWHJkS1hnWWhLU1FCVm9nLUhrRFZ3cFQyaDlFRDZyNmtSNHpmUVpOOWpzanZGX3plN1FCZ0ZpOWhBaXR4VzdpamNNRG12U09oc1llY2Fpc2FXVFNMTGZBWmprTlNMLWRRdlRQVTcyMnp4V0hnQmZyMV92NzhNM3B0YWt5WGN2SXNqeHg1QjdnSWQydXB1a2hGYWZXMzJBQXJZYnpTVS0zVjJaNGNmc1h4Mno4?oc=5",
           "source": "Unknown source",
-          "publishedAt": "2026-07-05T05:13:09.000Z",
-          "ageHours": 81,
+          "publishedAt": "2026-07-08T15:08:31.000Z",
+          "ageHours": 24,
           "isFresh": false,
-          "summary": "Learn All Crypto Topics | Phemex Academy  Phemex"
+          "summary": "Cardano founding entity EMURGO steps down from Pentad governance role after wallet exploit  The Block"
         },
         {
           "topicKey": "iog",
-          "title": "Cardano Foundation Hints at Deeper Open USD Engagement, Says “We Are Exploring Other Integration Options” - Cryptonews.net",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1fUzhBaW1ZQnpITFJSSVN4UFd6bExyOUJ6dGhNaS1NbTE2Z1AyY1lLNWc2T3NxdnlkcUVqRUN0WUctVmVGVm9OVUwzNHBHQktEUGtQeGtieW1kUQ?oc=5",
+          "title": "Hoskinson Says “There’s No Locking in Cardano,” Criticizes Ethereum Staking Model - Cryptonews.net",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE91RFg4TnFYYllWdGw0TU1lM2Y2ZGQyZXotQVlKcWlfMmY0WDluQURMc3lYd2JuakdnTTBYQnNCOVEyQ3lPQ0NQNkstTnRVTGNSaWQtT1NreWprQQ?oc=5",
           "source": "Unknown source",
-          "publishedAt": "2026-07-03T14:02:08.000Z",
-          "ageHours": 120,
+          "publishedAt": "2026-07-08T14:33:39.000Z",
+          "ageHours": 25,
           "isFresh": false,
-          "summary": "Cardano Foundation Hints at Deeper Open USD Engagement, Says “We Are Exploring Other Integration Options”  Cryptonews.net"
+          "summary": "Hoskinson Says “There’s No Locking in Cardano,” Criticizes Ethereum Staking Model  Cryptonews.net"
         },
         {
           "topicKey": "iog",
-          "title": "Hoskinson Says “I’m the Guy Who Has Been Here Since Day One,” Reaffirms Commitment to Lead Cardano - Cryptonews.net",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5KRHJFS0tpLTM3ZkdTckk3UUl4UzA5YU93OHZCU2pqU1BleGNQbWkwSmNRRlYxeVJ0Nk93UU0yTElCWUJNWFhqdVhsVURCSGlyZmRPMDRfS3FoQQ?oc=5",
+          "title": "Hoskinson Says “There’s No Locking in Cardano,” Criticizes Ethereum Staking Model - CryptoRank",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOTVEyTWRLTGF5V0ZKY1F4a0xCZzBlMng0aXpFNE1PV0dUNjdTdTVGS0N1OFVjaHFPcGJLbV9sRThhZ1Q0cGk3bmxDdnFTaG1QVGFOS1VycDVwNHB5NTVTTnFZeVBtZVVDY0RVLTdTTmhoVUdBNDhCSVNuMUtPQ0JKMXJRa2tlVlF1Ml84N0ZJTzZ0SGdWaWF6N2ZJVzVKM1BhbnlTdUpLNEtkQ1hfd0NlcU1mblFjQQ?oc=5",
           "source": "Unknown source",
-          "publishedAt": "2026-07-01T19:54:27.000Z",
-          "ageHours": 162,
+          "publishedAt": "2026-07-08T14:33:14.000Z",
+          "ageHours": 25,
           "isFresh": false,
-          "summary": "Hoskinson Says “I’m the Guy Who Has Been Here Since Day One,” Reaffirms Commitment to Lead Cardano  Cryptonews.net"
+          "summary": "Hoskinson Says “There’s No Locking in Cardano,” Criticizes Ethereum Staking Model  CryptoRank"
         }
       ],
       "errors": []
@@ -234,18 +223,58 @@
         "https://news.google.com/rss/search?q=Intersect+Cardano+when:7d&hl=en-US&gl=US&ceid=US:en",
         "https://news.google.com/rss/search?q=site:intersectmbo.org+Intersect+when:14d&hl=en-US&gl=US&ceid=US:en"
       ],
-      "freshCount": 1,
-      "updatedAt": "2026-07-08T14:23:50.725Z",
+      "freshCount": 4,
+      "updatedAt": "2026-07-09T15:18:15.490Z",
       "items": [
         {
           "topicKey": "intersect",
-          "title": "Cardano’s 9.0.1 Hotfix Shows Why Last-Mile Upgrades Matter Before A Hard Fork - TradingView",
-          "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQcThXN2p1bDlwdTF2amRibk9tOFBuYWhGSG9SRWFPN09uMFVEeXNZcS1TVmxUbTJCb2JZak9ObmFBYWEyOEM4RWNYUmYzZzh1QlU2a2lEY1RyTUNxMFhoZldPZ3hyQThZSDlJWEZLd3BLX3lQSWRmUFRfdGM3QVQzN2N2ZGthQjBudWdjOGozb2x5VnJSVFhlQ1l0dGl0M0N6enZPdFpiRU55VEx6WkM2UlVQOUN3Uy1yREg2Wll2eW54LXEzaUlxWV9kanlNSWxm?oc=5",
+          "title": "ADA Price Plunges 5% After Another Cardano Governance Mess - Bitget",
+          "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5UaE9tWVBCTUF0SUhYcjNxbXhXZl9RODBJRHlIdVpLYWFPWGl5UkFXNS1BRHVUbGl2aDc5czlhcFIwdVp0Vk9LLUFrTzEzcTBjdzJES1AtLXBoNzZwM1U3VEl1WdIBY0FVX3lxTE5UaE9tWVBCTUF0SUhYcjNxbXhXZl9RODBJRHlIdVpLYWFPWGl5UkFXNS1BRHVUbGl2aDc5czlhcFIwdVp0Vk9LLUFrTzEzcTBjdzJES1AtLXBoNzZwM1U3VEl1WQ?oc=5",
           "source": "Unknown source",
-          "publishedAt": "2026-07-07T14:31:00.000Z",
+          "publishedAt": "2026-07-08T23:35:42.000Z",
+          "ageHours": 16,
+          "isFresh": true,
+          "summary": "ADA Price Plunges 5% After Another Cardano Governance Mess  Bitget"
+        },
+        {
+          "topicKey": "intersect",
+          "title": "ADA Price Plunges 5% After Another Cardano Governance Mess - BeInCrypto",
+          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9la3BuRFRjc2h0MG1GZWJHQ3dmSV80a1R6M29PSTJscHAzUWdQbk9jYzBRN0l1NWppTDFWak5pZWQxMGVzZkZuTjUzWjRXdmVFdFAxYll2RXBjRjBSRFNuRThrY3M3MUpfOTdtVkZ3U1BHMDNUWnpJ?oc=5",
+          "source": "Unknown source",
+          "publishedAt": "2026-07-08T23:00:00.000Z",
+          "ageHours": 16,
+          "isFresh": true,
+          "summary": "ADA Price Plunges 5% After Another Cardano Governance Mess  BeInCrypto"
+        },
+        {
+          "topicKey": "intersect",
+          "title": "EMURGO Cardano Pentad Withdrawal Signals Governance Shift - The Cryptonomist",
+          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBySkVHb0RPVGZIT3JlV1Y0eG54Qjl3UHNkV1RXWGp0T0daWmg0TlVWcGVXdVFuNmxTRXFSOWtxUlNJLUFmeXNwM0t3RFJxQVBFTzFneGcyR05YSVRtWF8xOHZ2dFpJLXhrejNFN2p6VnBUZ1J5amFuZ2NTYw?oc=5",
+          "source": "Unknown source",
+          "publishedAt": "2026-07-08T19:24:07.000Z",
+          "ageHours": 20,
+          "isFresh": true,
+          "summary": "EMURGO Cardano Pentad Withdrawal Signals Governance Shift  The Cryptonomist"
+        },
+        {
+          "topicKey": "intersect",
+          "title": "Cardano ADA Falls as EMURGO Exits Pentad Following SecondFi Hack - tokenpost.com",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5aMzF3QkZUdmJ5YXlsQnJTV1BUcFEyemNiLWhuN2hHdGtIZk9XdkZ4M0FkRU9IN2RnZkJJQ185dWplaTNGM1ZGTG5sM3RlN19TMFpZLXllS2FmQQ?oc=5",
+          "source": "Unknown source",
+          "publishedAt": "2026-07-08T15:21:04.000Z",
           "ageHours": 24,
           "isFresh": true,
-          "summary": "Cardano’s 9.0.1 Hotfix Shows Why Last-Mile Upgrades Matter Before A Hard Fork  TradingView"
+          "summary": "Cardano ADA Falls as EMURGO Exits Pentad Following SecondFi Hack  tokenpost.com"
+        },
+        {
+          "topicKey": "intersect",
+          "title": "Cardano founding entity EMURGO steps down from Pentad governance role after wallet exploit - The Block",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNaEFaWkkxUnFiVnFySDNna3d0Y1VIRC1mcVdBV2JCT3BhZS12UDMyb3Fnc20tX2gzWkFBN0Y1TlBNaTVpOFAybVE4S1gwSDEwS2U0SWdXMG1fcEdibVQ0TUdQcTg3OWxBVldLQllOb2hQcGctTzFNZ09ZcDlHRV82MXZLYW54eHFKT2dxU2VUcVVpQWFRVXM0Sm5aS2g1SkRwanp6TkNwNGFxTDQwRDNld3ktVmZEZw?oc=5",
+          "source": "Unknown source",
+          "publishedAt": "2026-07-08T15:08:31.000Z",
+          "ageHours": 24,
+          "isFresh": false,
+          "summary": "Cardano founding entity EMURGO steps down from Pentad governance role after wallet exploit  The Block"
         },
         {
           "topicKey": "intersect",
@@ -253,19 +282,9 @@
           "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQakxlaWpEUzZOb0Jnc0V4clpZUy1GRWp0X1VJOUN0RUd3di1iSExsWm5RM0wzSFpoX3J5cmNwdjNqTlpEOENEUHp2dmgzQmFleW1jN1NRc0VaY296YmlKdDI1dEZRdDBVMnBSRklmRFkteWtjMzlzX3J6WlVTbHJPZ19PLXpNbW5xYXBRR2VYOVBianRiX0pGWkZJeWdjT3dwTEJ6Mmk1VGRkTXg4OXhmeGJyTlNLbkN0Q0ZnajQwU0doY0hkUXpCWlg3UkJ0aWRHVGNjVUxPeUhnR1dFazF5US1JaWRDTUdQbGJtNEN3SGNScnY2WkE?oc=5",
           "source": "Unknown source",
           "publishedAt": "2026-07-07T13:52:28.000Z",
-          "ageHours": 25,
+          "ageHours": 49,
           "isFresh": false,
           "summary": "Intersect MBO"
-        },
-        {
-          "topicKey": "intersect",
-          "title": "SecondFi is shutting down after Cardano wallet exploit - Protos | Informed crypto news",
-          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9NZ1FWQVdhWEEzeUNEQm9IdTJIR1pueXJfa0wyR0syNGpqc1VPNEVTUzU4dWllZGRiaUF3a1FBbWhUVWo4MUR2OTJQcVpqbGR2VGFvakl3bHROWU5LWTYybVl0NFpKZTJWSFJfTHlOLXk3VkJLQWpOLUx3OHdXajQ?oc=5",
-          "source": "Unknown source",
-          "publishedAt": "2026-07-07T13:36:12.000Z",
-          "ageHours": 25,
-          "isFresh": false,
-          "summary": "SecondFi is shutting down after Cardano wallet exploit  Protos | Informed crypto news"
         },
         {
           "topicKey": "intersect",
@@ -273,19 +292,9 @@
           "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNTElpM0NBM192OUoxTW1vZXhUZU9kaUZEZ2l6WTU1bUdHRDAtSjEtYXRlOVpXRWlNQlI1TE0yX1NUc3Nlc0RfX214cEFYLTZXNHdDb0JYaUlCUXBsSXo4Nld0bHBaYzNGb0xmMmx6TS1BaTZBaDBMSlJZc1ZncW9Lekk2RXgzNE5NQUFfZEhTdDNyRG5tM003MQ?oc=5",
           "source": "Unknown source",
           "publishedAt": "2026-07-06T22:24:46.000Z",
-          "ageHours": 40,
+          "ageHours": 65,
           "isFresh": false,
           "summary": "van Rossem upgrade readiness  Intersect MBO"
-        },
-        {
-          "topicKey": "intersect",
-          "title": "Cardano rebound brings investors back, 14,783 new wallets added - 디지털투데이",
-          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQN3ptckM1cnpIRzF4Sl9jQW42MWlWRFMxQ3BoTzFTeDRSOFZtcGxoYWhGa25wQnR1c1BiMXcwbkExcUo0ZG1qWjF4eGU4cTRJOFAyMm9VMDBLMkV4VFRHQlI1dXBhOW9YdFFnemdqWjE4Tk96SGQ4WTU0d1FuWjFWMWRYaTBnSEdCNWR3aUJMZlE5LTRGVXJJX3EzbnpXdzlDcjl1UHVZRWNoZw?oc=5",
-          "source": "Unknown source",
-          "publishedAt": "2026-07-06T01:56:18.000Z",
-          "ageHours": 60,
-          "isFresh": false,
-          "summary": "Cardano rebound brings investors back, 14,783 new wallets added  디지털투데이"
         },
         {
           "topicKey": "intersect",
@@ -293,29 +302,9 @@
           "link": "https://news.google.com/rss/articles/CBMirwJBVV95cUxNdVp3SC1CcmhZSGIzZ1dKT3FLM0lrcmU0TUFQRjc4Z3M4bVFDMmgta1ZqNHYzSnA4NmtPTEt3TUZ5VENkSkJFSFVhelQ2Mzc0dXczZGtkbk1wYnF0MjduVHp0Nld4WmVJdS1qakZFOFZTSHNDV2RLckV3bjZVM25WOGdEOW9ZYkhnSmpMVmNSdlg1cjM2WGdjOFhBd1l0RGN1Y3VFX2g5ZTVXWDF2Y2cxNHczdkZleU9ENnRlMkpmN1gwVHFFQXlVNS1kVkxGUzJ4UkJaWEIyQjAtMW1ady1UZmN4SzNlTTBtQnhZYTJheWd0NkJZdEJ3RVZNeE9NYkJWOG9TZ2x2WElzckVhQkZkbjlZWlpSbjhha3ZGakg2SF9uVHF4RDJ1Ri1Pc0pYQ0E?oc=5",
           "source": "Unknown source",
           "publishedAt": "2026-07-04T21:10:02.000Z",
-          "ageHours": 89,
+          "ageHours": 114,
           "isFresh": false,
           "summary": "Intersect MBO"
-        },
-        {
-          "topicKey": "intersect",
-          "title": "Intersect weekly update #118 July 3, 2026 - Intersect MBO",
-          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1kdHdxaEZwREd0VHN4c0FpcnROcmYwRFl6NVZFWVY4YjhHamtqLWQwX21XRDFJS0I1akRIMkhtTk8tZzZ5VTQzQk5HY0QyMnZYTzVGQ3NyWEdWMHdzeWZ4NVBlOEhXa0h1RHNYZkctWmhkcWNtclVoUw?oc=5",
-          "source": "Unknown source",
-          "publishedAt": "2026-07-03T15:11:50.000Z",
-          "ageHours": 119,
-          "isFresh": false,
-          "summary": "Intersect weekly update #118 July 3, 2026  Intersect MBO"
-        },
-        {
-          "topicKey": "intersect",
-          "title": "Intersect | Uniting the Cardano Ecosystem - Intersect MBO",
-          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPVm9aUXRHLUFlbTY3T1cwWm9DNGZlUVpXYzlyUHVNYkoyNU0zV1RlcHNGXzNBOHJkM2VKN0xJTnZNaHRabk9ZSHVNY2VnMFRBY0ZWU1JwaFJZUUpHOWhCb3VZdjNCT3lLcFJmdHNybGVjNnRrMnlWc2ZKOTdjODNVUFM4cXhnTHRYbU5zVldtVkVTTmxaczMwMHJfQkVNZ0FpMVUyQmNGUmZwQUFEemZpUQ?oc=5",
-          "source": "Unknown source",
-          "publishedAt": "2026-07-03T15:11:50.000Z",
-          "ageHours": 119,
-          "isFresh": false,
-          "summary": "Intersect | Uniting the Cardano Ecosystem  Intersect MBO"
         }
       ],
       "errors": []
@@ -329,87 +318,87 @@
         "https://news.google.com/rss/search?q=site:youtube.com+%22Charles+Hoskinson%22+when:7d&hl=en-US&gl=US&ceid=US:en"
       ],
       "freshCount": 8,
-      "updatedAt": "2026-07-08T14:23:50.725Z",
+      "updatedAt": "2026-07-09T15:18:15.490Z",
       "items": [
         {
           "topicKey": "charles-hoskinson",
-          "title": "Hoskinson Says “There’s No Locking in Cardano,” Criticizes Ethereum Staking Model - The Crypto Basic",
-          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPdVFJelFNUTZlcVQySGd1V0piaFo3NTVDTjV2RnJLU2R5RW8tSjBJY0xWUFpYbC1vbVB6bHd3NnpwSkJ5UWVROXljbXBhY3JrZFVndmhWb3Z3ZkZQdmdveDA0QkRYMnhpWWVmejg4bVFYLWNOLUJhSHRMR2U4VmdRUTVrTldtUVdfUUVGUk5tbGFJb1QwenFXbklYYVc3di1faGxkU2Rwcm5qdlRQQ09STEdkNHhqcFE?oc=5",
+          "title": "Charles Hoskinson was right - YouTube",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9uZUtyTTNOajV2MVhDU0swWE5fZGJyNVZObmRIZFVRMExtSFQwVnJTbHhnU3VzeWtSU09aMnhBYVNrOXJIUGFiMGtfdGpSVmJyLXJ2Rk53?oc=5",
           "source": "Unknown source",
-          "publishedAt": "2026-07-08T13:27:22.000Z",
+          "publishedAt": "2026-07-09T14:00:10.000Z",
           "ageHours": 1,
           "isFresh": true,
-          "summary": "Hoskinson Says “There’s No Locking in Cardano,” Criticizes Ethereum Staking Model  The Crypto Basic"
+          "summary": "Charles Hoskinson was right  YouTube"
         },
         {
           "topicKey": "charles-hoskinson",
-          "title": "Cardano's Charles Hoskinson Says Ethereum Is Adopting EUTXO-Like Concepts - HOKANEWS.COM",
-          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9iWEtKeG9DM3NjVm10UnNtbWx3NzZyUGdzbm9wblJFeGNlU0VVWVF5MmdXdDdQaVVtN1BQUmN1Q2UtTS1XSTJtTnRDWHRIOEpjaGtQa3hRQmhKTTRRczJPdURJZHgza25jUXFpRXVvWFpNQlpxZFJFaQ?oc=5",
+          "title": "ADA bulls eye $0.20 as Cardano founder says Ethereum is adopting its eUTXO concept - Bitget",
+          "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9yOTdZTWV0LU1WMlJ2LXJ0SFdDNmNJbzdWUG5BUmRVaC1NY0hFQkVDU09vcF9CTTZiS0IxdzFLb1RoRS0tMVRIcUFEZE1xV1owRk52UnVULWsydU1uay1Jd0lwbw?oc=5",
           "source": "Unknown source",
-          "publishedAt": "2026-07-08T13:24:00.000Z",
-          "ageHours": 1,
-          "isFresh": true,
-          "summary": "Cardano's Charles Hoskinson Says Ethereum Is Adopting EUTXO-Like Concepts  HOKANEWS.COM"
-        },
-        {
-          "topicKey": "charles-hoskinson",
-          "title": "Cardano Founder Says Ethereum Is Quietly Copying Its Core Design - Yellow.com",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBSMlNhSVVJMkNtWGxZRURDclF5TFFqdnZVUTA3ZlREdlBsTm5aQ09JMEx2VHJhN0ROa293X0E2R2ZBdzFVdTNsQXJFWFFNR2drSE12c1FfSGhDb3RpT0lMY3pXVGo?oc=5",
-          "source": "Unknown source",
-          "publishedAt": "2026-07-08T13:06:23.000Z",
-          "ageHours": 1,
-          "isFresh": true,
-          "summary": "Cardano Founder Says Ethereum Is Quietly Copying Its Core Design  Yellow.com"
-        },
-        {
-          "topicKey": "charles-hoskinson",
-          "title": "Ethereum Faces Plagiarism Jabs as Hoskinson and Adam Back Weigh In On UTXO Proposal - CoinCodex",
-          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOMFh2dmV1b0JmSGtVTjRkVGZpMTdteEtCcFBGYjVkeFBCeEFORGdqZUowWGxkUHhZS2tHYnpjZS1xc3huTlB0ellhcTE5TzhTVmJWcEpfdk5odWx5Z3lmLWNMeUpiZjI2T3J0X3lsRlFoUEhaWFJfVS1Nck44YUM2a1RxY2dacjJFMmRTX0xXVkNkX1BwMm00cll5RkVQMTd5SVFZNDlPNVh0LTgzWUI3RzFHWENFTU5ncHN5UQ?oc=5",
-          "source": "Unknown source",
-          "publishedAt": "2026-07-08T12:36:00.000Z",
+          "publishedAt": "2026-07-09T13:02:57.000Z",
           "ageHours": 2,
           "isFresh": true,
-          "summary": "Ethereum Faces Plagiarism Jabs as Hoskinson and Adam Back Weigh In On UTXO Proposal  CoinCodex"
+          "summary": "ADA bulls eye $0.20 as Cardano founder says Ethereum is adopting its eUTXO concept  Bitget"
         },
         {
           "topicKey": "charles-hoskinson",
-          "title": "Ethereum's new UTXO payment model proposal spar... - Pluang",
-          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQSG9hbFNFY2xkWnd2QVYwZ1lFSUZhMU1DaUdDT1FibW5nX18tYVFKd2UxQUNQZ3BLV2VBVUVKRGtxM3A4T29JdXZRSjJseTlzWHRUTTVpR0tfZHZZeXVEZGZ2WDJmZGZVVWhlZWJRSFNEV3ZhWWNLTGdlXzh2RzgtWHI1UlRiRUd1ZVJPV1hsRlJuWkN1VmMwdG8tYjhxM2pUNmlrR0JZWU5Ndw?oc=5",
+          "title": "Cardano’s eUTXO Model Takes Center Stage as Ethereum Eyes UTXO Adoption - TradingView",
+          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPWGh4QTJRREVxX051TFg5dWtaUjlfNU1kVnl6MmYzTUU4emE4dnotNGNJUlRZOTVJdTBVT3ZERW1RS3lNaWk3cFgzSi1CV0Y3NlhtYlRCc0FvMmxnTURDVlJaUHAzOWZsVGZjV25hcHZIOTJGbGdFUXZQbG14dDVJaWliWE1ud3BZbXRBS3RYQ0pfZl91emx3VEIzSHppNmpjY3gtc1ZCXzZZQWRGV2JpN2JSZVh0RUhhUTRmNkt0QmRsMmliUHBRRHdzUHk?oc=5",
           "source": "Unknown source",
-          "publishedAt": "2026-07-08T11:58:07.000Z",
-          "ageHours": 2,
+          "publishedAt": "2026-07-09T11:38:52.000Z",
+          "ageHours": 4,
           "isFresh": true,
-          "summary": "Ethereum's new UTXO payment model proposal spar...  Pluang"
+          "summary": "Cardano’s eUTXO Model Takes Center Stage as Ethereum Eyes UTXO Adoption  TradingView"
         },
         {
           "topicKey": "charles-hoskinson",
-          "title": "Ethereum researchers proposed UTXO-based model to cut data growth by 99.8% - Bitget",
-          "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFA0M0c1RmZna0RYTmVib1NZQ0pGTDMzRUZyZ25OcENPSnlGc2dLa0JwSXRNNkxfZkZzZjY4M1M1Qm1qWnBydzJjbllsSGxBOC00QWZ6OHJRcVd0NW5KXzZEcW9CTdIBY0FVX3lxTFA0M0c1RmZna0RYTmVib1NZQ0pGTDMzRUZyZ25OcENPSnlGc2dLa0JwSXRNNkxfZkZzZjY4M1M1Qm1qWnBydzJjbllsSGxBOC00QWZ6OHJRcVd0NW5KXzZEcW9CTQ?oc=5",
+          "title": "CARDANO ADA - Brace For Volatility! Market Undecided?! Ethereum Stealing Cardano Tech?! - YouTube",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1PNkNoWHBtLTdleXQwaFhZWkVOM2hUSUszcGdsS1ZmOXh6OFNxN0pRUFNxazRuc3NPQ2lsSGtLN1F5YXhQZ0ZYQW9QZW5STjRsWWpUdmlR?oc=5",
           "source": "Unknown source",
-          "publishedAt": "2026-07-08T11:39:34.000Z",
-          "ageHours": 3,
+          "publishedAt": "2026-07-09T11:30:18.000Z",
+          "ageHours": 4,
           "isFresh": true,
-          "summary": "Ethereum researchers proposed UTXO-based model to cut data growth by 99.8%  Bitget"
+          "summary": "CARDANO ADA - Brace For Volatility! Market Undecided?! Ethereum Stealing Cardano Tech?!  YouTube"
         },
         {
           "topicKey": "charles-hoskinson",
-          "title": "Cardano (ADA) Founder Charles Hoskinson Attacks Ethereum Again! Here Are His New Accusations - Bitcoin Sistemi",
-          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPOTN2V0Q5cXNGQWNCQjVHS0Fmc1pFaUlXUG45X2JCZTk0UnVEaEx6U21fSW9JVmZMc2pnTFdqMUNBZVdNa2t4ajN2VGpBeTVyM29VR3p3ZHJSQU95b09NUWw1YnRNR2U3RFBwTUlQbTVVakZjSVdKY182YlduQWh4T2M0dkF3ODZ1dlBKbnRINkMwazMwLVJTb0FGQzRsMGNSLW1TamJZOUVoN2pENW1ENGZfRXBuNVFBVlltZw?oc=5",
+          "title": "Ethereum Price Prediction: Hoskinson Accuses ETH of Taking Cardano Ideas Without Credit - Cryptonews",
+          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBSSUU0X2ZUaDlsdS1ZUzFwa1NaWXBvSGlzM3pOWUFueHJwQUM1UmRfQVl6Tk1DMEhDNlVnVFFpNVFHdzcwWTRHMjlNRUtjeEJ5VWFLdEtsUWsxZXpETUE1eFZLSEhqWkdiUGNpc2lNU01uTnpVUWRwZjdRNEY?oc=5",
           "source": "Unknown source",
-          "publishedAt": "2026-07-08T11:29:08.000Z",
-          "ageHours": 3,
+          "publishedAt": "2026-07-09T10:48:51.000Z",
+          "ageHours": 4,
           "isFresh": true,
-          "summary": "Cardano (ADA) Founder Charles Hoskinson Attacks Ethereum Again! Here Are His New Accusations  Bitcoin Sistemi"
+          "summary": "Ethereum Price Prediction: Hoskinson Accuses ETH of Taking Cardano Ideas Without Credit  Cryptonews"
         },
         {
           "topicKey": "charles-hoskinson",
-          "title": "Cardano Founder Slams Ethereum Devs for Copying Its ‘Biggest Innovation’ - TipRanks",
-          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQZzJiNFRaTUtTaFM3aEFCOWg0dDZPYVpuU3RTQnYzbkRaUm0ydVJZX2J2dkJPcVVqM0RPTi1PWUxaa1duUFJITk5SNzZ2ZzZOYnljRTRtOVJDZHh1eHBudWZ3R2dxMUd0aVJWRHF6OURldDFSMnZ6dlBJT29POFVreFBFcXB0VWFhOXFGUERSWWxodzZ4M1RPeUwwckhCSHRscHc?oc=5",
+          "title": "Bitcoin Crash or Bull Run? Institutions Know Something You Don't - YouTube",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE8zZXNCNnkzTEowSmJJMFFjcXI5VkN3SnJhaUN5TTRXdFRad0dPNGFPanJOcUZWY1A0dnVlQkVqQkh6Q2VwN0haVjRvV1VDWHAwSnpvS05B?oc=5",
           "source": "Unknown source",
-          "publishedAt": "2026-07-08T11:13:07.000Z",
-          "ageHours": 3,
+          "publishedAt": "2026-07-09T10:26:07.000Z",
+          "ageHours": 5,
           "isFresh": true,
-          "summary": "Cardano Founder Slams Ethereum Devs for Copying Its ‘Biggest Innovation’  TipRanks"
+          "summary": "Bitcoin Crash or Bull Run? Institutions Know Something You Don't  YouTube"
+        },
+        {
+          "topicKey": "charles-hoskinson",
+          "title": "Charles Hoskinson: Cast Out of Ethereum, He Built Its Rival - UseTheBitcoin",
+          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQZVlOd1FtVTNiS0tDTTFsbnlMVVNJMjNHa2FieFdaVXZQN0VZRWh1SzNTb2NkRkVEUUpLbmJwdVNxU1RCN1VHa3JueXdpODFhSjdZaWZoNktsSXljaFhVSlY2bkMzY3JVRnphQTJlTDJPSkxHd1REUUJENC1USVZlTGtoSlFta3FR?oc=5",
+          "source": "Unknown source",
+          "publishedAt": "2026-07-09T09:38:27.000Z",
+          "ageHours": 6,
+          "isFresh": true,
+          "summary": "Charles Hoskinson: Cast Out of Ethereum, He Built Its Rival  UseTheBitcoin"
+        },
+        {
+          "topicKey": "charles-hoskinson",
+          "title": "Is Ethereum Copying Cardano Innovation? Here’s Why Community Is Talking About New eUTXO - MEXC",
+          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9NeGxUSVNHVVJzLVVtczhBTWNERl9meDJZNnFDNEtLTXo5dVAybEdlRU5LYUoxZzlxNnpZbzB1d05PeXhZZDI5T3BtX0tscEhR?oc=5",
+          "source": "Unknown source",
+          "publishedAt": "2026-07-09T08:50:32.000Z",
+          "ageHours": 6,
+          "isFresh": true,
+          "summary": "Is Ethereum Copying Cardano Innovation? Here’s Why Community Is Talking About New eUTXO  MEXC"
         }
       ],
       "errors": []
