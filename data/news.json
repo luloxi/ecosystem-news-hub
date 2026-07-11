@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-10T14:36:24.578Z",
+  "generatedAt": "2026-07-11T13:35:50.511Z",
   "freshnessWindowHours": 24,
   "topics": [
     {
@@ -11,20 +11,18 @@
         "https://news.google.com/rss/search?q=site:forum.midnight.network+Midnight+when:7d&hl=en-US&gl=US&ceid=US:en"
       ],
       "freshCount": 0,
-      "updatedAt": "2026-07-10T14:36:24.578Z",
-      "items": [
+      "updatedAt": "2026-07-11T13:35:50.511Z",
+      "items": [],
+      "errors": [
         {
-          "topicKey": "midnight-network",
-          "title": "Bulletin board DApp - Midnight Docs",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1RV3JXQ0tqVVZJazJEVXpsWkYtaUFiS2dQYVg1d1ZoeUdUdEhYTzkxdEVocnN1MlljV0dJVjFmTXNMNVN5TmlTblNpZkNyQnRxX1pWVWMyWWpEekpTNnRFeg?oc=5",
-          "source": "Unknown source",
-          "publishedAt": "2026-03-14T14:13:47.000Z",
-          "ageHours": 2832,
-          "isFresh": false,
-          "summary": "Bulletin board DApp  Midnight Docs"
+          "feed": "https://news.google.com/rss/search?q=%22Midnight+Network%22+OR+site:midnight.network+when:7d&hl=en-US&gl=US&ceid=US:en",
+          "error": "Status code 503"
+        },
+        {
+          "feed": "https://news.google.com/rss/search?q=site:forum.midnight.network+Midnight+when:7d&hl=en-US&gl=US&ceid=US:en",
+          "error": "Status code 503"
         }
-      ],
-      "errors": []
+      ]
     },
     {
       "key": "cardano",
@@ -34,91 +32,19 @@
         "https://news.google.com/rss/search?q=Cardano+when:7d&hl=en-US&gl=US&ceid=US:en",
         "https://news.google.com/rss/search?q=site:cardano.org+Cardano+when:7d&hl=en-US&gl=US&ceid=US:en"
       ],
-      "freshCount": 8,
-      "updatedAt": "2026-07-10T14:36:24.578Z",
-      "items": [
+      "freshCount": 0,
+      "updatedAt": "2026-07-11T13:35:50.511Z",
+      "items": [],
+      "errors": [
         {
-          "topicKey": "cardano",
-          "title": "Is Charles Hoskinson Leaving Cardano? He Calls The Claim A Complete Lie - Yellow.com",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1aTFZoazNtT21VcU9EY3Z5bEU4Sm9ZUVdUc01iTUVKOHFGMW5lblpFRldnZF9aUVlvQ2lSSUJ1aXZpNm03Zlpyak95SnFwR2JYRThZMHFfUDFtX2xtdE9fUzdoUTRvUjNEY0JNQQ?oc=5",
-          "source": "Unknown source",
-          "publishedAt": "2026-07-10T10:42:55.000Z",
-          "ageHours": 4,
-          "isFresh": true,
-          "summary": "Is Charles Hoskinson Leaving Cardano? He Calls The Claim A Complete Lie  Yellow.com"
+          "feed": "https://news.google.com/rss/search?q=Cardano+when:7d&hl=en-US&gl=US&ceid=US:en",
+          "error": "Status code 503"
         },
         {
-          "topicKey": "cardano",
-          "title": "Here's What to Expect for Cardano in July - AOL.com",
-          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5HLXVyMjRScExKbEtQdlI4a0tmWmlOVm9yNEdzMmdJRXpyMk9iNW5GSDEza1I4NUFHRXFMakExeTdfSWZ3VDZPSzJKWkxfV1hnZ2pTNDBtelMwYWxhTzQtMVk5V0RBc2VvM0FxeHRid1BmTGJPemxJ?oc=5",
-          "source": "Unknown source",
-          "publishedAt": "2026-07-10T10:34:37.000Z",
-          "ageHours": 4,
-          "isFresh": true,
-          "summary": "Here's What to Expect for Cardano in July  AOL.com"
-        },
-        {
-          "topicKey": "cardano",
-          "title": "Hoskinson Denies Cardano Exit Rumors — What’s Happening With ADA Price - Bitcoin Foundation",
-          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1JYUNvMVp0dmdyQlFQb3lsU0VBSERneXR3X1FDRFB0T0ZrZmNoWURraFNVa3RlWE5ENzRfMlhTdGp6dXRoTWpuUVFQZXJXeS13d0pQS3ZidXI3d1c2bGt5X0s3c1BXbl9oUkIwWTZlX3AxYTVrbWc?oc=5",
-          "source": "Unknown source",
-          "publishedAt": "2026-07-10T08:43:32.000Z",
-          "ageHours": 6,
-          "isFresh": true,
-          "summary": "Hoskinson Denies Cardano Exit Rumors — What’s Happening With ADA Price  Bitcoin Foundation"
-        },
-        {
-          "topicKey": "cardano",
-          "title": "Charles Hoskinson Addresses Rumors He Is Quitting Cardano - BeInCrypto",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5iRHZvVjlDNHpWWVVYVWVvOHUwVTNKeV9uRWxsbk1HNHVxQ29VODVtajVzZEdVUWktei1fcEpGcjBMRjVKZm9MekFGckpxXy1SNEFydUxTcVAzcW1xVkNpZDgycnFGVm1zM3A4Qw?oc=5",
-          "source": "Unknown source",
-          "publishedAt": "2026-07-10T03:31:00.000Z",
-          "ageHours": 11,
-          "isFresh": true,
-          "summary": "Charles Hoskinson Addresses Rumors He Is Quitting Cardano  BeInCrypto"
-        },
-        {
-          "topicKey": "cardano",
-          "title": "Can Cardano (ADA) Reclaim $1 in 2026: 3 AIs Weigh in - CryptoRank",
-          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPOFh5ZDBmNEV1dXJ5VEhCR0EyVEwyZURKTHo0dGNvcmxEZ19BdjZkbHJISVFiOHdXMllKWXRFOTI2VEw2eVdKUXM5QVFzdThaYy0zeW9mNWhIUkhFZ1h6RkludjdMS3ZJOEpuVnphd3NRS1lqMXpCZHZVSkdBWU1hb1Zkdy1RLVRwWnptZERoWQ?oc=5",
-          "source": "Unknown source",
-          "publishedAt": "2026-07-09T20:44:20.000Z",
-          "ageHours": 18,
-          "isFresh": true,
-          "summary": "Can Cardano (ADA) Reclaim $1 in 2026: 3 AIs Weigh in  CryptoRank"
-        },
-        {
-          "topicKey": "cardano",
-          "title": "Cardano Price Prediction 2026: Will ADA Recover or Extend Its Multi-Year Downtrend? - Bitget",
-          "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9ZZmJhY2thXzROQUVuejVnT2tCdmJFVG5aTFh5cHdHTmVtOWN1NmFtM1BPd1BlWDdmWmZJYzM4OHU1bE9zaDc3dlZIUmxoR0FqdkY2WHRKd1loM09xZkloUktGc9IBY0FVX3lxTE9ZZmJhY2thXzROQUVuejVnT2tCdmJFVG5aTFh5cHdHTmVtOWN1NmFtM1BPd1BlWDdmWmZJYzM4OHU1bE9zaDc3dlZIUmxoR0FqdkY2WHRKd1loM09xZkloUktGcw?oc=5",
-          "source": "Unknown source",
-          "publishedAt": "2026-07-09T16:46:12.000Z",
-          "ageHours": 22,
-          "isFresh": true,
-          "summary": "Cardano Price Prediction 2026: Will ADA Recover or Extend Its Multi-Year Downtrend?  Bitget"
-        },
-        {
-          "topicKey": "cardano",
-          "title": "Cardano’s wallet hack exposed the user layer holding its on-chain government together - CryptoRank",
-          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPUm9ZZjBqRjVwLVN3cnJSX3NaTFR1UTlqbXJ4WEtYX2p1YlMweTNSclZteHpxY0xRWTlqM2NCeXliQ0dIYmgyNXl3ZFllODBSREtfS29WOVZ3c21ua1FGUzRrS1B3MTFNN1g2Z2VkSWs0SHNFS1M1ZkhtNjhjcEoyNnRiODNhU2ZKbTFhNVlISVl5MERqOWFPN1AtWjA5d2R4dHNiS2xZbV9SUmc3Sy0xZFk5dF9uSE1DN29TeXhlMA?oc=5",
-          "source": "Unknown source",
-          "publishedAt": "2026-07-09T15:49:50.000Z",
-          "ageHours": 23,
-          "isFresh": true,
-          "summary": "Cardano’s wallet hack exposed the user layer holding its on-chain government together  CryptoRank"
-        },
-        {
-          "topicKey": "cardano",
-          "title": "Cardano’s wallet hack exposed the user layer holding its on-chain government together - CryptoSlate",
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPeEJHSkVFQWdhT0lkbFpEMGcxWmNVTVlvV0NJNVQxcVdmRWViOUM0SU40NWc0eTQ0WDc1Yk9CT0hJUHBVdlNZdUFZZkFmQ244NUpVdHN6QXRZTVlWdEFjQ0Q1OHRZZVAxYmdBbS1NR2lOSzlmTzBFU3NPZDlVVVU1cW9PTUJpTmVzOGtYWGpDYjd6ckthdTh2Smw1TkZzQUZRcy1GbkczdjVEZGNuc2c?oc=5",
-          "source": "Unknown source",
-          "publishedAt": "2026-07-09T14:40:07.000Z",
-          "ageHours": 24,
-          "isFresh": true,
-          "summary": "Cardano’s wallet hack exposed the user layer holding its on-chain government together  CryptoSlate"
+          "feed": "https://news.google.com/rss/search?q=site:cardano.org+Cardano+when:7d&hl=en-US&gl=US&ceid=US:en",
+          "error": "Status code 503"
         }
-      ],
-      "errors": []
+      ]
     },
     {
       "key": "midnight-city",
@@ -128,9 +54,14 @@
         "https://news.google.com/rss/search?q=%22Midnight+City%22+Cardano+OR+site:midnight.city+when:14d&hl=en-US&gl=US&ceid=US:en"
       ],
       "freshCount": 0,
-      "updatedAt": "2026-07-10T14:36:24.578Z",
+      "updatedAt": "2026-07-11T13:35:50.511Z",
       "items": [],
-      "errors": []
+      "errors": [
+        {
+          "feed": "https://news.google.com/rss/search?q=%22Midnight+City%22+Cardano+OR+site:midnight.city+when:14d&hl=en-US&gl=US&ceid=US:en",
+          "error": "Status code 503"
+        }
+      ]
     },
     {
       "key": "iog",
@@ -140,91 +71,19 @@
         "https://news.google.com/rss/search?q=%22Input+Output+Global%22+OR+IOG+Cardano+when:7d&hl=en-US&gl=US&ceid=US:en",
         "https://news.google.com/rss/search?q=site:iohk.io+%22Input+Output%22+when:7d&hl=en-US&gl=US&ceid=US:en"
       ],
-      "freshCount": 1,
-      "updatedAt": "2026-07-10T14:36:24.578Z",
-      "items": [
+      "freshCount": 0,
+      "updatedAt": "2026-07-11T13:35:50.511Z",
+      "items": [],
+      "errors": [
         {
-          "topicKey": "iog",
-          "title": "Cardano Founding Entity EMURGO Leaves Pentad to Lead SecondFi Recovery Process - The Crypto Basic",
-          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNQTBzVFNmZXZJblFjMEN2TUhLaEtHeXI0aTlWeUl3b0p1TkRicWtDZWFLNDROWnhYNVE1TTQ2UlJDcHNHeFNQMXhWc01SdlN3eGVRWWx0d3lBTERtZklVSEZ5a09FMDNMRldfR1doTzlpdnd5NDJyUUY3Ukp1OG14OFg2dWhDSTc2cE9UTFBHOVFwOC1ndXM2ZTJVcWFYWjQ0b0hPR3hEcFoxLVVmZG10NGhWZi1wd3Rh?oc=5",
-          "source": "Unknown source",
-          "publishedAt": "2026-07-09T14:40:33.000Z",
-          "ageHours": 24,
-          "isFresh": true,
-          "summary": "Cardano Founding Entity EMURGO Leaves Pentad to Lead SecondFi Recovery Process  The Crypto Basic"
+          "feed": "https://news.google.com/rss/search?q=%22Input+Output+Global%22+OR+IOG+Cardano+when:7d&hl=en-US&gl=US&ceid=US:en",
+          "error": "Status code 503"
         },
         {
-          "topicKey": "iog",
-          "title": "Cardano Faces a Week of Crosswinds as Hack Fallout, Hard Fork Deadline, and Founder’s Broadside Co - AD HOC NEWS",
-          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNSGUtcWl1STVPeGx2NmhPcUZiekppdE5UTXBpX2lRNW80ZmlFY0gxaEdFNkstZS15OUdTSU10MmltZGRHeUM2Z2JhSmNPOE12TExPZnd0bmNDdHZlRTc2TXlwSlhCa0h0TmlQX2pFZXU0VTZRcEt2SHpsci1ZU2FPZVFtTFMxeTNueFRhaldhTmk3cF8tQWUxd09HbUZoZzFrdXpTM05IWWU3Q1RFVU95R3VrU1pURW01YkhUb2ZrSVBkdUhqM0tn?oc=5",
-          "source": "Unknown source",
-          "publishedAt": "2026-07-09T04:25:16.000Z",
-          "ageHours": 34,
-          "isFresh": false,
-          "summary": "Cardano Faces a Week of Crosswinds as Hack Fallout, Hard Fork Deadline, and Founder’s Broadside Co  AD HOC NEWS"
-        },
-        {
-          "topicKey": "iog",
-          "title": "Charles Hoskinson calls Ethereum staking structure a mess, says Cardano is better - 디지털투데이",
-          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPUnNUNHJ1R1JPSEwtMkZfWkdtZmttSzQ0OVNsYU40Qm1pcU5xcmZfQTFzLTdqQkR5OE1Fb3V0T0xVc3FvRVRrVlFpT2RKRDVZVHotTzh5NmM2V2c3VkxidkhDb1oxU2tDOFFLX25hZ0VJeFhQS2NQT3pHQTI2YUh5VmVnSkRLNU1LdnJqYVI0bGN3NEdqUnZ2QWtqWkRYeGY3TWpkZGxkdDdKYTdOYjFfNmRvWHg1Z1NPTlJROXo5SjJnaWM?oc=5",
-          "source": "Unknown source",
-          "publishedAt": "2026-07-09T01:10:19.000Z",
-          "ageHours": 37,
-          "isFresh": false,
-          "summary": "Charles Hoskinson calls Ethereum staking structure a mess, says Cardano is better  디지털투데이"
-        },
-        {
-          "topicKey": "iog",
-          "title": "EMURGO Cardano Pentad Withdrawal Signals Governance Shift - The Cryptonomist",
-          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBySkVHb0RPVGZIT3JlV1Y0eG54Qjl3UHNkV1RXWGp0T0daWmg0TlVWcGVXdVFuNmxTRXFSOWtxUlNJLUFmeXNwM0t3RFJxQVBFTzFneGcyR05YSVRtWF8xOHZ2dFpJLXhrejNFN2p6VnBUZ1J5amFuZ2NTYw?oc=5",
-          "source": "Unknown source",
-          "publishedAt": "2026-07-08T19:24:07.000Z",
-          "ageHours": 43,
-          "isFresh": false,
-          "summary": "EMURGO Cardano Pentad Withdrawal Signals Governance Shift  The Cryptonomist"
-        },
-        {
-          "topicKey": "iog",
-          "title": "ADA Price Plunges 5% After Another Cardano Governance Mess - Bitget",
-          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5BangzTWtxRnJfblNvaEdBUVhxSTFBUXZiaVgtM0loU1lZQ1ZTNEVtS21tM1NDQ1RrNThxTkJLamhsRUF1YTFVMGtxa3Eyd1pCWktLQU9qbmNBQTNRU2fSAWNBVV95cUxOVGhPbVlQQk1BdElIWHIzcW14V2ZfUTgwSUR5SHVaS2FhT1hpeVJBVzUtQUR1VGxpdmg3OXM5YXBSMHVadFZPSy1Ba08xM3EwY3cyREtQLS1waDc2cDNVN1RJdVk?oc=5",
-          "source": "Unknown source",
-          "publishedAt": "2026-07-08T15:33:33.000Z",
-          "ageHours": 47,
-          "isFresh": false,
-          "summary": "ADA Price Plunges 5% After Another Cardano Governance Mess  Bitget"
-        },
-        {
-          "topicKey": "iog",
-          "title": "Cardano ADA Falls as EMURGO Exits Pentad Following SecondFi Hack - tokenpost.com",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5aMzF3QkZUdmJ5YXlsQnJTV1BUcFEyemNiLWhuN2hHdGtIZk9XdkZ4M0FkRU9IN2RnZkJJQ185dWplaTNGM1ZGTG5sM3RlN19TMFpZLXllS2FmQQ?oc=5",
-          "source": "Unknown source",
-          "publishedAt": "2026-07-08T15:21:04.000Z",
-          "ageHours": 47,
-          "isFresh": false,
-          "summary": "Cardano ADA Falls as EMURGO Exits Pentad Following SecondFi Hack  tokenpost.com"
-        },
-        {
-          "topicKey": "iog",
-          "title": "Cardano founding entity EMURGO steps down from Pentad governance role after wallet exploit - The Block",
-          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNbmc4ZnpjVi1BWHJkS1hnWWhLU1FCVm9nLUhrRFZ3cFQyaDlFRDZyNmtSNHpmUVpOOWpzanZGX3plN1FCZ0ZpOWhBaXR4VzdpamNNRG12U09oc1llY2Fpc2FXVFNMTGZBWmprTlNMLWRRdlRQVTcyMnp4V0hnQmZyMV92NzhNM3B0YWt5WGN2SXNqeHg1QjdnSWQydXB1a2hGYWZXMzJBQXJZYnpTVS0zVjJaNGNmc1h4Mno4?oc=5",
-          "source": "Unknown source",
-          "publishedAt": "2026-07-08T15:08:31.000Z",
-          "ageHours": 47,
-          "isFresh": false,
-          "summary": "Cardano founding entity EMURGO steps down from Pentad governance role after wallet exploit  The Block"
-        },
-        {
-          "topicKey": "iog",
-          "title": "Hoskinson Says “There’s No Locking in Cardano,” Criticizes Ethereum Staking Model - Cryptonews.net",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE91RFg4TnFYYllWdGw0TU1lM2Y2ZGQyZXotQVlKcWlfMmY0WDluQURMc3lYd2JuakdnTTBYQnNCOVEyQ3lPQ0NQNkstTnRVTGNSaWQtT1NreWprQQ?oc=5",
-          "source": "Unknown source",
-          "publishedAt": "2026-07-08T14:33:39.000Z",
-          "ageHours": 48,
-          "isFresh": false,
-          "summary": "Hoskinson Says “There’s No Locking in Cardano,” Criticizes Ethereum Staking Model  Cryptonews.net"
+          "feed": "https://news.google.com/rss/search?q=site:iohk.io+%22Input+Output%22+when:7d&hl=en-US&gl=US&ceid=US:en",
+          "error": "Status code 503"
         }
-      ],
-      "errors": []
+      ]
     },
     {
       "key": "intersect",
@@ -234,91 +93,19 @@
         "https://news.google.com/rss/search?q=Intersect+Cardano+when:7d&hl=en-US&gl=US&ceid=US:en",
         "https://news.google.com/rss/search?q=site:intersectmbo.org+Intersect+when:14d&hl=en-US&gl=US&ceid=US:en"
       ],
-      "freshCount": 2,
-      "updatedAt": "2026-07-10T14:36:24.578Z",
-      "items": [
+      "freshCount": 0,
+      "updatedAt": "2026-07-11T13:35:50.511Z",
+      "items": [],
+      "errors": [
         {
-          "topicKey": "intersect",
-          "title": "Intersect weekly update #119 July 10, 2026 - Intersect MBO",
-          "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE50V0ViUnJzVnF5SW1heFRILVUwSGtqQVJOVm9HdHVOQWVWb01zbzdNMG1NY00yWk5oSWJjLWFja0NyS1VzR2lpX0pWVzg5akhOenE0NHk5RmdwUHVWWUxRVHhLbWJDcWEyd3RiYXVWeUZqSFpSUWRsN01n?oc=5",
-          "source": "Unknown source",
-          "publishedAt": "2026-07-10T14:01:16.000Z",
-          "ageHours": 1,
-          "isFresh": true,
-          "summary": "Intersect weekly update #119 July 10, 2026  Intersect MBO"
+          "feed": "https://news.google.com/rss/search?q=Intersect+Cardano+when:7d&hl=en-US&gl=US&ceid=US:en",
+          "error": "Status code 503"
         },
         {
-          "topicKey": "intersect",
-          "title": "Cardano’s wallet hack exposed the user layer holding its on-chain government together - CryptoRank",
-          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPUm9ZZjBqRjVwLVN3cnJSX3NaTFR1UTlqbXJ4WEtYX2p1YlMweTNSclZteHpxY0xRWTlqM2NCeXliQ0dIYmgyNXl3ZFllODBSREtfS29WOVZ3c21ua1FGUzRrS1B3MTFNN1g2Z2VkSWs0SHNFS1M1ZkhtNjhjcEoyNnRiODNhU2ZKbTFhNVlISVl5MERqOWFPN1AtWjA5d2R4dHNiS2xZbV9SUmc3Sy0xZFk5dF9uSE1DN29TeXhlMA?oc=5",
-          "source": "Unknown source",
-          "publishedAt": "2026-07-09T15:49:50.000Z",
-          "ageHours": 23,
-          "isFresh": true,
-          "summary": "Cardano’s wallet hack exposed the user layer holding its on-chain government together  CryptoRank"
-        },
-        {
-          "topicKey": "intersect",
-          "title": "Cardano Node 9.0.2 Hotfix Keeps Chang Hard Fork Preparations Moving - CryptoRank",
-          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQV19ZbmlaQlFjSzJuU3JNSE1JVk5sZzQ3SVJRaEU3MWdYNnhKbUNkMlZraEJLMUgxM0xlemNmeFhtLTdpR1BxelNUN01DVXB0LXhPZ1YxWmtzWHFTeUFENzRWeTI4WXFEc1BrYjZlVkdHTURBUDFVcHZNQnF6eTh1ZkxwVzN2MEdZS1FjR2JqNjd6RjVKQXlmUU9UU010WEFtZW16TTVoOHU?oc=5",
-          "source": "Unknown source",
-          "publishedAt": "2026-07-09T12:53:12.000Z",
-          "ageHours": 26,
-          "isFresh": false,
-          "summary": "Cardano Node 9.0.2 Hotfix Keeps Chang Hard Fork Preparations Moving  CryptoRank"
-        },
-        {
-          "topicKey": "intersect",
-          "title": "EMURGO Cardano Pentad Withdrawal Signals Governance Shift - The Cryptonomist",
-          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBySkVHb0RPVGZIT3JlV1Y0eG54Qjl3UHNkV1RXWGp0T0daWmg0TlVWcGVXdVFuNmxTRXFSOWtxUlNJLUFmeXNwM0t3RFJxQVBFTzFneGcyR05YSVRtWF8xOHZ2dFpJLXhrejNFN2p6VnBUZ1J5amFuZ2NTYw?oc=5",
-          "source": "Unknown source",
-          "publishedAt": "2026-07-08T19:24:07.000Z",
-          "ageHours": 43,
-          "isFresh": false,
-          "summary": "EMURGO Cardano Pentad Withdrawal Signals Governance Shift  The Cryptonomist"
-        },
-        {
-          "topicKey": "intersect",
-          "title": "ADA Price Plunges 5% After Another Cardano Governance Mess - Bitget",
-          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5BangzTWtxRnJfblNvaEdBUVhxSTFBUXZiaVgtM0loU1lZQ1ZTNEVtS21tM1NDQ1RrNThxTkJLamhsRUF1YTFVMGtxa3Eyd1pCWktLQU9qbmNBQTNRU2fSAWNBVV95cUxOVGhPbVlQQk1BdElIWHIzcW14V2ZfUTgwSUR5SHVaS2FhT1hpeVJBVzUtQUR1VGxpdmg3OXM5YXBSMHVadFZPSy1Ba08xM3EwY3cyREtQLS1waDc2cDNVN1RJdVk?oc=5",
-          "source": "Unknown source",
-          "publishedAt": "2026-07-08T15:33:33.000Z",
-          "ageHours": 47,
-          "isFresh": false,
-          "summary": "ADA Price Plunges 5% After Another Cardano Governance Mess  Bitget"
-        },
-        {
-          "topicKey": "intersect",
-          "title": "Cardano ADA Falls as EMURGO Exits Pentad Following SecondFi Hack - tokenpost.com",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5aMzF3QkZUdmJ5YXlsQnJTV1BUcFEyemNiLWhuN2hHdGtIZk9XdkZ4M0FkRU9IN2RnZkJJQ185dWplaTNGM1ZGTG5sM3RlN19TMFpZLXllS2FmQQ?oc=5",
-          "source": "Unknown source",
-          "publishedAt": "2026-07-08T15:21:04.000Z",
-          "ageHours": 47,
-          "isFresh": false,
-          "summary": "Cardano ADA Falls as EMURGO Exits Pentad Following SecondFi Hack  tokenpost.com"
-        },
-        {
-          "topicKey": "intersect",
-          "title": "Cardano founding entity EMURGO steps down from Pentad governance role after wallet exploit - The Block",
-          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNbmc4ZnpjVi1BWHJkS1hnWWhLU1FCVm9nLUhrRFZ3cFQyaDlFRDZyNmtSNHpmUVpOOWpzanZGX3plN1FCZ0ZpOWhBaXR4VzdpamNNRG12U09oc1llY2Fpc2FXVFNMTGZBWmprTlNMLWRRdlRQVTcyMnp4V0hnQmZyMV92NzhNM3B0YWt5WGN2SXNqeHg1QjdnSWQydXB1a2hGYWZXMzJBQXJZYnpTVS0zVjJaNGNmc1h4Mno4?oc=5",
-          "source": "Unknown source",
-          "publishedAt": "2026-07-08T15:08:31.000Z",
-          "ageHours": 47,
-          "isFresh": false,
-          "summary": "Cardano founding entity EMURGO steps down from Pentad governance role after wallet exploit  The Block"
-        },
-        {
-          "topicKey": "intersect",
-          "title": "- Intersect MBO",
-          "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQakxlaWpEUzZOb0Jnc0V4clpZUy1GRWp0X1VJOUN0RUd3di1iSExsWm5RM0wzSFpoX3J5cmNwdjNqTlpEOENEUHp2dmgzQmFleW1jN1NRc0VaY296YmlKdDI1dEZRdDBVMnBSRklmRFkteWtjMzlzX3J6WlVTbHJPZ19PLXpNbW5xYXBRR2VYOVBianRiX0pGWkZJeWdjT3dwTEJ6Mmk1VGRkTXg4OXhmeGJyTlNLbkN0Q0ZnajQwU0doY0hkUXpCWlg3UkJ0aWRHVGNjVUxPeUhnR1dFazF5US1JaWRDTUdQbGJtNEN3SGNScnY2WkE?oc=5",
-          "source": "Unknown source",
-          "publishedAt": "2026-07-07T13:52:28.000Z",
-          "ageHours": 73,
-          "isFresh": false,
-          "summary": "Intersect MBO"
+          "feed": "https://news.google.com/rss/search?q=site:intersectmbo.org+Intersect+when:14d&hl=en-US&gl=US&ceid=US:en",
+          "error": "Status code 503"
         }
-      ],
-      "errors": []
+      ]
     },
     {
       "key": "charles-hoskinson",
@@ -328,91 +115,19 @@
         "https://news.google.com/rss/search?q=%22Charles+Hoskinson%22+when:7d&hl=en-US&gl=US&ceid=US:en",
         "https://news.google.com/rss/search?q=site:youtube.com+%22Charles+Hoskinson%22+when:7d&hl=en-US&gl=US&ceid=US:en"
       ],
-      "freshCount": 8,
-      "updatedAt": "2026-07-10T14:36:24.578Z",
-      "items": [
+      "freshCount": 0,
+      "updatedAt": "2026-07-11T13:35:50.511Z",
+      "items": [],
+      "errors": [
         {
-          "topicKey": "charles-hoskinson",
-          "title": "Charles Hoskinson Denies Retirement Rumors, Calling Them “Categorically Untrue” - Crypto Economy",
-          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNbGpTMlZzN3Z6bFMzeGt1dUF4V2x1S092TnR1T1NYcmpuRm1fVlJnanlYODE3SzFjV3lvaGk5ajJkT1dOUlM0X1l2ZEpmY2F6NjVORUVZZTd3MnBteml5S0JwekNidkhjRXV6dzRBd0c4WFBUQUs5R2dZaEwwYktBdTN0Xzg4bkFMSFM2a0ZJLUdxUnNnSWtCNllFUkkwU1Q4Zldsd3BhZw?oc=5",
-          "source": "Unknown source",
-          "publishedAt": "2026-07-10T14:32:44.000Z",
-          "ageHours": 0,
-          "isFresh": true,
-          "summary": "Charles Hoskinson Denies Retirement Rumors, Calling Them “Categorically Untrue”  Crypto Economy"
+          "feed": "https://news.google.com/rss/search?q=%22Charles+Hoskinson%22+when:7d&hl=en-US&gl=US&ceid=US:en",
+          "error": "Status code 503"
         },
         {
-          "topicKey": "charles-hoskinson",
-          "title": "Cardano Price Prediction: Hoskinson Calls Ethereum’s EUTXO Move a Crime as ADA Holds the 20-Day EMA - Cryptonews.net",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1oUzd4T0NrZGtocXdhUmRWNjhab0pIR2RobFZzcml5T0VoRUxxeTVlVGxxVzhEOXotSVNrUlJqSUJPODVXaXctY29DRzh4amtIc05wcFNRYlkxSlk?oc=5",
-          "source": "Unknown source",
-          "publishedAt": "2026-07-10T14:03:45.000Z",
-          "ageHours": 1,
-          "isFresh": true,
-          "summary": "Cardano Price Prediction: Hoskinson Calls Ethereum’s EUTXO Move a Crime as ADA Holds the 20-Day EMA  Cryptonews.net"
-        },
-        {
-          "topicKey": "charles-hoskinson",
-          "title": "Hoskinson Denies Retirement, Readies New Cardano Governance Body - Bitcoin World",
-          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5LQ3hOSzEtZUNzMjRGVUdzVHp3c2xyZnp6LWFSbTVyNXUxQ1pQbkxPRFp3UmVTclFVblJHWkdLLVlNY0l3VG9Kcjh6OTQ4amdXZTlwN2d6V2h5c1IwLXE2M1ZxYWd2MEh6RFJTaDJoRnpFcC10MktGZmFnQUd2dw?oc=5",
-          "source": "Unknown source",
-          "publishedAt": "2026-07-10T12:00:11.000Z",
-          "ageHours": 3,
-          "isFresh": true,
-          "summary": "Hoskinson Denies Retirement, Readies New Cardano Governance Body  Bitcoin World"
-        },
-        {
-          "topicKey": "charles-hoskinson",
-          "title": "“I’m Not Resigning. I’m Not Retiring”: Charles Hoskinson Debunks Cardano Exit Claims - Coin Edition",
-          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxON090V09fUWZ6dXVSWEFYVm1rT3VlWC05NlpycENDVzhGbklyR3UxcXZYQXA4dnJiTWthbUJfd1lkNFNOLXYwd3Q4UHhFeGM5TkRvcE1IajdIRVo4bmlRU2J5ck84TUxCMmxHTjkxbVR0eUtMOGVhb1BjUHVwZC1oTFBYbm0takNJR3FZT0d1OXRDb1lGSXp4MGNnWFNrd0Z4LWVOQ2hn?oc=5",
-          "source": "Unknown source",
-          "publishedAt": "2026-07-10T11:30:00.000Z",
-          "ageHours": 3,
-          "isFresh": true,
-          "summary": "“I’m Not Resigning. I’m Not Retiring”: Charles Hoskinson Debunks Cardano Exit Claims  Coin Edition"
-        },
-        {
-          "topicKey": "charles-hoskinson",
-          "title": "Ethereum Price Prediction: Tom Lee Predicts $5 Trillion Ethereum - YouTube",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE0zRUJnNDF6bTk5VWNJV1E0eDcyQnNtamEwUXl0SHlza09pLWpFcTVyQ19ET0xfN0VzUXRVZzBOR19xMFJGWHZJVnNnSGJuNGs4OUtKRjZB?oc=5",
-          "source": "Unknown source",
-          "publishedAt": "2026-07-10T11:21:54.000Z",
-          "ageHours": 3,
-          "isFresh": true,
-          "summary": "Ethereum Price Prediction: Tom Lee Predicts $5 Trillion Ethereum  YouTube"
-        },
-        {
-          "topicKey": "charles-hoskinson",
-          "title": "Hoskinson Confirms Cardano Political Party Is Nearing Launch - The Crypto Basic",
-          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNZ01yU3RiSkhGTnMtZ0FLbEtWVW9GMkxEZTNweXJSQ1RJc1Rnblp2OURqdW5jRGc0Z2NCTXRudC00NmQtVGhiS0lzR1lNYWpXMVpvaGI1VTI0ei1HRnJtRFNhdVNYSVZFcXl0R0l1M3kwd0pUS2dlbF9CeURrNlZpTWUyOWRVOVYtaXdnUV9URzRPRGRTQnZwbzJMVFNaSVdN?oc=5",
-          "source": "Unknown source",
-          "publishedAt": "2026-07-10T11:10:45.000Z",
-          "ageHours": 3,
-          "isFresh": true,
-          "summary": "Hoskinson Confirms Cardano Political Party Is Nearing Launch  The Crypto Basic"
-        },
-        {
-          "topicKey": "charles-hoskinson",
-          "title": "Hoskinson Denies Cardano Exit Rumors: Full Story - Cryptonews",
-          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBsanlTQ1FUNTF2MzZqVFJxbWNBYjA4cW5JSzhwdFNHQm0zemZ3SmlMSHFXRHI2TEcxWExLSWlGNkF1WVM5YWxVcHhjUkY4Y2NZZVYtUkR6OUhMMnZaOHN4MmNjb0hrbVpIZTgzLU9Pd2tiTHA3b21fR2RkeDhVUQ?oc=5",
-          "source": "Unknown source",
-          "publishedAt": "2026-07-10T10:46:00.000Z",
-          "ageHours": 4,
-          "isFresh": true,
-          "summary": "Hoskinson Denies Cardano Exit Rumors: Full Story  Cryptonews"
-        },
-        {
-          "topicKey": "charles-hoskinson",
-          "title": "Is Charles Hoskinson Leaving Cardano? He Calls The Claim A Complete Lie - Yellow.com",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1aTFZoazNtT21VcU9EY3Z5bEU4Sm9ZUVdUc01iTUVKOHFGMW5lblpFRldnZF9aUVlvQ2lSSUJ1aXZpNm03Zlpyak95SnFwR2JYRThZMHFfUDFtX2xtdE9fUzdoUTRvUjNEY0JNQQ?oc=5",
-          "source": "Unknown source",
-          "publishedAt": "2026-07-10T10:42:55.000Z",
-          "ageHours": 4,
-          "isFresh": true,
-          "summary": "Is Charles Hoskinson Leaving Cardano? He Calls The Claim A Complete Lie  Yellow.com"
+          "feed": "https://news.google.com/rss/search?q=site:youtube.com+%22Charles+Hoskinson%22+when:7d&hl=en-US&gl=US&ceid=US:en",
+          "error": "Status code 503"
         }
-      ],
-      "errors": []
+      ]
     }
   ]
 }
