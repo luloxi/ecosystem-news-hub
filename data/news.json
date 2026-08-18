@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-17T12:50:52.023Z",
+  "generatedAt": "2026-08-18T12:53:05.305Z",
   "freshnessWindowHours": 24,
   "topics": [
     {
@@ -11,15 +11,25 @@
         "https://news.google.com/rss/search?q=site:forum.midnight.network+Midnight+when:7d&hl=en-US&gl=US&ceid=US:en"
       ],
       "freshCount": 0,
-      "updatedAt": "2026-08-17T12:50:52.023Z",
+      "updatedAt": "2026-08-18T12:53:05.305Z",
       "items": [
+        {
+          "topicKey": "midnight-network",
+          "title": "DUST architecture - Midnight Docs",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE4ycGNBYVVDa09lMm5lVnI0UVU2N0VHRkZrWGF5cWlrcm14UTVfQjB1c3FHSzZEdnhyOVppcEtlVWxacEVHS0ZsTEEyY0JtVzRiY0dkNVFwS1JhLUVRTkpqd0otNndEZGs?oc=5",
+          "source": "Unknown source",
+          "publishedAt": "2026-08-17T12:42:13.000Z",
+          "ageHours": 24,
+          "isFresh": false,
+          "summary": "DUST architecture  Midnight Docs"
+        },
         {
           "topicKey": "midnight-network",
           "title": "Midnight Documentation | Midnight Docs - Midnight Docs",
           "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTFAySnNyOEt3RktzODRxOXJwYXE4Sk91OW9QOEtCTWRiTk5LYVlUcFViLUZuLWx3Y0hpSDlMdFQ0M3dRYWh0?oc=5",
           "source": "Unknown source",
           "publishedAt": "2026-08-14T16:43:29.000Z",
-          "ageHours": 68,
+          "ageHours": 92,
           "isFresh": false,
           "summary": "Midnight Documentation | Midnight Docs  Midnight Docs"
         },
@@ -29,7 +39,7 @@
           "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBONk9jSlFrSFZtTEl6YmJ4VEVMMXlfSHVYVk15Q1RGZWxpa2ZJRTZLVnF5UWQ1MFdwTUh1T3RIN0dxWW4yc3ZkaDJzek9jeGtGTU1VRWhVN0JZdnJCM1QtSA?oc=5",
           "source": "Unknown source",
           "publishedAt": "2026-08-14T16:43:29.000Z",
-          "ageHours": 68,
+          "ageHours": 92,
           "isFresh": false,
           "summary": "Set up Cardano-db-sync  Midnight Docs"
         },
@@ -39,19 +49,9 @@
           "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQeXA3dzFnQzdWb3lRVHlSMW56RTB0X3ZNbG1GWi0wUjczbThyTWFRR0xvQUdxNHZTbTJVR2htUW0xaGlNSGtsMnVUVkZyaS1kTVdpYk5xVmNOeDFsOXVQeXRxbVpSenVDRWpiM1JlTnBJS2hVSWpqTmZTLXBJeHRtVA?oc=5",
           "source": "Unknown source",
           "publishedAt": "2026-08-14T16:43:29.000Z",
-          "ageHours": 68,
+          "ageHours": 92,
           "isFresh": false,
           "summary": "Visual Studio Code extension for Compact  Midnight Docs"
-        },
-        {
-          "topicKey": "midnight-network",
-          "title": "DUST architecture - Midnight Docs",
-          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE4ycGNBYVVDa09lMm5lVnI0UVU2N0VHRkZrWGF5cWlrcm14UTVfQjB1c3FHSzZEdnhyOVppcEtlVWxacEVHS0ZsTEEyY0JtVzRiY0dkNVFwS1JhLUVRTkpqd0otNndEZGs?oc=5",
-          "source": "Unknown source",
-          "publishedAt": "2026-08-12T15:56:42.000Z",
-          "ageHours": 117,
-          "isFresh": false,
-          "summary": "DUST architecture  Midnight Docs"
         },
         {
           "topicKey": "midnight-network",
@@ -59,7 +59,7 @@
           "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBHUnY2OF8wc201cHh6U2tTUmIwUEhQUl9BTmFXbXlNTktjX0hIcHZRUEVKYi0tSDd5enhxNXJFcDVpUjdUUGJrakFIVVdyaDlTWEVCLTJ2Vzk0ay1FdE00?oc=5",
           "source": "Unknown source",
           "publishedAt": "2026-08-11T14:11:58.000Z",
-          "ageHours": 143,
+          "ageHours": 167,
           "isFresh": false,
           "summary": "Deploy the hello world contract  Midnight Docs"
         },
@@ -69,7 +69,7 @@
           "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE8zSGJiR21BMFNQcVltTjlDYlFsNV9zYnhIMkNUQ2tVVktJdU5tMHBMR25CMXVqMm43N2phTmNaY1I1U0ZzVHQzNUJ5Q3BMYWZyNFBKQzREcw?oc=5",
           "source": "Unknown source",
           "publishedAt": "2026-02-26T02:49:02.000Z",
-          "ageHours": 4138,
+          "ageHours": 4162,
           "isFresh": false,
           "summary": "Set up RPC node  Midnight Docs"
         },
@@ -79,7 +79,7 @@
           "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9FWC1zY0JNaVA5Sk1OeV9uYnlISkhoQUhPZWRTUmE0Uk9GV1VHc1ZwTHpGTnpMWE9jb3FyZjVkLUhUNGN5ZFBTZFAxNmdhOEZwbVVydkVEaGI?oc=5",
           "source": "Unknown source",
           "publishedAt": "2026-02-21T03:13:21.000Z",
-          "ageHours": 4258,
+          "ageHours": 4282,
           "isFresh": false,
           "summary": "Set up full node  Midnight Docs"
         }
@@ -94,88 +94,88 @@
         "https://news.google.com/rss/search?q=Cardano+when:7d&hl=en-US&gl=US&ceid=US:en",
         "https://news.google.com/rss/search?q=site:cardano.org+Cardano+when:7d&hl=en-US&gl=US&ceid=US:en"
       ],
-      "freshCount": 7,
-      "updatedAt": "2026-08-17T12:50:52.023Z",
+      "freshCount": 8,
+      "updatedAt": "2026-08-18T12:53:05.305Z",
       "items": [
         {
           "topicKey": "cardano",
-          "title": "Cardano has two weeks to avoid a governance freeze as 4 committee seats expire - CryptoSlate",
-          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQUjEyTU5wWWlfbnpZWUJFRW1FcnJJQ3UwS2lkc3lqQU15ZUVmWFhBbk16QjZ0Rl92Zkw3SlpwVWFMMlN1VmpGY2ZVUzQzUUF1cms5Qm9yN3VoaXpZVWJjaUNoLWJ5MWRHbDVZR3NDLVZTRFRTSmVnYl9RejJVNjF4RmdpVjVxdzVWaTVlc2plY3E3ZWlKWW5kSk51OFZ5TE1yV29sVS1n?oc=5",
+          "title": "Altcoin Season Check: Chainlink Up 13.7%, Cardano Down 10%, and $BULLSKI on Stage Two - TheWire.in",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOSF9PVEZjeFNqUFlacXoxQVhwMFV0SzJQWjhjZEZ0NXh6N3JST0FTTFRQWGdRcFk4T1pGUjVOdHM5YzBNR0w5M09NX2R4MWFvN1F3WlI1VXV4by1zWXBiT0ZWekdBYVJTcEp2Zlp3ZXlGSkg4MlJ6U1g3Q3JlX2tITy12N3pqX1BYeFR0cFJ1UHczUlByX3NHUVZVZGlmUnE4TlZ6S0pYcTh3UnlNeGNRYjg1MnVNWEFsWEHSAb8BQVVfeXFMUGFIeW1aRUZ5NHdFaVVHVkV0SGNySXdzSFdNS1piaGpBZ0EzbEZtbW1jdFMxd2lDVnM4S3FyY0liSk5tYjFwbk9BclI5VUhBNVNNckZta2dJU1hwRnhXOGlvMzlLdmttQ0Y0ZG1RcnU1ZmhrSGROalFTblFwNElyN0lpbnVWZHNIX0ZpVHpCSnlRRG0wZ19oZDNVVHJ1UnVjNjNObWJDRDZQNEEtUmYyMk9LdmFDVEkyMU0xaS0yY1k?oc=5",
           "source": "Unknown source",
-          "publishedAt": "2026-08-17T12:10:03.000Z",
+          "publishedAt": "2026-08-18T11:46:41.000Z",
           "ageHours": 1,
           "isFresh": true,
-          "summary": "Cardano has two weeks to avoid a governance freeze as 4 committee seats expire  CryptoSlate"
+          "summary": "Altcoin Season Check: Chainlink Up 13.7%, Cardano Down 10%, and $BULLSKI on Stage Two  TheWire.in"
         },
         {
           "topicKey": "cardano",
-          "title": "Cardano Dijkstra Phase 1 Targets Leios Mainnet Rollout by End of 2026 - KuCoin",
-          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNVFZjaGQtRTRPZndhSWtyOW4xdUZmSUpYZDFBQUh5QVc2WE1hTEhmZ2lodkp5TTlPTmZwUEM4bXZuOU9pMnhLVDIwNmlHYTlBMElZNVhUMTh5eVhoUklzMU9zM1dIQlpXcEs3dnZWZ1dQU19LWGdQRFpXX2VOWktWdGRXX3VIX09ZT3BwMDlCUGFGa2JKQU1FWVUxWU5kenZPcmo0LU1R?oc=5",
+          "title": "Cardano Dijkstra Upgrade Roadmap and Market Impact - The Cryptonomist",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9IRHpVN2RUZ3JJTkRJOW54QWJjV19rUUY3WDlOd0RNR1dCN3F5LWVOcHgyN2F6R1RLdkptTTdUNE11MmQ4NFpkVnFNaW52cG1kdGlNZEV4a3M4UkJfUmtOVjA0bkNEZmRKM0V0RUNhejA?oc=5",
           "source": "Unknown source",
-          "publishedAt": "2026-08-17T09:52:48.000Z",
-          "ageHours": 3,
+          "publishedAt": "2026-08-18T07:19:02.000Z",
+          "ageHours": 6,
           "isFresh": true,
-          "summary": "Cardano Dijkstra Phase 1 Targets Leios Mainnet Rollout by End of 2026  KuCoin"
+          "summary": "Cardano Dijkstra Upgrade Roadmap and Market Impact  The Cryptonomist"
         },
         {
           "topicKey": "cardano",
-          "title": "Cryptocurrencies Price Prediction: Cardano, Bitcoin & Ethereum – Asian Wrap 17 August - FXStreet",
-          "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNZ1NyRmpQZ1pLa3BEQUxRNjJDbXFkVTlMNTZ6TElwZjliY0pqaUFGaWhMdk5iY1hGWmJtX2trXzU4WGlqOGJJbWVRUmNkU3NFY1ZzQzQ4QklkSHViVFVLbHQtU3ZMREhCdGd1QXVnN0xUY1o3YkNPQXJRWW5mZjB3SG5RUEx2SVRFUVphRGp5RTd2eGZhWWJUSW1ZamdlQUtZd3VXVUVXb3l1QVlBZnRCZFdhNnFodDFVZWdudjdJbFJ4SkRfSm80UE4wWFlEbllPOVN6QmpR?oc=5",
+          "title": "Could Ripple, Cardano and Solana extend their losses? - FXStreet",
+          "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPb0ZLRDgwajdyaW9QTjE1aEotcVVLRkZ0dHJzdnh3T00wVnNjdkVCeFo1X2w3dWp2LWIyUzNwUkZrZkxlaWFmbE9LbU5GV1hEZ0FTLUt0aGM4OHlHeDFRbDlRUW03blNsRVZ0QW40OWE0U1RBQ0Jrdi0xMUdOMWhKVEFKTWU3UE1YU3lmLWxkMTh5cWJYWXB0R1pMQzROelBwYXhIdUtDeXZqS3p6U2lxVG5pQ091NWNMRVAzbVNkRkpUOHVxbFU4YUMtbGZJd1M5d1Nkbm9xNlQ4QQ?oc=5",
           "source": "Unknown source",
-          "publishedAt": "2026-08-17T05:38:19.000Z",
+          "publishedAt": "2026-08-18T05:26:23.000Z",
           "ageHours": 7,
           "isFresh": true,
-          "summary": "Cryptocurrencies Price Prediction: Cardano, Bitcoin & Ethereum – Asian Wrap 17 August  FXStreet"
+          "summary": "Could Ripple, Cardano and Solana extend their losses?  FXStreet"
         },
         {
           "topicKey": "cardano",
-          "title": "Where is Cardano heading? - FXStreet",
-          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNdlRhd0J5Yk5tNVJZbm5iY2xhWHRBMXhXN1FjUHgzc0RHSy1HNXdvRXgxTGV3eldJdVQ5VUxRUzJQVFcxSVhJcFpaUnREUjZuV2ZPa29VbkY1RkFBMHU5dlhJRVo1dzVDOWJwNzhiRDVqdno1cmUwZDlXekZseElVUjBaTFlYeG5pQjBWay1VWDJ2MDcydWt3QWtfMGkzSkVkbTRpLVRQYTc0TlpBQWlTU1pGY0xzN3RTSHR5bThyT19zWWpZ?oc=5",
+          "title": "Crypto News Today: AlphaPepe Presale Stages Sell Fast Before Launch Update as Cardano Price Prediction Eyes $5 - streetinsider.com",
+          "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxOVzNncENYb2JEZUZQQzh4UUd4aVVtNEdmSDctRzc3OEpsbzZYSWY5XzN2YXl5NHJmUmx4QmU3ZUZ3X3hLVGFENWJBeDQtUjhIUzFXS0NDZGFrVnBMVzdFeDgxVFNlY0xCT2dKc21zZGU3SEoyNmtWYU00NDJ1eGR6NG5oQzMxOEZyUFp2SzdBWXdIby1lQ0Zwajk3OWFCSXlmTE9xNjFkdWtOcjhIbndrSUx6czlEbEhvSkcwTHAxRmxiV25kOEJYYTFaYW52WEltSHllSEdSNDNMSW1UdHhHanZ1R2hJdGlQNmhaak00YXQ3VkY2M1NRd0JLVG5Gd0JzeUtB?oc=5",
           "source": "Unknown source",
-          "publishedAt": "2026-08-17T04:56:43.000Z",
+          "publishedAt": "2026-08-18T04:23:58.000Z",
           "ageHours": 8,
           "isFresh": true,
-          "summary": "Where is Cardano heading?  FXStreet"
+          "summary": "Crypto News Today: AlphaPepe Presale Stages Sell Fast Before Launch Update as Cardano Price Prediction Eyes $5  streetinsider.com"
         },
         {
           "topicKey": "cardano",
-          "title": "Cardano sets Dijkstra hard fork roadmap: code completion by Q4 2026, Peras finality in 2027 - cryptonews.net",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBkcmg4RmVzZ2RvU3E1VF9nSXdZZklaTFJOQWIwY1ZCSmJVZ2Y2bW04SDVjRTBWOUNLQjdiaVRCLUdlNGlGQlRQYjF4UlJHNFRveFEtY01PTDl3Zw?oc=5",
+          "title": "Cardano, Bitcoin, and Ethereum Price Update: Asian Market Wrap for August 17 - CryptoRank",
+          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNdnBEQnlEWDNCSWkzMnkySHF5ZFNlTVZJdndqZXNDRjZYSHByZjNxNjduOHJZZERJUVB5SzdkUVNKdVpuZ3VnYm9kR3BQQ0hsSDJTbTZfbVNsZ0RjMUMtUUM0ZEdsdUZ2MnU1V09HcHBXWU9sT1RPYzVEMFVpc2NwQTh2THU?oc=5",
           "source": "Unknown source",
-          "publishedAt": "2026-08-17T04:14:37.000Z",
-          "ageHours": 9,
+          "publishedAt": "2026-08-17T23:15:24.000Z",
+          "ageHours": 14,
           "isFresh": true,
-          "summary": "Cardano sets Dijkstra hard fork roadmap: code completion by Q4 2026, Peras finality in 2027  cryptonews.net"
+          "summary": "Cardano, Bitcoin, and Ethereum Price Update: Asian Market Wrap for August 17  CryptoRank"
         },
         {
           "topicKey": "cardano",
-          "title": "Anthropic’s AI watermarks already have a counter: Cardano founder launches free removal tool - Firstpost",
-          "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQNGZCcWxkSE14Zy15RFM5a3IzOGdNNmo1dTFCVzNaNUNZNUpDcHNkU1NsRkhoTm9UZFd4VDRUalg3TW1TdEZKYlJIRjBzVWc4Nll5QXZxdFVZU2h5dXoxYjZGaHZqeWVQYXJkTWZPUjJIcTM0bWQwNWF4UmhUN2V1bTVfaE5fYVRtS1hCalhuTm9iVlJ3N0R4N2UtRzhGNDdOOF9MRXRuVkM1Znc2SnU0SUcyZHJwWTl1Y1pKWFdoVGpnUHVJa1NOd2VRU3ZVQWt00gHWAUFVX3lxTE9yWG9lQ2o2STN5cGpCNE9QYnNLTHhhektBbm16TU1GY1BUN1dFY2xpZ1p1eFhhTjZqaG05TEhsLVpKMXZpejl0RnJxQThuTVpEUXN6V25yenROazN3R3BvUHNPM2Z4SjZMalc4RVFEenhCNDZfM3N4cVZJZ0dXWER6TVZxamlaNk9IM2VrUElFaTJfZVFHZDZXa2xZREFKUUh1S09xSUI1OFhsTktLZjZld1hWdW15dUp4MUdXQnJkQ05aRTdkaTFTUmdLQ1kzODJkY0tCTkE?oc=5",
+          "title": "CryptoPatel28(@Square-Creator-1e6bb63bbcc4a)'s insights - Binance",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9xZEM3UXJoQm8yNFRpTE5mN2lsVmZQaUV3Vl9KWlRrQk1SNVlneFYxMWQ4MjJZVWVWR21rNjVHUFVLZ01KYXNHSHR3Z3FlS28xbFlpWk5SZVJoNzNaSDNEaWxNcVc?oc=5",
           "source": "Unknown source",
-          "publishedAt": "2026-08-16T16:03:55.000Z",
-          "ageHours": 21,
+          "publishedAt": "2026-08-17T22:51:55.000Z",
+          "ageHours": 14,
           "isFresh": true,
-          "summary": "Anthropic’s AI watermarks already have a counter: Cardano founder launches free removal tool  Firstpost"
+          "summary": "CryptoPatel28(@Square-Creator-1e6bb63bbcc4a)'s insights  Binance"
         },
         {
           "topicKey": "cardano",
-          "title": "Cardano Founder Launches New Free Tool to Remove Anthropic’s AI Watermark - Yahoo Tech",
-          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQZ2FmWGROQmhUS3lUdzBwcG1qUVJyLUM2ck9UYnNuVWpuVVZDQ0FNZ3ZkcnEzS2dTTGgtc3VOc0RfMTd2UHlKU2J6WW12VTZjY2plZlhfdUo2STdOZmJJTnNNMkNuSTBjYjhmb3hSYWMzbU5JUzFfQ2YxY0t4enBDX25KQ1ZIRmVPWVk5dVliWEVhQ2pYOXc?oc=5",
+          "title": "Cardano Races Toward Dijkstra Upgrade as Sept. Deadline Nears - CryptoRank",
+          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPOWVnNmkxaDZNQVo3Z3BqcHVJQXJIdjg2M2JtRVZBQWJITzYwczUxU0pmY1U1ZVhFQ0t6M3ZIWG1TQmJqMnk0dzhGVkc3U0x6QndBYklqQkJPSnR6eVdiSU4tY2ZiSU9uUEdRcXhoM21CU2tRU210OXFaUm1kTTF1Wmo3WEZYemVXcm0zaEl0cEtWbnQzT2VJ?oc=5",
           "source": "Unknown source",
-          "publishedAt": "2026-08-16T13:53:52.000Z",
-          "ageHours": 23,
+          "publishedAt": "2026-08-17T22:18:52.000Z",
+          "ageHours": 15,
           "isFresh": true,
-          "summary": "Cardano Founder Launches New Free Tool to Remove Anthropic’s AI Watermark  Yahoo Tech"
+          "summary": "Cardano Races Toward Dijkstra Upgrade as Sept. Deadline Nears  CryptoRank"
         },
         {
           "topicKey": "cardano",
-          "title": "Cardano's Dijkstra Phase 1 targets mainnet laun... - Pluang",
-          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPOUxCMnFWNWhrTjZaZFgwbk9yUG8tWndsVTI1bmtrR2t0SzF2NElSajRDYlEzSHA1YmwtNFlGalhBb2g4dGxWdm1xUTdjMGcxbXlyOXhXcFhYbzNYb1pXTlk1Q3RNbjA4ZXA5NlkwTUQtQldKUDV3eGpGcGxoMUVRTTlkTQ?oc=5",
+          "title": "Cardano price nears $0.17 despite Dijkstra roadmap - crypto.news",
+          "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1QaEstSkpqTFYtMnZENnNIWVl5MmIwVnl1QUlldXhlUEVBaG1wdHluc2dkVDVfZFN6QTBhLVBZTV92TXFaQ0pQRFNqaE9UUk93SEtENGZLbDdYLW1pYjhlb2s3RGtHVEN2VHNrcUx5bTZtMWZ4UmlMYl9R?oc=5",
           "source": "Unknown source",
-          "publishedAt": "2026-08-16T12:02:53.000Z",
-          "ageHours": 25,
-          "isFresh": false,
-          "summary": "Cardano's Dijkstra Phase 1 targets mainnet laun...  Pluang"
+          "publishedAt": "2026-08-17T21:00:35.000Z",
+          "ageHours": 16,
+          "isFresh": true,
+          "summary": "Cardano price nears $0.17 despite Dijkstra roadmap  crypto.news"
         }
       ],
       "errors": []
@@ -188,7 +188,7 @@
         "https://news.google.com/rss/search?q=%22Midnight+City%22+Cardano+OR+site:midnight.city+when:14d&hl=en-US&gl=US&ceid=US:en"
       ],
       "freshCount": 0,
-      "updatedAt": "2026-08-17T12:50:52.023Z",
+      "updatedAt": "2026-08-18T12:53:05.305Z",
       "items": [],
       "errors": []
     },
@@ -201,7 +201,7 @@
         "https://news.google.com/rss/search?q=site:iohk.io+%22Input+Output%22+when:7d&hl=en-US&gl=US&ceid=US:en"
       ],
       "freshCount": 0,
-      "updatedAt": "2026-08-17T12:50:52.023Z",
+      "updatedAt": "2026-08-18T12:53:05.305Z",
       "items": [
         {
           "topicKey": "iog",
@@ -209,7 +209,7 @@
           "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBBcmY5Ukl6SkR3QmcxNHRnenNtaFZIY1R1WDJkbmZxckpwNUZINDVvbjhWNmQxamNGZ1k1OTFiMEpwSUYwVFItYk04MXFMX3pMUHNnZU9vSjY4WUR5dURtTTRGLVUxSzVsODdsTll5ZWk3Y1F2eTltcmxaRXQ?oc=5",
           "source": "Unknown source",
           "publishedAt": "2026-08-14T19:26:27.000Z",
-          "ageHours": 65,
+          "ageHours": 89,
           "isFresh": false,
           "summary": "Cardano founder Charles Hoskinson announces Midnight enters beta testing  Crypto Briefing"
         },
@@ -219,9 +219,19 @@
           "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNdjMxRjFaMlE3dzU0LTZnbVlMYkl6TDI3QzdEYlhubFgxNElSd0lPU2ZHVzZpZ0EyWGQzNXVUNzdTQnc0RXVzVWQyT0NaM1JYbEZZcXVyTUd6RDJYeFBWSC0xaDh6Q0ZlcV95eE5rTF8wNld3UTl0X05PQTBTeGlZemFjNUVvbUYwdWFuQ1hGWHhLeTN5SXF1MTFvNW95MGtYNXp4MGRFMFBFbm5NYTQza0ZnZGRmM3NXYW5VLWZrSnJld3pyWHZhWWpR?oc=5",
           "source": "Unknown source",
           "publishedAt": "2026-08-14T11:23:19.000Z",
-          "ageHours": 73,
+          "ageHours": 97,
           "isFresh": false,
           "summary": "Cardano Founder Endorses AlphaGrowth and Draper Dragon as Functional Replacement for EMURGO  The Crypto Basic"
+        },
+        {
+          "topicKey": "iog",
+          "title": "What Did Six Years of Cardano Staking Get Right? - Cryptonews.net",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1ZOElfQnAyeEh1dENTZnJxMVNFQ2RkOWlJVUNHekVyeUpMMV9fMzZwVzZXYUd1SGJPMDJPMkVLejAtdndHeVZkdWo2b0Q3S3I2M2huUDhoMlR1Zw?oc=5",
+          "source": "Unknown source",
+          "publishedAt": "2026-08-13T13:34:58.000Z",
+          "ageHours": 119,
+          "isFresh": false,
+          "summary": "What Did Six Years of Cardano Staking Get Right?  Cryptonews.net"
         },
         {
           "topicKey": "iog",
@@ -229,19 +239,9 @@
           "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOU2ZoS01OV3pxZllVald2d2VVQ0JtZVFpVVF1UzE4OXFlVjlhTHk3OGQyU2lRY1p4QlB5dGFLMG43SW40czhuUmktYnJSUmRDcnJtYXpmOWtVZW1RNXMtYnBzLXVkSU5FbkVOZ3BMNUZIYTN5SVkzQk01YTBmSjYtb25DeV9MZw?oc=5",
           "source": "Unknown source",
           "publishedAt": "2026-08-13T13:32:11.000Z",
-          "ageHours": 95,
+          "ageHours": 119,
           "isFresh": false,
           "summary": "Cardano's Civil War Rages As Hoskinson Hunts Through 11,000 DAOs  Yellow.com"
-        },
-        {
-          "topicKey": "iog",
-          "title": "Cardano Foundation CTO to step down at end of August - 디지털투데이",
-          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPNTdwZWJXWW5TTTB6SG9PbGxVTHFfdklidTR4Nl9RVEFiTnFkZktyNG1OaGxFQ0xUWjRqMTZHakZCWFRweEpLQVM1RHMwbFd3Z1BiVmFXSkZxZHJSYm10OWloVmZWYVl0djhRTERYeTFRZTRSNVlsRDFVV2VtT1lpdmZOMkgwWmVMaGtkMWRDNXd2U2djbVdaU3pUR2N3Zm45d2tLMUZaMThxeTJDNUlUWXc5Qk0tbFI3NkNkcDUwcW1rcFdCSVNKcVAzdGc3VkU?oc=5",
-          "source": "Unknown source",
-          "publishedAt": "2026-08-11T02:33:44.000Z",
-          "ageHours": 154,
-          "isFresh": false,
-          "summary": "Cardano Foundation CTO to step down at end of August  디지털투데이"
         }
       ],
       "errors": []
@@ -255,37 +255,57 @@
         "https://news.google.com/rss/search?q=site:intersectmbo.org+Intersect+when:14d&hl=en-US&gl=US&ceid=US:en"
       ],
       "freshCount": 2,
-      "updatedAt": "2026-08-17T12:50:52.023Z",
+      "updatedAt": "2026-08-18T12:53:05.305Z",
       "items": [
+        {
+          "topicKey": "intersect",
+          "title": "溪月 Xīyuè(@ROAR_King)'s insights - Binance",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1TWXpBQ0RzeS1QQ2k1Sk1iaFM5Q2dwU1ZQQ1NpYUxrSXNSOGZsX191cEpBZ0R5ZDExQzRJQldmUFltWHp3R0IyYzJCWFI3OWlrQ0FzQS1UanZFQUExc2ppY2ZCcXQ?oc=5",
+          "source": "Unknown source",
+          "publishedAt": "2026-08-17T18:49:07.000Z",
+          "ageHours": 18,
+          "isFresh": true,
+          "summary": "溪月 Xīyuè(@ROAR_King)'s insights  Binance"
+        },
+        {
+          "topicKey": "intersect",
+          "title": "Cardano targets Q4 2026 for Dijkstra upgrade rollout - Crypto Briefing",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1keW5PTUJxdHkzbkRVRG9JQVVJMGMzTU92T1VHeTNXeWlLdU5zeURGUXBXZkdPZERTNHNxS3pScUpQRWpUN3RQbHFQYzhyQUEzMGViSTZlUDF4bGFaNkRxNWRLNmEybXdYbEJyMQ?oc=5",
+          "source": "Unknown source",
+          "publishedAt": "2026-08-17T14:23:03.000Z",
+          "ageHours": 23,
+          "isFresh": true,
+          "summary": "Cardano targets Q4 2026 for Dijkstra upgrade rollout  Crypto Briefing"
+        },
         {
           "topicKey": "intersect",
           "title": "Cardano has two weeks to avoid a governance freeze as 4 committee seats expire - CryptoSlate",
           "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQUjEyTU5wWWlfbnpZWUJFRW1FcnJJQ3UwS2lkc3lqQU15ZUVmWFhBbk16QjZ0Rl92Zkw3SlpwVWFMMlN1VmpGY2ZVUzQzUUF1cms5Qm9yN3VoaXpZVWJjaUNoLWJ5MWRHbDVZR3NDLVZTRFRTSmVnYl9RejJVNjF4RmdpVjVxdzVWaTVlc2plY3E3ZWlKWW5kSk51OFZ5TE1yV29sVS1n?oc=5",
           "source": "Unknown source",
           "publishedAt": "2026-08-17T12:10:03.000Z",
-          "ageHours": 1,
-          "isFresh": true,
+          "ageHours": 25,
+          "isFresh": false,
           "summary": "Cardano has two weeks to avoid a governance freeze as 4 committee seats expire  CryptoSlate"
         },
         {
           "topicKey": "intersect",
-          "title": "Cardano Dijkstra Phase 1 Targets Leios Mainnet Rollout by End of 2026 - KuCoin",
-          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNVFZjaGQtRTRPZndhSWtyOW4xdUZmSUpYZDFBQUh5QVc2WE1hTEhmZ2lodkp5TTlPTmZwUEM4bXZuOU9pMnhLVDIwNmlHYTlBMElZNVhUMTh5eVhoUklzMU9zM1dIQlpXcEs3dnZWZ1dQU19LWGdQRFpXX2VOWktWdGRXX3VIX09ZT3BwMDlCUGFGa2JKQU1FWVUxWU5kenZPcmo0LU1R?oc=5",
+          "title": "Cardano News: Dijkstra Phase 1 Targets Leios Mainnet Rollout - themarketperiodical.com",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQTEJjY0tNRWhOV1RnRDZpejBfUkcyZmRCeEkwQ0VVMTlDbldlUWVMRFVlOURPSENGUnhZa21yXzRhLVE4WFN2N1BJOWY2WXdJSGlvaGxPenNxVFZrODl5aDYxQzNjZnhMVmNzdU5wWFBsdTJBT0l4V0V5QTBCcjR3SDhhMkVOUjJzMnNmcGJZWnlzRk00cTY2NDZPckNIdWpCQ0NVUmlB?oc=5",
           "source": "Unknown source",
-          "publishedAt": "2026-08-17T09:52:48.000Z",
-          "ageHours": 3,
-          "isFresh": true,
-          "summary": "Cardano Dijkstra Phase 1 Targets Leios Mainnet Rollout by End of 2026  KuCoin"
+          "publishedAt": "2026-08-17T09:32:00.000Z",
+          "ageHours": 27,
+          "isFresh": false,
+          "summary": "Cardano News: Dijkstra Phase 1 Targets Leios Mainnet Rollout  themarketperiodical.com"
         },
         {
           "topicKey": "intersect",
-          "title": "Cardano Dijkstra targets 2026 Leios, 2027 Peras rollout - Crypto News",
+          "title": "Cardano Dijkstra targets 2026 Leios, 2027 Peras rollout - crypto.news",
           "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9ELXV4SllXeXdFRzFEVWRaTVNVODBJSHgxRWVTRmZGMnh0eGNuTDBOR19KdDVMZlpNd2ZyalVtdGFXU2ZrOWpXcGFmMjQ4Y0R0cnhKQnZxazcycmpYYWg4R0JEajJQejQ?oc=5",
           "source": "Unknown source",
           "publishedAt": "2026-08-16T11:36:59.000Z",
-          "ageHours": 25,
+          "ageHours": 49,
           "isFresh": false,
-          "summary": "Cardano Dijkstra targets 2026 Leios, 2027 Peras rollout  Crypto News"
+          "summary": "Cardano Dijkstra targets 2026 Leios, 2027 Peras rollout  crypto.news"
         },
         {
           "topicKey": "intersect",
@@ -293,7 +313,7 @@
           "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOcjBuOVphZEFfOVFvbmxhTnM1YWt1N3NfRkNsd0oyYTMtQ1ExTHRKQzA3MUYyb3hGSEhBTExxTklWZEZIRFdfek9Zc2pTQVVTeExrUlJQcWdrYTNUMWNXSEVZRmxwNHoxMU1JQVhVZ2NVc0huNmY3VXZSNVpHTVV1MU1QVlhnd9IBiwFBVV95cUxNYnI4WnFhUk56cjFhb2FkdzVsTUt6MHpOTnlRSm9RTHNwa2tUdURLZjhaU19Ta1pCRm9KaUNDUVllOC1Qd2VJMzVrdkRIQnlQdnYxdmpPWUNuMkhGVHVWdGY3SWdSUko4bFRxSUk2VGc2ZFNmSVdCYmdFN24xeWo4OUZ4ME9vTGZLc2NJ?oc=5",
           "source": "Unknown source",
           "publishedAt": "2026-08-15T10:48:38.000Z",
-          "ageHours": 50,
+          "ageHours": 74,
           "isFresh": false,
           "summary": "Cardano Prepares Major Node Changes as Dijkstra Era Takes Shape  U.Today"
         },
@@ -303,7 +323,7 @@
           "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFByMU1ZOHQwRk9JaHg5MEFMS0tUQ2Npbnk0Tzl2UHVUa2llMm80OHZweGlEaWVhc2pQa0tvOGk4VGlwUkV4WGc4akFGOGFpVzR4SE5Ia0w0SEI4QQ?oc=5",
           "source": "Unknown source",
           "publishedAt": "2026-08-14T20:45:20.000Z",
-          "ageHours": 64,
+          "ageHours": 88,
           "isFresh": false,
           "summary": "Introduction to hard forks | Cardano - Upgrades  Intersect MBO"
         },
@@ -313,29 +333,9 @@
           "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1zTHN0Z3IwYzFvVzQzNVZFMEdKWHQtSzFLS0IyWDNIc2FJdGhiSXAwQXZ4TnhUV1ZRTXpyOUV4RnpoSG13VWpXWS1RZVhkWnJLNDd5RWREaUZGZGV6UW9Ca3R3aVhRZHRYUEVlX0NFYzVHUS1iMlpFTQ?oc=5",
           "source": "Unknown source",
           "publishedAt": "2026-08-14T16:21:35.000Z",
-          "ageHours": 68,
+          "ageHours": 93,
           "isFresh": false,
           "summary": "Intersect weekly update #124 Aug 14, 2026  Intersect MBO"
-        },
-        {
-          "topicKey": "intersect",
-          "title": "UntypedPlutusCore.DeBruijn - plutus.cardano.intersectmbo.org",
-          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNd0ZQM3lXY0hRVUZYc0hpV0R0N0xTOEFCRU9mZG1iM2RJcGFRR2g2bjhPWm1hcTZ6NWtkcFpUYW5xUGVuQjNNN002NUtZMEZKUXBtTzVMeHBnRGctOVFEc0xPay0yVkdpTlNiTDFUbEF0ZHI1ZHp4SHU2QXZaTEtrQS1vX082MTBIV2hmYkNJU2gtUUpXQUlfMG9Ta09NSzh0Qmc?oc=5",
-          "source": "Unknown source",
-          "publishedAt": "2026-08-09T20:09:36.000Z",
-          "ageHours": 185,
-          "isFresh": false,
-          "summary": "UntypedPlutusCore.DeBruijn  plutus.cardano.intersectmbo.org"
-        },
-        {
-          "topicKey": "intersect",
-          "title": "Intersect weekly update #123 Aug 7, 2026 - Intersect MBO",
-          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1yd0RfNmFBMUpBanVaY0xNcWVKYWNsY3hFOXZvZ2hpUl85dnhCYnJFZS1CaXFUdkotOUZDeFBFSjZLcy1PajVtOXBHZVJ5ajg4TXRjRUNZTzBMdFRhc2xTYXhXNUVfZTBFNlBRc2xZTF9rTDRHOGVr?oc=5",
-          "source": "Unknown source",
-          "publishedAt": "2026-08-08T11:39:46.000Z",
-          "ageHours": 217,
-          "isFresh": false,
-          "summary": "Intersect weekly update #123 Aug 7, 2026  Intersect MBO"
         }
       ],
       "errors": []
@@ -349,87 +349,87 @@
         "https://news.google.com/rss/search?q=site:youtube.com+%22Charles+Hoskinson%22+when:7d&hl=en-US&gl=US&ceid=US:en"
       ],
       "freshCount": 8,
-      "updatedAt": "2026-08-17T12:50:52.023Z",
+      "updatedAt": "2026-08-18T12:53:05.305Z",
       "items": [
         {
           "topicKey": "charles-hoskinson",
-          "title": "Evan and Fleur talk about #metaphysics and #metaontology. @tohno.whatsoever - youtube.com",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE0ySG52cUpSUHhmOGFKVHJZQnc2YnNKN3U0NklCZlQzVDJqVTRFY0pINzRnWkdOLW9PXy1fcG1uLUZ5RURnQTN2WVp2cktSVVNSeTZOV2NB?oc=5",
+          "title": "“We Survived Biden”: Cardano Founder Says Crypto Will Also Survive Trump - Cryptonews.net",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE13eGVDeXFaLTNFVjhoMWl1TTgwVXZ0NXp5Q1lTRWxVSkdsLW9ZdnAwenJIUWRaZHdSMzZrMW1UeEdudW5SQngtcWNUT242cFVBb3NhdGpB?oc=5",
           "source": "Unknown source",
-          "publishedAt": "2026-08-17T10:42:49.000Z",
-          "ageHours": 2,
+          "publishedAt": "2026-08-18T12:08:27.000Z",
+          "ageHours": 1,
           "isFresh": true,
-          "summary": "Evan and Fleur talk about #metaphysics and #metaontology. @tohno.whatsoever  youtube.com"
+          "summary": "“We Survived Biden”: Cardano Founder Says Crypto Will Also Survive Trump  Cryptonews.net"
         },
         {
           "topicKey": "charles-hoskinson",
-          "title": "Cardano ADA News: Dijkstra Upgrade Sets Two-Phase Roadmap 2026 - Coin Gabbar",
-          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQX2FtckdjVDhwS2dyQWYyNGNMMllfelBiME5MVmZoVGlaYlV3dDc3Y1J1RzVPdXdCSjJrRGYtVWlhdFBpbG5rS0Q5cTdXajBnYXBGMGJrVXZlck15LXVWUHFzdU9KWHUwcmtwbkw5YjhDN191T0U3VWFXSDVoYVFMaHZrYlZtOHljcGh6V0EtQkNVWTliTlNDdC1KTFVVZEc5ZEs3ag?oc=5",
+          "title": "How To Turn AI Into Measurable Business ROI with David Owasi - YouTube",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBQLWtjelRxRVB6a1c4MUJJMFpsMVBWWnJYcmlHdms4NTdEQ3kwLV81b3l5akhwOWlZTl9DWmh3cU5GTXhXazNHSS1UQXJxTlhtUm9qNmFR?oc=5",
           "source": "Unknown source",
-          "publishedAt": "2026-08-17T10:15:00.000Z",
-          "ageHours": 3,
-          "isFresh": true,
-          "summary": "Cardano ADA News: Dijkstra Upgrade Sets Two-Phase Roadmap 2026  Coin Gabbar"
-        },
-        {
-          "topicKey": "charles-hoskinson",
-          "title": "E0651 The KitchensinkWP Podcast - Is Your WordPress Site AI-Ready? - youtube.com",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5QczJNdkpPbmlNNGlIVlVEa2R6WGEwQVBBR2hTRzFSdmZiZ0t3TjNsRjFXWHl1aE9xNURCRDNzS2Jxd2Z4cW5MZE12emZXbW5MSWdPc3ln?oc=5",
-          "source": "Unknown source",
-          "publishedAt": "2026-08-17T10:07:32.000Z",
-          "ageHours": 3,
-          "isFresh": true,
-          "summary": "E0651 The KitchensinkWP Podcast - Is Your WordPress Site AI-Ready?  youtube.com"
-        },
-        {
-          "topicKey": "charles-hoskinson",
-          "title": "Ethereum’s scaling proposal borrows Bitcoin’s UTXO model to slash storage by 99% - The Cryptonomist",
-          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1SbFkwZER6aWp1Z3F5UXhtQWxnU1NOZkxtcDloQ2xYRWJtLUs5dkZZM0pTTXpQMkxwVFY4SmotYXd5b09SRER2dGxoN0dLeHVWMlUydk1EY0NkLXNpVmo3V295dXBIMl9qemRTV1dOaDBxYkR6WDI4TA?oc=5",
-          "source": "Unknown source",
-          "publishedAt": "2026-08-17T08:44:06.000Z",
+          "publishedAt": "2026-08-18T08:52:59.000Z",
           "ageHours": 4,
           "isFresh": true,
-          "summary": "Ethereum’s scaling proposal borrows Bitcoin’s UTXO model to slash storage by 99%  The Cryptonomist"
+          "summary": "How To Turn AI Into Measurable Business ROI with David Owasi  YouTube"
         },
         {
           "topicKey": "charles-hoskinson",
-          "title": "Voxel Art vs Vector Art - 84 - youtube.com",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5tTHdhdlc0TDhLa2dJMXZyTWlYOURZaDBXVDk0VTQ2NEY1OElyeE1GdUdLSm5DRzJuMncwZ0l3YjV0ejNNcS1SUF9zQmdmVXpFbklPTWt3?oc=5",
+          "title": "Skills Are Teachable. Identity Isn't. | Ep. 18 with Abhijit Bhaduri (Abhijit Bhaduri LLC - YouTube",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFA0TlBzMHRLUmxwUnJ0ZFcxaTdCTmt5NW8zbnJ3ekdCMGthNUY2TXY2MmpLTUFSZ3ppcG83alNNUnZnVXMyc2pCdnZGdzJsdUR1R2xTUHRB?oc=5",
           "source": "Unknown source",
-          "publishedAt": "2026-08-17T08:27:44.000Z",
+          "publishedAt": "2026-08-18T08:39:32.000Z",
           "ageHours": 4,
           "isFresh": true,
-          "summary": "Voxel Art vs Vector Art - 84  youtube.com"
+          "summary": "Skills Are Teachable. Identity Isn't. | Ep. 18 with Abhijit Bhaduri (Abhijit Bhaduri LLC  YouTube"
         },
         {
           "topicKey": "charles-hoskinson",
-          "title": "You pay for accountability #gym #diet #onlinecoach #personaltrainer #fitness - youtube.com",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBzbE5Idm03Z1JJWU5HX2VjUXB0MkxKRmsxcFhQTk9QNUJHNWN3QzhZTFpTWkNKZUpJT1IxLUJBZm9Lak1GWGtCVXFOVlV0X1paRTNoazN3?oc=5",
+          "title": "Hoskinson Reacts as Buterin Credits Bitcoin, Not Cardano, for Ethereum’s UTXO Push - The Crypto Basic",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPUFh0ZFJwLU9KWDRYOHZId2loajNhaEtyQWpaVTdRSjRwaDRCZHV4ODlkbFA0YXBQUXhzUTdlcFB2aFl5NmlMVDk2Ukx2eXB0SzZoU2F4eC1vQzVkSzVPRktzeXBGczZ5ekZUdEJQZDBqYnpqUWdmMko1WHgwSHltb0Nuc3FxTWNoX09QS0JPV0hyS3lMNFowTHp1dHJOMFZNZFRhNUcxRU9xeFJNV2NZaGJBVHFNU29EV1E?oc=5",
           "source": "Unknown source",
-          "publishedAt": "2026-08-17T07:30:45.000Z",
+          "publishedAt": "2026-08-18T08:21:43.000Z",
           "ageHours": 5,
           "isFresh": true,
-          "summary": "You pay for accountability #gym #diet #onlinecoach #personaltrainer #fitness  youtube.com"
+          "summary": "Hoskinson Reacts as Buterin Credits Bitcoin, Not Cardano, for Ethereum’s UTXO Push  The Crypto Basic"
         },
         {
           "topicKey": "charles-hoskinson",
-          "title": "Claude added AI watermarks. Now there's tool to remove them - NewsBytes",
-          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNSkl5R1RheE1JN2M2N29aQXFNXzBqY2lyeEhiT01KNGQ3YXE0Zi1LbmxBZmJpa3ZWTzVNVDQxN0dRRkUydFFsSllDSlg2ck1HWXZ6c1h3cU1jaVR6dUxEck52NzVOTmg4ZlNyODd6SnZoYzBQUDR4WGVDZlp0YUxWQWVZTUxjejNRUHljYXczVjhoVEdDSjRnV0o4VGFHVEJjODRFdzlaYTdvYU1GdFIwclRUUVVibVl3TS1VcQ?oc=5",
+          "title": "🗣️ CryptotalkArt with Charles Hoskinson - YouTube",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1PZ1M4eXlkOHRlSXNWQ0dJanN1Wm4zQlpYOW9mdHVrZENSb1RDdVFNWUo2SlliRU5CZ3Rrdm92MXc3TklXUmp5MUlIal9hbGVzLXd3Uw?oc=5",
           "source": "Unknown source",
-          "publishedAt": "2026-08-17T07:18:26.000Z",
-          "ageHours": 6,
+          "publishedAt": "2026-08-18T04:31:06.000Z",
+          "ageHours": 8,
           "isFresh": true,
-          "summary": "Claude added AI watermarks. Now there's tool to remove them  NewsBytes"
+          "summary": "🗣️ CryptotalkArt with Charles Hoskinson  YouTube"
         },
         {
           "topicKey": "charles-hoskinson",
-          "title": "How a Busy Executive Should Actually Train - The Success Lift Podcast - Episode 325 - youtube.com",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFA4SlZyN3l5YlJSd3lBVElGMzFXdHlIOExWbF9TekVSNXlTM0JrWWhrRUgwQkNvQ21ka1hTZXlYeEZKbUNjaGtIVEM5YjcxU2E1WHFqZGd3?oc=5",
+          "title": "Cardano ETF Wave Incoming? Crypto Banter Is Bullish ADA! Angry Crypto Reacts - YouTube",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE51bXc4aUxxdzJoRHhpN29FT0p4NFhEZl90cmVTR3FRSjZDMmxsSERLNF9rbjR5ZF9odFY0WnlSVVJWQVFSRnhXaWdEWFNZTTlpekZVUXhB?oc=5",
           "source": "Unknown source",
-          "publishedAt": "2026-08-17T07:00:19.000Z",
-          "ageHours": 6,
+          "publishedAt": "2026-08-18T00:11:41.000Z",
+          "ageHours": 13,
           "isFresh": true,
-          "summary": "How a Busy Executive Should Actually Train - The Success Lift Podcast - Episode 325  youtube.com"
+          "summary": "Cardano ETF Wave Incoming? Crypto Banter Is Bullish ADA! Angry Crypto Reacts  YouTube"
+        },
+        {
+          "topicKey": "charles-hoskinson",
+          "title": "Beyond Daylight Podcast Philosophy of investment - YouTube",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1Xc3U4S010U1pKVTVYNWoweUgtMEFZbWRBaFRJbkRnRUZhVzhLU1pWWm9ac1RuNEI1eVJsQV9aSDYtZGJzU3JHbHI2V0p4dGdrN2l1a293?oc=5",
+          "source": "Unknown source",
+          "publishedAt": "2026-08-17T15:01:40.000Z",
+          "ageHours": 22,
+          "isFresh": true,
+          "summary": "Beyond Daylight Podcast Philosophy of investment  YouTube"
+        },
+        {
+          "topicKey": "charles-hoskinson",
+          "title": "#276 The Thunderdome of the Gods (with R.A. Sweeney) - YouTube",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1ZMEpPckR3Mk9rSGk0ZDZGaFNjYnV5TU1UNHZoQVA2dE9CSlJ5WGc0LW83LTRPN1ZnYTEtRlUwU1pLYTYybUlhVVN2QVV0M2RRUV95RjJR?oc=5",
+          "source": "Unknown source",
+          "publishedAt": "2026-08-17T14:15:08.000Z",
+          "ageHours": 23,
+          "isFresh": true,
+          "summary": "#276 The Thunderdome of the Gods (with R.A. Sweeney)  YouTube"
         }
       ],
       "errors": []
