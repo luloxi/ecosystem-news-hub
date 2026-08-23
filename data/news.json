@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-22T12:45:50.380Z",
+  "generatedAt": "2026-08-23T12:46:57.516Z",
   "freshnessWindowHours": 24,
   "topics": [
     {
@@ -11,18 +11,90 @@
         "https://news.google.com/rss/search?q=site:forum.midnight.network+Midnight+when:7d&hl=en-US&gl=US&ceid=US:en"
       ],
       "freshCount": 0,
-      "updatedAt": "2026-08-22T12:45:50.380Z",
-      "items": [],
-      "errors": [
+      "updatedAt": "2026-08-23T12:46:57.516Z",
+      "items": [
         {
-          "feed": "https://news.google.com/rss/search?q=%22Midnight+Network%22+OR+site:midnight.network+when:7d&hl=en-US&gl=US&ceid=US:en",
-          "error": "Status code 503"
+          "topicKey": "midnight-network",
+          "title": "Midnight agent skills - Midnight Docs",
+          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOdDJYd1h0cVFhWXRWbTVIcXFFZmdiek5VRjFZakNMN3lwWjl5SU9sZHc2elprSlZIV1pua2c1Y1JQT2V1bVJWcmhPNjI2cnRQbHpxeUUzSkQ1RUJZVndEdkdWdTZlQjE2YUxVbVRIVk5iQXM2SzU5NW5kRXEzY21zVQ?oc=5",
+          "source": "Unknown source",
+          "publishedAt": "2026-08-20T22:38:25.000Z",
+          "ageHours": 62,
+          "isFresh": false,
+          "summary": "Midnight agent skills  Midnight Docs"
         },
         {
-          "feed": "https://news.google.com/rss/search?q=site:forum.midnight.network+Midnight+when:7d&hl=en-US&gl=US&ceid=US:en",
-          "error": "Status code 503"
+          "topicKey": "midnight-network",
+          "title": "Election Contract - Midnight Docs",
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5IYzNWVDFNUmpvcHVCOWhGVWJqNzN5OTIzRDFTS195RUJaUExjLTY2S3RXZUlTZFVTb09zZThTbzZISk1lQlByOUpSb1lKaEdKXzA4ZlRKYVFtZGhtNU9scGt4S2lfeF9C?oc=5",
+          "source": "Unknown source",
+          "publishedAt": "2026-08-20T22:38:25.000Z",
+          "ageHours": 62,
+          "isFresh": false,
+          "summary": "Election Contract  Midnight Docs"
+        },
+        {
+          "topicKey": "midnight-network",
+          "title": "ShieldedTokenType - Midnight Docs",
+          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPcW1YQ0VWNXYzSUd3STJuWGJOOUtRNUwyN1E3b0JUWG05aWV2UWNHZ0J2eUJLb1NoSkFELUdwQUpNN0NUNWVodlZaSzY5bVpjcDlYalVkMF9iMHY5ajMyU3ZnQWpkVWF4VkFzVnR6Wk9mM09NYm9aWDd1TzBaTVgxSW5kY2ZrLUhh?oc=5",
+          "source": "Unknown source",
+          "publishedAt": "2026-08-20T22:38:25.000Z",
+          "ageHours": 62,
+          "isFresh": false,
+          "summary": "ShieldedTokenType  Midnight Docs"
+        },
+        {
+          "topicKey": "midnight-network",
+          "title": "Celebrating seven winners from MLH x Midnight July hack - Midnight Network",
+          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOZng0Nlh3bVZ4MVNxb3JkaVVTWHBwNHlzWDJ3b29YaHFQVUJuZTdXcEFIYWc1RVhKdlEtY2FDVTc0M3RScEVYMVR0enF3c3ZUYXJrR09CQ05XbzZqRjhJLUR0Z2luZmRJXzB5Nm5BQlZ4em1nUk00Z3pVeW1SQ0hSbEVId2pmbkdjY3h2VVl3?oc=5",
+          "source": "Unknown source",
+          "publishedAt": "2026-08-20T13:12:00.000Z",
+          "ageHours": 72,
+          "isFresh": false,
+          "summary": "Celebrating seven winners from MLH x Midnight July hack  Midnight Network"
+        },
+        {
+          "topicKey": "midnight-network",
+          "title": "Create a Midnight DApp - Midnight Docs",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9ZZklmb1M2NWl2U2pGR0Z0NnlhUVhwS1ZsNGk4YzBPZjRGRmphMVgyTlBzYU1ZcnJFUV9UN0VMMXJwOGxOQUlYZFNLT1ZkWVVuZmQ1SDNQY0F6Vk85d3l2ZXlWLW1kSlk?oc=5",
+          "source": "Unknown source",
+          "publishedAt": "2026-08-18T08:51:27.000Z",
+          "ageHours": 124,
+          "isFresh": false,
+          "summary": "Create a Midnight DApp  Midnight Docs"
+        },
+        {
+          "topicKey": "midnight-network",
+          "title": "Midnight Node overview - Midnight Docs",
+          "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5oZkNVZXNEM1c3TkpQcmE5dG13ejdxbWEyVVcyZlJyY2hqWmVxNTdDM2hZOXlRNEtSRHBJbzktNDUxdXgwWU5CTzM3NA?oc=5",
+          "source": "Unknown source",
+          "publishedAt": "2026-08-18T08:51:27.000Z",
+          "ageHours": 124,
+          "isFresh": false,
+          "summary": "Midnight Node overview  Midnight Docs"
+        },
+        {
+          "topicKey": "midnight-network",
+          "title": "The Compact language - Midnight Docs",
+          "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBlVF9MZTg4eHJoNGJaZlRmLVcxR0U2T3hQUzlzSXl4dnBzSFVxdG42d1ZXNVlNS3JIMHNrMWp6M1FzWGx3N3hzVkVkV201QQ?oc=5",
+          "source": "Unknown source",
+          "publishedAt": "2026-08-18T08:51:27.000Z",
+          "ageHours": 124,
+          "isFresh": false,
+          "summary": "The Compact language  Midnight Docs"
+        },
+        {
+          "topicKey": "midnight-network",
+          "title": "DUST architecture - Midnight Docs",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE4ycGNBYVVDa09lMm5lVnI0UVU2N0VHRkZrWGF5cWlrcm14UTVfQjB1c3FHSzZEdnhyOVppcEtlVWxacEVHS0ZsTEEyY0JtVzRiY0dkNVFwS1JhLUVRTkpqd0otNndEZGs?oc=5",
+          "source": "Unknown source",
+          "publishedAt": "2026-08-17T12:42:13.000Z",
+          "ageHours": 144,
+          "isFresh": false,
+          "summary": "DUST architecture  Midnight Docs"
         }
-      ]
+      ],
+      "errors": []
     },
     {
       "key": "cardano",
@@ -32,19 +104,91 @@
         "https://news.google.com/rss/search?q=Cardano+when:7d&hl=en-US&gl=US&ceid=US:en",
         "https://news.google.com/rss/search?q=site:cardano.org+Cardano+when:7d&hl=en-US&gl=US&ceid=US:en"
       ],
-      "freshCount": 0,
-      "updatedAt": "2026-08-22T12:45:50.380Z",
-      "items": [],
-      "errors": [
+      "freshCount": 8,
+      "updatedAt": "2026-08-23T12:46:57.516Z",
+      "items": [
         {
-          "feed": "https://news.google.com/rss/search?q=Cardano+when:7d&hl=en-US&gl=US&ceid=US:en",
-          "error": "Status code 503"
+          "topicKey": "cardano",
+          "title": "Cardano Development Moves to External Teams: Input Output Reduces Its Role in the Network - Coinspot.io",
+          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOZmxrMm5mdUFsbzg4Wms2SVNSVlZ6SG1kZUdxY0ZnT2hDdUJtVVZIOE1KdWxub2VveExWZ19maklhclI2TkgyYWVBMWNnN19WWEF4dEVQN3ZIa09VbWxOV3pJVlhCWENBaGNkZ3FOY19ic0xnTlpxM2JvSnZvajBUbXRqM05VMnZyN2k5MFdEbGVzR1RaQTc0Y0M0ZVVZQ2dDLUpaOFBQaW9lNDVjOGNnVXRjUkxmUEV0ZnBjbQ?oc=5",
+          "source": "Unknown source",
+          "publishedAt": "2026-08-23T10:12:42.000Z",
+          "ageHours": 3,
+          "isFresh": true,
+          "summary": "Cardano Development Moves to External Teams: Input Output Reduces Its Role in the Network  Coinspot.io"
         },
         {
-          "feed": "https://news.google.com/rss/search?q=site:cardano.org+Cardano+when:7d&hl=en-US&gl=US&ceid=US:en",
-          "error": "Status code 503"
+          "topicKey": "cardano",
+          "title": "Down 32% or More in 2026, Are Any of These Top Cryptocurrencies Worth Buying Right Now? - The Motley Fool",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPUVhHZWlSUEZIMmxDd0pFeE1SeFgtZG5jZXRuNzBrRUg1ZC1pTVEySGprVFlMSlJnMjRuRHhCamVQWTluc2xiU09mV2FGV1JGUlExMVRhdGczM3ZqSDY3SUdKQTNvdGNaTFdGTDJWdnZNcHRBM21VYUNudEtYNmxyM3NlQnB2ak9mU3kwaWVOWTkwdkIzdkFjNw?oc=5",
+          "source": "Unknown source",
+          "publishedAt": "2026-08-23T07:01:26.000Z",
+          "ageHours": 6,
+          "isFresh": true,
+          "summary": "Down 32% or More in 2026, Are Any of These Top Cryptocurrencies Worth Buying Right Now?  The Motley Fool"
+        },
+        {
+          "topicKey": "cardano",
+          "title": "Cardano Falls 10.33% In Rout By Investing.com - Investing.com Canada",
+          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPQkcyYVJ6akNic3lMa0hpcnJGa001elFndGxkd0lld2h5eUJYS2N5V3RwdmZwUEp0WHlhMF9xUkhUOUNDX0pQZFktZzRDRUljM1lOOGdtcldTcjdmT2x0cmdtYWw1X0pteVFZUlFucWM1czV2MlJ1cXMxbXFuZXY4Q3gyVGlnaDZEbTNwcg?oc=5",
+          "source": "Unknown source",
+          "publishedAt": "2026-08-23T06:20:44.000Z",
+          "ageHours": 6,
+          "isFresh": true,
+          "summary": "Cardano Falls 10.33% In Rout By Investing.com  Investing.com Canada"
+        },
+        {
+          "topicKey": "cardano",
+          "title": "Latest Crypto News: Apeing’s Upcoming Presale Hype Joins Tron and Cardano’s Rising Activity - StreetInsider",
+          "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxPRXZKQXhfLW5KUURfbU05OUdmT3pjSmgwMnZZMjZXbkJlUGRuLXp5QmNqZWZHbHB2akNvbkY4SkJ3bVRMaUpRQmhfY3Vma0lKaTBjcWREa3RENktjQkdscW5NLTJPeUhRVGF4SGF0RzZJZVBhZEZwdU5IZC12NDlFMkpJdHBmalNjZEYzaG56bl9vM1Y4YUNjUEJxVEwtR05hQzg4QmdDTndtRWVJN3lJWi1QcWctamVmZE1CRU5YUnFHNjF3U2p3UzVJd2R2aGMyQXhrcEtmLVhSNnZSUWQ0aDNNVDNwS2xzQlNVUlVNQnZsdFdZZmZoVE56NGVXTk1WQUlEM2hB?oc=5",
+          "source": "Unknown source",
+          "publishedAt": "2026-08-23T04:28:25.000Z",
+          "ageHours": 8,
+          "isFresh": true,
+          "summary": "Latest Crypto News: Apeing’s Upcoming Presale Hype Joins Tron and Cardano’s Rising Activity  StreetInsider"
+        },
+        {
+          "topicKey": "cardano",
+          "title": "Fasi Crypto KOL(@FasiTools)'s insights - Binance",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBhTWpXYWRnWlpYc1c1Ujh0NExfeXF4TmFlRzNzOWNpRGEtSTJKZGhmZ0wxdGNxb195YjJyZEU1OVh6MHViVUl6VGh6aDU2SWViRGFELXNRS0FBUHRkUVJyd3l5OEI?oc=5",
+          "source": "Unknown source",
+          "publishedAt": "2026-08-22T19:47:51.000Z",
+          "ageHours": 17,
+          "isFresh": true,
+          "summary": "Fasi Crypto KOL(@FasiTools)'s insights  Binance"
+        },
+        {
+          "topicKey": "cardano",
+          "title": "Cardano (ADA) Price Prediction 2026, 2027 – 2030: Will ADA Price Hit $2? - Coinpedia",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5XelBOQ29VbmNSTlBaQ3k0bmZvSjFtR0djSmZWUk5SUmFKZHp4ZzBzTUdNVnBBNU52OVJsbWtYN1k2Nm5iRnU3bmM4a0owa2hTa3hUczVBT3o0emVSUVpQWHlnZEdSUmhuUmM3Q3VrUU9JUdIBd0FVX3lxTE9JbWVLNW9WZmcxczI4M2UtNG1MdFJnR0ZwdmNRaXNjRTFBU3RtQlZTVG5kU0NWbVNJX1BSaUFSREFXZUgtQi1XeFN2Tzczb3BZcTFNUUN2NEJyWWwxWE9kMGdOd2x1ZlFkU3VPamZ4eHhWek9rTnZz?oc=5",
+          "source": "Unknown source",
+          "publishedAt": "2026-08-22T19:33:04.000Z",
+          "ageHours": 17,
+          "isFresh": true,
+          "summary": "Cardano (ADA) Price Prediction 2026, 2027 – 2030: Will ADA Price Hit $2?  Coinpedia"
+        },
+        {
+          "topicKey": "cardano",
+          "title": "Latest Crypto News: Bitcoin Rips Past $77K, Cardano Turns Bullish – Is Apeing Whitelist the Next Move for Traders? - StreetInsider",
+          "link": "https://news.google.com/rss/articles/CBMingJBVV95cUxQc2VMYXo1SEdLMk84VzJUeTVrcVZqM3hhWlp0SEVxdXVZMWpKdzZoekVhYldzdVV5Mm5fRy12LUt1TGtxLWRUU2pkTGNGUXZYeG14V1hwV25sMTJOTTcwZDRUQVRCNm5wXzBMbE9naW1Gd2oxVTF6Q0FFYWFBekNfTElVTFpMaHZ4M0JYV3NJb294dEVtVU51dWtUdDB1S3JTSk95UlFHbzRQNl80YjlEdmlLUlFtMUd6SlRrekQ2eE5CcjRuSGxYOGlHRHJZa084eXdYMUxMTjdoN1NlUXc0QUk5UmRvQjZNbTdWY2M5eUJjRmN1c3hCcHBRMWtPVDRBQ0FVNG93aFBKLUFKbXloMnYtSEhJSzVjd0gtM2pR?oc=5",
+          "source": "Unknown source",
+          "publishedAt": "2026-08-22T17:27:06.000Z",
+          "ageHours": 19,
+          "isFresh": true,
+          "summary": "Latest Crypto News: Bitcoin Rips Past $77K, Cardano Turns Bullish – Is Apeing Whitelist the Next Move for Traders?  StreetInsider"
+        },
+        {
+          "topicKey": "cardano",
+          "title": "Night redeem error with lace - Cardano Forum",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9RN1hXUXZWZzNZVkZuMjJKSi03T1I2bmlBQ2JDWHZqQWoybHBoaE1fV1hxc1JlZFdpZzM4dUxmR1ZtVDZvNmUzTTJtN3JfSlJ0RUxXOW9YU0FxZmIwWmsta0F6bWZLYVpmeFdFZnlpZW4?oc=5",
+          "source": "Unknown source",
+          "publishedAt": "2026-08-22T16:31:24.000Z",
+          "ageHours": 20,
+          "isFresh": true,
+          "summary": "Night redeem error with lace  Cardano Forum"
         }
-      ]
+      ],
+      "errors": []
     },
     {
       "key": "midnight-city",
@@ -54,14 +198,9 @@
         "https://news.google.com/rss/search?q=%22Midnight+City%22+Cardano+OR+site:midnight.city+when:14d&hl=en-US&gl=US&ceid=US:en"
       ],
       "freshCount": 0,
-      "updatedAt": "2026-08-22T12:45:50.380Z",
+      "updatedAt": "2026-08-23T12:46:57.516Z",
       "items": [],
-      "errors": [
-        {
-          "feed": "https://news.google.com/rss/search?q=%22Midnight+City%22+Cardano+OR+site:midnight.city+when:14d&hl=en-US&gl=US&ceid=US:en",
-          "error": "Status code 503"
-        }
-      ]
+      "errors": []
     },
     {
       "key": "iog",
@@ -72,18 +211,80 @@
         "https://news.google.com/rss/search?q=site:iohk.io+%22Input+Output%22+when:7d&hl=en-US&gl=US&ceid=US:en"
       ],
       "freshCount": 0,
-      "updatedAt": "2026-08-22T12:45:50.380Z",
-      "items": [],
-      "errors": [
+      "updatedAt": "2026-08-23T12:46:57.516Z",
+      "items": [
         {
-          "feed": "https://news.google.com/rss/search?q=%22Input+Output+Global%22+OR+IOG+Cardano+when:7d&hl=en-US&gl=US&ceid=US:en",
-          "error": "Status code 503"
+          "topicKey": "iog",
+          "title": "Hoskinson Says Cardano Needs Utility-First Narrative to Onboard Billions - finance.biggo.com",
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBqVnlkNmhxREdJVTFtVUhVR1RSZzU5Y1o0LXZDdWdqcUxCZWg5TnVJanBVSENnS1NBd3ZyZ3FKVng1UlpUSlhpRzR3X1loWlB5VW5xeDRpdmhmclZlWVRnVnNpZ2JuN1A4d0N2akd5M1hVTHR1Z0E?oc=5",
+          "source": "Unknown source",
+          "publishedAt": "2026-08-21T18:41:00.000Z",
+          "ageHours": 42,
+          "isFresh": false,
+          "summary": "Hoskinson Says Cardano Needs Utility-First Narrative to Onboard Billions  finance.biggo.com"
         },
         {
-          "feed": "https://news.google.com/rss/search?q=site:iohk.io+%22Input+Output%22+when:7d&hl=en-US&gl=US&ceid=US:en",
-          "error": "Status code 503"
+          "topicKey": "iog",
+          "title": "Cardano aims for 1 billion users by improving b... - Pluang",
+          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOWFJRTDR6UUVuNFJQSWlFY3gtdmZETWJaYXlyQnlVaG1yVExLS0xPbndvWWljS29aY2h4UEUyWmMzVGhtNkhLRmlYT3JuMzlsZTMzNlpIQVowZFdmVTA3X201ZzJzUXlpTU5CU0dLWElrcEF0d0VDU2ZtZ2h4VE9HSGlFTHdRYmtPUVZHR0xUbVE1Z0xobHdv?oc=5",
+          "source": "Unknown source",
+          "publishedAt": "2026-08-21T09:14:38.000Z",
+          "ageHours": 52,
+          "isFresh": false,
+          "summary": "Cardano aims for 1 billion users by improving b...  Pluang"
+        },
+        {
+          "topicKey": "iog",
+          "title": "Cardano prepares its big leap: Hydra and Leios could change the scale of the blockchain - Cointribune",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOQXVncHhpcjJGUUxacXp4R2l5M1NOQU0yOFVmQVFEcC1LeEVOUUlrQnd0NHpfOE1MXzJJcGNWeUstVUpLamE3MlVZeV94TXQzel9UTDE2VkRDX0R4bHFJSjZWMkNEV2hiSzFNMFZYNEZyZU1sT2swZGFneWFweUpEQXJPRW8xVmlqNFBOUFNNYVk5SEpQcHNXV1Qyd2d4dU5sa0pZejVBZDY?oc=5",
+          "source": "Unknown source",
+          "publishedAt": "2026-08-21T08:05:00.000Z",
+          "ageHours": 53,
+          "isFresh": false,
+          "summary": "Cardano prepares its big leap: Hydra and Leios could change the scale of the blockchain  Cointribune"
+        },
+        {
+          "topicKey": "iog",
+          "title": "Charles Hoskinson on Cardano’s Future, the state of crypto & AI - The Block",
+          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNMkxSaENSLUFmMEhTbWdObmlSVC1sNDN4WV81QnlOT2x4TXJBNWdxaC1QSHZTUmRiVVhKZ3pXNVhvSGpjTnVYbUFiRU5KY2tTaGZfUEhDOXRXeDFTWFVWaEt5UWhuY1lDY09rbDJmb2loUnlaNDhRREVWQTVUWjZEbU1ncXhTaUlqdEgtRTZwc3F3WkR5QnZaZW5KOElya0s0cDhkcjRLbldzOW43OXo5c0J1TmpPUS0tdm0zcEI2Sm9jekg1Y1d3Rw?oc=5",
+          "source": "Unknown source",
+          "publishedAt": "2026-08-20T18:45:00.000Z",
+          "ageHours": 66,
+          "isFresh": false,
+          "summary": "Charles Hoskinson on Cardano’s Future, the state of crypto & AI  The Block"
+        },
+        {
+          "topicKey": "iog",
+          "title": "Cardano Eyes 1 Billion Users With New Web3 Utility Focus - TronWeekly",
+          "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9mbURodTVlM2tJT2ItUDZfRVdHS01CU2JEOENEV3d1VHhHRXdHdm1xUXVVZmF2T0l5RDFEOXVTMWtiTFB0cERDdWNta0ZtQ0NLMkFhVVBXRG53YUYzYjQ1Njk5TVk1b2p5aEdGT3plN2dwUEJtbXBnVDlR?oc=5",
+          "source": "Unknown source",
+          "publishedAt": "2026-08-20T18:00:00.000Z",
+          "ageHours": 67,
+          "isFresh": false,
+          "summary": "Cardano Eyes 1 Billion Users With New Web3 Utility Focus  TronWeekly"
+        },
+        {
+          "topicKey": "iog",
+          "title": "Cardano targets 1 billion users with new scaling strategy and real-world focus - Bitget",
+          "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9Zd2VSc0g1QnlEeXAyOWFGTlhfOWV0TmtoWFhRT09tZEZ1LTlCOURvZmJ6MUlVdDhWZEQxcDI1QXkxU0JVUGJtbjhWbElxMTdpT01VWnBiOEl2ZklrdFJUbm5Jb9IBY0FVX3lxTE9Zd2VSc0g1QnlEeXAyOWFGTlhfOWV0TmtoWFhRT09tZEZ1LTlCOURvZmJ6MUlVdDhWZEQxcDI1QXkxU0JVUGJtbjhWbElxMTdpT01VWnBiOEl2ZklrdFJUbm5Jbw?oc=5",
+          "source": "Unknown source",
+          "publishedAt": "2026-08-20T07:00:00.000Z",
+          "ageHours": 78,
+          "isFresh": false,
+          "summary": "Cardano targets 1 billion users with new scaling strategy and real-world focus  Bitget"
+        },
+        {
+          "topicKey": "iog",
+          "title": "Cardano Price Prediction: ADA Rally, Van Rossem Upgrade, Breakout Next - Coin Gabbar",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPTXY4RXJ5QnRZYmpVdzNuX1M5aXdLSHktMmtBUXljc3RobGN1V0JLcTRPN1dQYi1QVzBCVlVYZ3JMbkc0TDVvUEhabUxFR0lZQ3VhT0xJVkFYdVhyc3pyUG1kbk9xUWNtTjZ3S1k5cXFXSFhYSTVpZm9ZcDVFOG5fMDFCVzhLWHdTVnBJQ3VLMHhmb2o5QVMwRnFGb2ZDemFaZnlMY0ZjbXBwaEdYY1E?oc=5",
+          "source": "Unknown source",
+          "publishedAt": "2026-08-19T07:17:50.000Z",
+          "ageHours": 101,
+          "isFresh": false,
+          "summary": "Cardano Price Prediction: ADA Rally, Van Rossem Upgrade, Breakout Next  Coin Gabbar"
         }
-      ]
+      ],
+      "errors": []
     },
     {
       "key": "intersect",
@@ -94,18 +295,90 @@
         "https://news.google.com/rss/search?q=site:intersectmbo.org+Intersect+when:14d&hl=en-US&gl=US&ceid=US:en"
       ],
       "freshCount": 0,
-      "updatedAt": "2026-08-22T12:45:50.380Z",
-      "items": [],
-      "errors": [
+      "updatedAt": "2026-08-23T12:46:57.516Z",
+      "items": [
         {
-          "feed": "https://news.google.com/rss/search?q=Intersect+Cardano+when:7d&hl=en-US&gl=US&ceid=US:en",
-          "error": "Status code 503"
+          "topicKey": "intersect",
+          "title": "Intersect weekly update #125 Aug 21, 2026 - Intersect MBO",
+          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1EMFV4SDdRUk1HOC03SDlkVHRFa1BzYk5qdVQ1T0lwWFR6Z1FJVk9XSHJhWGNPVjFVZ3pzVGVJS2E2cm1ZR1doUXdfMU5HQVFtbVlKcnlMci15Slp5OXBTUVVJUU9MYnJoTjBqc3BBelFtOVN1Zmx6Yw?oc=5",
+          "source": "Unknown source",
+          "publishedAt": "2026-08-21T21:43:57.000Z",
+          "ageHours": 39,
+          "isFresh": false,
+          "summary": "Intersect weekly update #125 Aug 21, 2026  Intersect MBO"
         },
         {
-          "feed": "https://news.google.com/rss/search?q=site:intersectmbo.org+Intersect+when:14d&hl=en-US&gl=US&ceid=US:en",
-          "error": "Status code 503"
+          "topicKey": "intersect",
+          "title": "Announcing: Intersect Board Elections 2026 - Intersect MBO",
+          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE50ZFhCZWhLaHQ1bUw4eTU2Skg1YjhHWG14dmRpbjhMNUx2Ujh2UlUxOUthQkVHZWpIZ0hqc20xUk9GR2hVOVBNczlQcUJwdjgzUENQbk44bVpWZnVUaHlvaU10SWFYajdjS1I0QnhDUC0zeHJQQ28zUDVjUQ?oc=5",
+          "source": "Unknown source",
+          "publishedAt": "2026-08-19T16:38:29.000Z",
+          "ageHours": 92,
+          "isFresh": false,
+          "summary": "Announcing: Intersect Board Elections 2026  Intersect MBO"
+        },
+        {
+          "topicKey": "intersect",
+          "title": "Cardano to pursue two-stage Dijkstra upgrade through 2027 to boost throughput and speed finality - 디지털투데이",
+          "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPVW9EX3JEZ05veXByNVE3OE44RjFobFcxZlFIbWtEakVUcG1IOVVBUVVnSFdNcEZUWEt1TVk1Yng1VHdBOWlBeFYzS0V1VW1vd1NYbmtCMGJFay16cE4yUjEwbm5jZTBUQjZRU2VPd00zUjB0YnFTUlhSdDlCWGR1bGpVMWxIOWdNcWo4cXBCc1FTdEZKWFFKTm52Mm5WbGMzbTllY2ZiQ1d1VnRxWkxpbWQwWUpjTlBKeUw0OUpxTzV1SUI0d2x1TVpBZVNCM0ZoeklsTkFPZDI?oc=5",
+          "source": "Unknown source",
+          "publishedAt": "2026-08-18T02:42:31.000Z",
+          "ageHours": 130,
+          "isFresh": false,
+          "summary": "Cardano to pursue two-stage Dijkstra upgrade through 2027 to boost throughput and speed finality  디지털투데이"
+        },
+        {
+          "topicKey": "intersect",
+          "title": "溪月 Xīyuè(@ROAR_King)'s insights - Binance",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1TWXpBQ0RzeS1QQ2k1Sk1iaFM5Q2dwU1ZQQ1NpYUxrSXNSOGZsX191cEpBZ0R5ZDExQzRJQldmUFltWHp3R0IyYzJCWFI3OWlrQ0FzQS1UanZFQUExc2ppY2ZCcXQ?oc=5",
+          "source": "Unknown source",
+          "publishedAt": "2026-08-17T18:49:07.000Z",
+          "ageHours": 138,
+          "isFresh": false,
+          "summary": "溪月 Xīyuè(@ROAR_King)'s insights  Binance"
+        },
+        {
+          "topicKey": "intersect",
+          "title": "Cardano Lays Out Dijkstra Era With Leios and Peras to Scale Throughput - finance.biggo.com",
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBKekRxeTEwejA2OXJBMktkLVZERENoaWxFY3M4ZC1aWTBFenUyVGNmV3dsYi1GLXJ4VTFickhfb2lVZkZ6ZmE2VWNJdzZLLTg0STRJdklENWNQdE9GUGRiX293SmU1d1JnUEtrR1gyTGlMRWMwLUE?oc=5",
+          "source": "Unknown source",
+          "publishedAt": "2026-08-17T18:32:00.000Z",
+          "ageHours": 138,
+          "isFresh": false,
+          "summary": "Cardano Lays Out Dijkstra Era With Leios and Peras to Scale Throughput  finance.biggo.com"
+        },
+        {
+          "topicKey": "intersect",
+          "title": "Cardano targets Q4 2026 for Dijkstra upgrade rollout - Crypto Briefing",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1keW5PTUJxdHkzbkRVRG9JQVVJMGMzTU92T1VHeTNXeWlLdU5zeURGUXBXZkdPZERTNHNxS3pScUpQRWpUN3RQbHFQYzhyQUEzMGViSTZlUDF4bGFaNkRxNWRLNmEybXdYbEJyMQ?oc=5",
+          "source": "Unknown source",
+          "publishedAt": "2026-08-17T14:23:03.000Z",
+          "ageHours": 142,
+          "isFresh": false,
+          "summary": "Cardano targets Q4 2026 for Dijkstra upgrade rollout  Crypto Briefing"
+        },
+        {
+          "topicKey": "intersect",
+          "title": "Cardano has two weeks to avoid a governance freeze as 4 committee seats expire - CryptoSlate",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQUjEyTU5wWWlfbnpZWUJFRW1FcnJJQ3UwS2lkc3lqQU15ZUVmWFhBbk16QjZ0Rl92Zkw3SlpwVWFMMlN1VmpGY2ZVUzQzUUF1cms5Qm9yN3VoaXpZVWJjaUNoLWJ5MWRHbDVZR3NDLVZTRFRTSmVnYl9RejJVNjF4RmdpVjVxdzVWaTVlc2plY3E3ZWlKWW5kSk51OFZ5TE1yV29sVS1n?oc=5",
+          "source": "Unknown source",
+          "publishedAt": "2026-08-17T12:10:03.000Z",
+          "ageHours": 145,
+          "isFresh": false,
+          "summary": "Cardano has two weeks to avoid a governance freeze as 4 committee seats expire  CryptoSlate"
+        },
+        {
+          "topicKey": "intersect",
+          "title": "Cardano News: Dijkstra Phase 1 Targets Leios Mainnet Rollout - The Market Periodical",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQTEJjY0tNRWhOV1RnRDZpejBfUkcyZmRCeEkwQ0VVMTlDbldlUWVMRFVlOURPSENGUnhZa21yXzRhLVE4WFN2N1BJOWY2WXdJSGlvaGxPenNxVFZrODl5aDYxQzNjZnhMVmNzdU5wWFBsdTJBT0l4V0V5QTBCcjR3SDhhMkVOUjJzMnNmcGJZWnlzRk00cTY2NDZPckNIdWpCQ0NVUmlB?oc=5",
+          "source": "Unknown source",
+          "publishedAt": "2026-08-17T09:32:00.000Z",
+          "ageHours": 147,
+          "isFresh": false,
+          "summary": "Cardano News: Dijkstra Phase 1 Targets Leios Mainnet Rollout  The Market Periodical"
         }
-      ]
+      ],
+      "errors": []
     },
     {
       "key": "charles-hoskinson",
@@ -115,19 +388,91 @@
         "https://news.google.com/rss/search?q=%22Charles+Hoskinson%22+when:7d&hl=en-US&gl=US&ceid=US:en",
         "https://news.google.com/rss/search?q=site:youtube.com+%22Charles+Hoskinson%22+when:7d&hl=en-US&gl=US&ceid=US:en"
       ],
-      "freshCount": 0,
-      "updatedAt": "2026-08-22T12:45:50.380Z",
-      "items": [],
-      "errors": [
+      "freshCount": 1,
+      "updatedAt": "2026-08-23T12:46:57.516Z",
+      "items": [
         {
-          "feed": "https://news.google.com/rss/search?q=%22Charles+Hoskinson%22+when:7d&hl=en-US&gl=US&ceid=US:en",
-          "error": "Status code 503"
+          "topicKey": "charles-hoskinson",
+          "title": "🚨 ADA WILL HIT $1 THIS MONTH? | ADA PUMP, BULL RUN & Charles Hoskinson Message - YouTube",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5mQWlmbExiM1E2TTBWUzh4M05kUElPM0VHOUZ6Nk5EMGxmc2tNeHZwYy1NR2tJek54cEVmQzJOMW0wMlp6RlJoS1hBcEJxYU5Wc054bmFB?oc=5",
+          "source": "Unknown source",
+          "publishedAt": "2026-08-22T21:23:51.000Z",
+          "ageHours": 15,
+          "isFresh": true,
+          "summary": "🚨 ADA WILL HIT $1 THIS MONTH? | ADA PUMP, BULL RUN & Charles Hoskinson Message  YouTube"
         },
         {
-          "feed": "https://news.google.com/rss/search?q=site:youtube.com+%22Charles+Hoskinson%22+when:7d&hl=en-US&gl=US&ceid=US:en",
-          "error": "Status code 503"
+          "topicKey": "charles-hoskinson",
+          "title": "CoinDesk - YouTube",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9ZaUoza1F5bDhyZ194cU1kQ1ZWOFFRSG01LTFxT3VnbzRQMGloeHA0MFB2UFNKRmhfZ08zZEY3VWphdTlEN09fYTdVLVRBM0JSYWluRnlfTmRPdERING45LW1BU01LRS1EREdlM0Y2Vkg?oc=5",
+          "source": "Unknown source",
+          "publishedAt": "2026-08-22T11:36:09.000Z",
+          "ageHours": 25,
+          "isFresh": false,
+          "summary": "CoinDesk  YouTube"
+        },
+        {
+          "topicKey": "charles-hoskinson",
+          "title": "CARDANO ADA - Explodes Towards Top 10! Crypto Flash Crash?! Should We Be Concerned?! - YouTube",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBoX01wUWNWZWRQWmw5MUQ1SThRdTVBSW1BZ2JYY2h4U2xManJuSTlCMFFLZ3RYNGNid1NaQTFEWmNIMXFXVUZIX1Y0SzAxcGlDaVg0NGhn?oc=5",
+          "source": "Unknown source",
+          "publishedAt": "2026-08-22T11:30:03.000Z",
+          "ageHours": 25,
+          "isFresh": false,
+          "summary": "CARDANO ADA - Explodes Towards Top 10! Crypto Flash Crash?! Should We Be Concerned?!  YouTube"
+        },
+        {
+          "topicKey": "charles-hoskinson",
+          "title": "No Cardano Drama? Hoskinson Thinks ADA Price Connection Is No Coincidence - U.Today",
+          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPdlF3S0xIbklaTGFjNEZDOFBnWW8xMndOOHlZNW9FUVJ5ZFBMbHV3RjFNT2VDZnhqMzhfR2pQTldFX0ZYTmNrdkFOVDh0c3JIaTYzQWlwbU15aDB0WnJpOVRhT1pDYkY5ZGV1alNvY1k1djJCQ1lja0Iwa3VDYjlyMGRfMXhlck5Cc2d3enpYMTRNZ9IBlwFBVV95cUxPNDJxWUVRek1XWE1oS3JFU09iaTUxaHliVzFUSEwzYThMeEx1VmVpNlBjVkM2UWVmS2FmZWl2V2FGSWhiWmJvQzFibWhDWVFkOWRaa2ozM1MyWU5hZW5zYnlUYXVBWlU3bE1IV1lHdEtsTjNIcnJERGlNUmRDaHZFekJNYmkwd1EzZ1l5WmR3NHRIZlpWRVVz?oc=5",
+          "source": "Unknown source",
+          "publishedAt": "2026-08-22T11:19:34.000Z",
+          "ageHours": 25,
+          "isFresh": false,
+          "summary": "No Cardano Drama? Hoskinson Thinks ADA Price Connection Is No Coincidence  U.Today"
+        },
+        {
+          "topicKey": "charles-hoskinson",
+          "title": "Charles Hoskinson On The Cardano Rumors - YouTube",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9iQ0xiMG5yeHZIMkJ1TGE0RlVrZWtXcF9MZTVYNXFTTk1EbUdfeTNNNDh1RE1ZN1ZPSWJOWlZvcGxvR0xLdjFqY0xMd2NDZDlFR0hEeg?oc=5",
+          "source": "Unknown source",
+          "publishedAt": "2026-08-22T06:17:43.000Z",
+          "ageHours": 30,
+          "isFresh": false,
+          "summary": "Charles Hoskinson On The Cardano Rumors  YouTube"
+        },
+        {
+          "topicKey": "charles-hoskinson",
+          "title": "Cardano TVL To Skyrocket? Charles: \"Don't Bet Against Me.\" Angry Crypto Reacts - YouTube",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE52b002UDZGNmY3VENXdG9HdUIyVl85NTZmb0VVQTZDYVJMMFp4NDZJRjBDdi1QWDFXYVVtcmY0d1hha2NWMmdPRWhPdVdGRHJoUkIzWmJ3?oc=5",
+          "source": "Unknown source",
+          "publishedAt": "2026-08-21T23:20:05.000Z",
+          "ageHours": 37,
+          "isFresh": false,
+          "summary": "Cardano TVL To Skyrocket? Charles: \"Don't Bet Against Me.\" Angry Crypto Reacts  YouTube"
+        },
+        {
+          "topicKey": "charles-hoskinson",
+          "title": "Hoskinson Says Cardano Needs Utility-First Narrative to Onboard Billions - finance.biggo.com",
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBqVnlkNmhxREdJVTFtVUhVR1RSZzU5Y1o0LXZDdWdqcUxCZWg5TnVJanBVSENnS1NBd3ZyZ3FKVng1UlpUSlhpRzR3X1loWlB5VW5xeDRpdmhmclZlWVRnVnNpZ2JuN1A4d0N2akd5M1hVTHR1Z0E?oc=5",
+          "source": "Unknown source",
+          "publishedAt": "2026-08-21T18:41:00.000Z",
+          "ageHours": 42,
+          "isFresh": false,
+          "summary": "Hoskinson Says Cardano Needs Utility-First Narrative to Onboard Billions  finance.biggo.com"
+        },
+        {
+          "topicKey": "charles-hoskinson",
+          "title": "Cardano’s Enterprise Solutions Highlighted at Blockchain.Rio 2026 - YouTube",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9aeEJyNjN1N3cwNFV3ZVg0NDZ5N2ZlSUY1QzA2YllHR09EanI0UjFIOVRtMkc1NjhRUkFrRG52UHp4R3hlNUlPM3ZUVmhMaXZaM3RBbWp3?oc=5",
+          "source": "Unknown source",
+          "publishedAt": "2026-08-21T16:08:19.000Z",
+          "ageHours": 45,
+          "isFresh": false,
+          "summary": "Cardano’s Enterprise Solutions Highlighted at Blockchain.Rio 2026  YouTube"
         }
-      ]
+      ],
+      "errors": []
     }
   ]
 }
