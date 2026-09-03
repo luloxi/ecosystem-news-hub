@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-02T16:16:17.274Z",
+  "generatedAt": "2026-09-03T16:06:15.023Z",
   "freshnessWindowHours": 24,
   "topics": [
     {
@@ -11,49 +11,8 @@
         "https://news.google.com/rss/search?q=site:forum.midnight.network+Midnight+when:7d&hl=en-US&gl=US&ceid=US:en"
       ],
       "freshCount": 0,
-      "updatedAt": "2026-09-02T16:16:17.274Z",
-      "items": [
-        {
-          "topicKey": "midnight-network",
-          "title": "Zero-knowledge proofs - Midnight Docs",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFA5c2gwcHNWa1FqOXh2UldwWGZkaG1MZUdXVEZlbVhlOXV1RGp6Um1sb0FORlBHeEFvOUNiYWhCQjhsandkNnBzdG1SS3lYWDBWYXdCa2RXN01XNGwyM3d6TDZUcDE2dmd2eWZtcA?oc=5",
-          "source": "Unknown source",
-          "publishedAt": "2026-08-31T12:02:36.000Z",
-          "ageHours": 52,
-          "isFresh": false,
-          "summary": "Zero-knowledge proofs  Midnight Docs"
-        },
-        {
-          "topicKey": "midnight-network",
-          "title": "Midnight SDKs - Midnight Docs",
-          "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBxWkhuOERlVU0tV2hRSzdrYzZWUGluZDh1WmhzTi1EQTFXbHZwbDFuTW9UUEs4T2pjcE1OaERhWll1NnE1eEE0VVJn?oc=5",
-          "source": "Unknown source",
-          "publishedAt": "2026-08-28T11:24:29.000Z",
-          "ageHours": 125,
-          "isFresh": false,
-          "summary": "Midnight SDKs  Midnight Docs"
-        },
-        {
-          "topicKey": "midnight-network",
-          "title": "Tutorials - Midnight Docs",
-          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFA1WGlsMXlqQlRtUFhNc1dZS3ViMDJFcm9JUC04a3laeXN0WC0xbkdvUWc1NUtHUVFxdXZ4S3VDa0o3eU1ZZDdBNlBuMmJuMllD?oc=5",
-          "source": "Unknown source",
-          "publishedAt": "2026-06-15T16:51:13.000Z",
-          "ageHours": 1895,
-          "isFresh": false,
-          "summary": "Tutorials  Midnight Docs"
-        },
-        {
-          "topicKey": "midnight-network",
-          "title": "DUST architecture - Midnight Docs",
-          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE4ycGNBYVVDa09lMm5lVnI0UVU2N0VHRkZrWGF5cWlrcm14UTVfQjB1c3FHSzZEdnhyOVppcEtlVWxacEVHS0ZsTEEyY0JtVzRiY0dkNVFwS1JhLUVRTkpqd0otNndEZGs?oc=5",
-          "source": "Unknown source",
-          "publishedAt": "2026-04-28T03:46:32.000Z",
-          "ageHours": 3060,
-          "isFresh": false,
-          "summary": "DUST architecture  Midnight Docs"
-        }
-      ],
+      "updatedAt": "2026-09-03T16:06:15.023Z",
+      "items": [],
       "errors": []
     },
     {
@@ -64,90 +23,9 @@
         "https://news.google.com/rss/search?q=Cardano+when:7d&hl=en-US&gl=US&ceid=US:en",
         "https://news.google.com/rss/search?q=site:cardano.org+Cardano+when:7d&hl=en-US&gl=US&ceid=US:en"
       ],
-      "freshCount": 8,
-      "updatedAt": "2026-09-02T16:16:17.274Z",
-      "items": [
-        {
-          "topicKey": "cardano",
-          "title": "Cardano Price Prediction Stalls Near $0.19 as Remittix’s Payments-and-Trading Ecosystem Moves Into Focus - StreetInsider",
-          "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxOVEFUdmlTN3dwZi0ycV9TOXcwV2tPNFhhRENRSnlsNE00bVlXS0tqc3N1c0ZpYkZnZ1g2TGZOeTR5VXpReEROV184M0F0ek1VQkd5S09VLWhSLVJ2OGNpdlhiMk51WTdfbWJoZDBuQWoyNFlJeHlscFRzS1Z0QU9FSkpIakZWY1NrTjdkeldCLUpYMzRjOE5ZYUk2cXVzR1M0d1Fhb3VMSlhBZWNDX25Xa19lbzBnTzY1Y2hZU05HV0xhR3ZkdnFJS2pjSTNveUQ0SGVsRExDUjBNbkt2WkJuTkU3SE9LTVdLYXZfQWhfV2dUbDJtUzV5TU9YMHUybkhKV1Vvag?oc=5",
-          "source": "Unknown source",
-          "publishedAt": "2026-09-02T15:12:19.000Z",
-          "ageHours": 1,
-          "isFresh": true,
-          "summary": "Cardano Price Prediction Stalls Near $0.19 as Remittix’s Payments-and-Trading Ecosystem Moves Into Focus  StreetInsider"
-        },
-        {
-          "topicKey": "cardano",
-          "title": "Crypto News: Pepeto Announces $10.917M Raised Following the Shiba Inu Success While Cardano Price Prediction Turns Bullish - markets.businessinsider.com",
-          "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxPeUZ2NU9VbUVOSE5jell5TGxoNjRyNUhWTkpic2h1ZEhpa21qUXdVYmNEYjVfeXZmbS1pU2tBVklRRXpMYnZnQ3JMSGpzbXJEOV9mV2hNc1dsVmNKNTJ3d0MzdmVNTUt0Q0lTb1k4aWdRN0Z5S2FaQ0tuNU1fNUhSbmtraDc2WVluMl9WaHZ4ejNVcXhUdVB0eVFYQUoxNWlvMWJxYkVRcFJ5Y3lmU2NoVEk4T0hPdkRYOUJiNGpheTVZS1hIZnNMWWdCZ25fcDVKemFMOGY0d1ZZcWxyWksxdkppaXJYZmlLN3RQbkdlR0xXNDNTWlpHMXJnZ2NUcGtpYm5rRGZaV2w2ZUE?oc=5",
-          "source": "Unknown source",
-          "publishedAt": "2026-09-02T14:26:01.000Z",
-          "ageHours": 2,
-          "isFresh": true,
-          "summary": "Crypto News: Pepeto Announces $10.917M Raised Following the Shiba Inu Success While Cardano Price Prediction Turns Bullish  markets.businessinsider.com"
-        },
-        {
-          "topicKey": "cardano",
-          "title": "Crypto News: Pepeto Announces $10.917M Raised Following the - GlobeNewswire",
-          "link": "https://news.google.com/rss/articles/CBMinAJBVV95cUxNS2NGRHNIYXdMRFVjSFp1bWNydVdzc2pyVzQwQmZNS0s1RzdqYXNyMFBEVnB6Y3lWb2tUR19HSEhsbHNDYXphQlp1Z0R5VVhQODExemd6OHl6a2FDUWp2WlFaN1dKOXlBZmV4ZkJlbEFqeTFSZnd3UXVHU1psV1o0T0lNM09ablBDanlRVEd1REFxaTl3VDR4bk4zTjBrVTYzNWZBVjdoX2ZQVEktTi1YQndkV1JLRFZ0N3I0WXlfcWQzNkhQT1E4bHdIalZPTHVNa2N3ZnB2Rnhkc0VQaXc1S0tmNy03ZmpsWFlLaDJMTFdwSVQ0bUxzcFZNRlo2NXB4ZVZnZnpaVnRaMDBkcG02MXp2QjFIakRWSm4wVw?oc=5",
-          "source": "Unknown source",
-          "publishedAt": "2026-09-02T14:15:26.000Z",
-          "ageHours": 2,
-          "isFresh": true,
-          "summary": "Crypto News: Pepeto Announces $10.917M Raised Following the  GlobeNewswire"
-        },
-        {
-          "topicKey": "cardano",
-          "title": "ADA & Bitcoin Price Prediction: Can BTC Target $100K and ADA Break Higher as Apeing Emerges as the Next 100x Crypto? - StreetInsider",
-          "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxQSERmMWpCSDFDNHJvZmZuZS1xYXc3MW8zYWt2MVVQRkQ1d1JUMDhLdE5mY1ZGSHh4b3pXWnhXd0VPQWlFM29lUDRlb2YtLWQ5WEM3UTlNUW81aU80ekxqR0d6Z29oUFgxVHZfeWRSenZWdE12QkdnZXVNV2dvWlNQeC00Y29iTXJWQi1qWEdlakxGTW81aUNCMVp0TExYd3UtVldZdDhNekxmQTQ0alh3MlliMFBFRHNmWVNkREJVSVptRjl0SFpNcmdTLUdzMXV4b1pBZWliT0FFMEdPVm1OazE5MnAyVHVyNnlyWGVFUlhFRndJbUZrZGdoODZZZ0RyTHpzakVRdGdXaXBpNGc?oc=5",
-          "source": "Unknown source",
-          "publishedAt": "2026-09-02T13:52:38.000Z",
-          "ageHours": 2,
-          "isFresh": true,
-          "summary": "ADA & Bitcoin Price Prediction: Can BTC Target $100K and ADA Break Higher as Apeing Emerges as the Next 100x Crypto?  StreetInsider"
-        },
-        {
-          "topicKey": "cardano",
-          "title": "Cardano Price: ADA Tests $0.19 Support Amid Governance Vote - 99Bitcoins",
-          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5oLThkaENYT2h5c2JVamZWRGkybzF3eEc3eTRhaUlmVGFlNmh4aDc5U1JYM3FDdlZqUHlWaXB2Z01reHlFdkxGdXhMTDdJeG9TUi1UT1oxMUcxaFhZYllYdnpPczIwZjU2QS1fdU9NNXBiTGQ1bkE?oc=5",
-          "source": "Unknown source",
-          "publishedAt": "2026-09-02T12:02:47.000Z",
-          "ageHours": 4,
-          "isFresh": true,
-          "summary": "Cardano Price: ADA Tests $0.19 Support Amid Governance Vote  99Bitcoins"
-        },
-        {
-          "topicKey": "cardano",
-          "title": "Should You Buy Cardano While It's Under $1? - Currently.com",
-          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNSUZxYTVFVTV6NlZNQ01DMFB0NE1YX1hfRnQyMk45aFE0OFlvMlJWLXQyck94dm43X2xYUktFSENzNVFVVVZFOVlzSnIwRHpXeE5wRTZnMjc5UkRGVjg1UVlqdWhjQlZzdWdyOTZCWVJMdTgzSm95bVFJN0I0VnZYTFpR?oc=5",
-          "source": "Unknown source",
-          "publishedAt": "2026-09-02T11:47:00.000Z",
-          "ageHours": 4,
-          "isFresh": true,
-          "summary": "Should You Buy Cardano While It's Under $1?  Currently.com"
-        },
-        {
-          "topicKey": "cardano",
-          "title": "Should You Buy Cardano While It's Under $1? - The Motley Fool",
-          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPYV9QY3VVbHo0Z3poMlJPdG94Vm0tQ1psSXk5VkZiM0k1VzRnS2tVeXMzSlh1eEtjREF4aXZZWmYwLW9lcHktMVVSdUZJWXVNbUZLaDZFdXZIak1PeUtoSUxWQ0FOM19fcnZVY1JvbDNGeWhReUxBM3k2WE11YVduYUhudllRY0NVR25F?oc=5",
-          "source": "Unknown source",
-          "publishedAt": "2026-09-02T11:31:24.000Z",
-          "ageHours": 5,
-          "isFresh": true,
-          "summary": "Should You Buy Cardano While It's Under $1?  The Motley Fool"
-        },
-        {
-          "topicKey": "cardano",
-          "title": "Bull _Rider(@raizubair)'s insights - Binance",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5MUzEyZjVYV01HSzl5MV9VeVJrSC1EWmQzTERZM19Jdm1OYlJyNmg4MGRvS3ZrSVlVUlh6SUF5akw0V2FRRWFwOGFQZHMybkZDVk1IRTJtdk5RZkZTQ0Fib2VUYjU?oc=5",
-          "source": "Unknown source",
-          "publishedAt": "2026-09-02T02:31:51.000Z",
-          "ageHours": 14,
-          "isFresh": true,
-          "summary": "Bull _Rider(@raizubair)'s insights  Binance"
-        }
-      ],
+      "freshCount": 0,
+      "updatedAt": "2026-09-03T16:06:15.023Z",
+      "items": [],
       "errors": []
     },
     {
@@ -158,7 +36,7 @@
         "https://news.google.com/rss/search?q=%22Midnight+City%22+Cardano+OR+site:midnight.city+when:14d&hl=en-US&gl=US&ceid=US:en"
       ],
       "freshCount": 0,
-      "updatedAt": "2026-09-02T16:16:17.274Z",
+      "updatedAt": "2026-09-03T16:06:15.023Z",
       "items": [],
       "errors": []
     },
@@ -171,59 +49,8 @@
         "https://news.google.com/rss/search?q=site:iohk.io+%22Input+Output%22+when:7d&hl=en-US&gl=US&ceid=US:en"
       ],
       "freshCount": 0,
-      "updatedAt": "2026-09-02T16:16:17.274Z",
-      "items": [
-        {
-          "topicKey": "iog",
-          "title": "Cardano News: ADA Bull Makes a Surprising Portfolio Move, Price at $0.20 - CaptainAltcoin",
-          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNRkpadXk3YlJDMVV0UTl5Ri1MdkdZTkxUZGNZWmtnUWFGQUozLW5NWmV5d1JiLTBQZ3JCZTJGQ3NJYjJsQzhVWk9fcG43NXpzTG1YSld4OWZTbXF2OUk3VGZNOVMxd3NlekV3eEtCSGZLa0tqbnQ0VE5HeEo4V2kzUEZocHFvdTVjemFUWnpOYmtRVmVsVGZZek9iRFVCUQ?oc=5",
-          "source": "Unknown source",
-          "publishedAt": "2026-08-31T07:00:00.000Z",
-          "ageHours": 57,
-          "isFresh": false,
-          "summary": "Cardano News: ADA Bull Makes a Surprising Portfolio Move, Price at $0.20  CaptainAltcoin"
-        },
-        {
-          "topicKey": "iog",
-          "title": "Cardano Price Prediction for September: Can ADA Extend Its August Recovery? - CaptainAltcoin",
-          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQZjRwQTVENWxWZ3hBYXlhbHN0c25xeFZZX1hQM2NJM25KYVFaRm1na2J0b3hnSExMMVBMSXZ5UXNMLVlJTFhYZktBZlZlOFlLUlY0WmI1enR1SV9vNVBQOXpWSmRzbVhWbGUxMW55eEF3SUd0SUotMThJaUZ2T29kT1FXNGtaLUZwMHRvWkJYTlI4ZkQ3UUYtX0RSaGsybnBESlhF?oc=5",
-          "source": "Unknown source",
-          "publishedAt": "2026-08-29T18:02:28.000Z",
-          "ageHours": 94,
-          "isFresh": false,
-          "summary": "Cardano Price Prediction for September: Can ADA Extend Its August Recovery?  CaptainAltcoin"
-        },
-        {
-          "topicKey": "iog",
-          "title": "Cardano's Civil War Rages As Hoskinson Hunts Through 11,000 DAOs - Yellow.com",
-          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPUWcwMndpUGJkamsyc0ttMlBybndXSG1janFvUmRxa3FSVERyMzlvbXNudzVOQTczdEdFeWxVbGlUVjBXM3ZZbTBsWExLUHV6ZmhXQm94X3V0TWpucnBMQzNoZzJJQ2xPWDdZa3poRzRSTmE2akhkOWN1bExPdHdVRHpVUS1JNjM5LUJQNEcwUEJzNTZS?oc=5",
-          "source": "Unknown source",
-          "publishedAt": "2026-08-28T08:30:04.000Z",
-          "ageHours": 128,
-          "isFresh": false,
-          "summary": "Cardano's Civil War Rages As Hoskinson Hunts Through 11,000 DAOs  Yellow.com"
-        },
-        {
-          "topicKey": "iog",
-          "title": "IOG Executive Issues Crucial Reminder to Cardano DReps and SPOs Ahead of Key Governance Deadline - CryptoRank",
-          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQZGp4NlQzWjA5MkV4bnNyQjlzblNzb3o0OFN6RHU0WGU1YzR4TlpSS1ZUcjhLMjJOTDREWE5qZXdBak53a2J2d0tkV0VtdkhuUVFZZUhYQ2dMOVRDQ09lcEkwc0RrZHhiUXBRTzVMRnY1TmpxRkw4eHdDTFB3ckdQTHkzQmVtOWUyamZ1LWZ4WmdjZWw0eGdDeGJKYVQxZWFEaEZ3RUh0OTJBbjVodEs5WUFqRktfY25SYmV0Y01IZDdkcXJ5RGgyRVZEQ29kelE?oc=5",
-          "source": "Unknown source",
-          "publishedAt": "2026-08-26T17:49:14.000Z",
-          "ageHours": 166,
-          "isFresh": false,
-          "summary": "IOG Executive Issues Crucial Reminder to Cardano DReps and SPOs Ahead of Key Governance Deadline  CryptoRank"
-        },
-        {
-          "topicKey": "iog",
-          "title": "IOG Executive Issues Crucial Reminder to Cardano DReps and SPOs Ahead of Key Governance Deadline - The Crypto Basic",
-          "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOdjVqLWJNdkpRZ3dzODRnWlFyNVYxN0lxRHk0UzZVdU9IbTZxSV92bGtFeFRocXhtWHgzajlKeXpwZlNXN1RKODd5bVR2R0V1WXZmVENESC1yemE3UHhhR2hIaDFRQ1dQa1VrY1hWUGRKNmRvd29RUkpDNWFKZmx0eTFqd2tKOGxVanJacXRJUl9tVmtrY0hza1FzdU5nSTlEUzY3WHZYTzk3azVLTjVZTlZVNjNuanFBOG5LWDVzSkg2UmpFWkRqZktSYU9NRUVl?oc=5",
-          "source": "Unknown source",
-          "publishedAt": "2026-08-26T16:52:53.000Z",
-          "ageHours": 167,
-          "isFresh": false,
-          "summary": "IOG Executive Issues Crucial Reminder to Cardano DReps and SPOs Ahead of Key Governance Deadline  The Crypto Basic"
-        }
-      ],
+      "updatedAt": "2026-09-03T16:06:15.023Z",
+      "items": [],
       "errors": []
     },
     {
@@ -235,7 +62,7 @@
         "https://news.google.com/rss/search?q=site:intersectmbo.org+Intersect+when:14d&hl=en-US&gl=US&ceid=US:en"
       ],
       "freshCount": 0,
-      "updatedAt": "2026-09-02T16:16:17.274Z",
+      "updatedAt": "2026-09-03T16:06:15.023Z",
       "items": [
         {
           "topicKey": "intersect",
@@ -243,29 +70,29 @@
           "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPNVFHY1NKMDRMNEE0dnJXY1oxUjkzazhPelpFTkpRbWoyVEhLMU1rYUJqenA2b1ZJbnR3SlcyYmNBVEk4ZkRaLVZ6U3Blem5JdVhpUEpIV1dBNmVQeHRnbDdPVWFqcjc0V3JnUmVobkZvVmRNN25RaHJXNmFJbTM1YWpXb9IBiAFBVV95cUxQNU5INEJfbHdnM0I5YW5SeXl1b1RJaHdLSURveWo3MTdMN2tQTC1JRXlESjM2QnUyWi1TcnRUOFJxMUkxNDlVOXgzc3RXSGpITTZRaTRuZjdLcWRZblltNFB1UXlwcW55dHZIc1lvVUxmcDF2OHR2U2Fkb1M2bkVkYjhLSlpqdmE3?oc=5",
           "source": "Unknown source",
           "publishedAt": "2026-08-31T14:26:53.000Z",
-          "ageHours": 50,
+          "ageHours": 74,
           "isFresh": false,
           "summary": "48-Hour Alert: Cardano Upgrade at Risk as Governance Votes Lag  U.Today"
         },
         {
           "topicKey": "intersect",
-          "title": "Cardano ADA Falls to $0.20 as $1.17 Million in Positions Are Liquidated - hokanews.com",
+          "title": "Cardano ADA Falls to $0.20 as $1.17 Million in Positions Are Liquidated - Hokanews",
           "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOLWF3Q281QjcydkFhbkhPUFl6a0pldGRodWplZUFhNHhwVmZkYVZfRTZkUlFGTFcxMldneU0yZnItV2tISmVWU3JZVmQzRGd5ay1UM2dYT2dIMDFCVGRvd3FUYy15Ti1FdVg2Y1hoaS1FdTNzNmVyMlFOc3d6RV96Ym0yRQ?oc=5",
           "source": "Unknown source",
           "publishedAt": "2026-08-30T10:59:00.000Z",
-          "ageHours": 77,
+          "ageHours": 101,
           "isFresh": false,
-          "summary": "Cardano ADA Falls to $0.20 as $1.17 Million in Positions Are Liquidated  hokanews.com"
+          "summary": "Cardano ADA Falls to $0.20 as $1.17 Million in Positions Are Liquidated  Hokanews"
         },
         {
           "topicKey": "intersect",
-          "title": "Cardano Hits 10,166% Liquidation Imbalance as Price Tests $0.2 Support - U.Today",
-          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQWERRSEdEeUVleWZETHo4MUJ1cng5RjVMdGJKZlRKSU1HSHlBNEcySTk2M2dJeDdtVEg0SEo3QmtGMDdzQjJ3eE5JMEFXSVhpbnB5SnU5T0o2dGN1c3hLZXJySkJCcnU3bzA4Qmd4UnAwckQwNU1hM3g1OXJkVWVhcWY5TDAtV1FVRHfSAY8BQVVfeXFMT1hqS3duazNweXF3a0I3U2puVnN6ZjdkRnpCcFRRbEFlZkhERXZqT0c1RGV0Z0dxTEp5a3g4ckoyYkhsX29COTN0eF9oZHBaTDlvV2o3aVJZcGJtYUZmdXdNUl9HQkNpZWhoSTBYQ3FQNmlIMEkyZUhRSHBuazdXekI2WFhuNFJ3aGNoTndLc00?oc=5",
+          "title": "Cardano Hits 10,166% Liquidation Imbalance as Price Tests $0.2 Support - TradingView",
+          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQVUlWRG41alVXTlRtV0hMU3pkdGpuVXFCUHFiQ2dneWZoZkdWRkl5bGU4MzNLNWhucTNOQmtiQTF0VWdtSGFGOXJjU0dia1ZqOWFWSXJtWTUyUTVhYUh6ZFIxdEYyeFJKYUJJQzNreHF3ZmxWYzB6WENpWUN1bVBJWVh2Qy1FdS1udktNb2JtSFF0VDdyQndQYnR0NVF5dy1YZldwS1ZfUXRVajcwcGRUdnRNc19JQUtUMEVNTkJXZ0tGSkpm?oc=5",
           "source": "Unknown source",
-          "publishedAt": "2026-08-30T00:06:43.000Z",
-          "ageHours": 88,
+          "publishedAt": "2026-08-30T00:01:00.000Z",
+          "ageHours": 112,
           "isFresh": false,
-          "summary": "Cardano Hits 10,166% Liquidation Imbalance as Price Tests $0.2 Support  U.Today"
+          "summary": "Cardano Hits 10,166% Liquidation Imbalance as Price Tests $0.2 Support  TradingView"
         },
         {
           "topicKey": "intersect",
@@ -273,7 +100,7 @@
           "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE91dGpGTmdLSjhncnRYWGpTWU1GaVRHdFY4S1gySzJkcHZKcXMyS2oxdlBZUG9yTS1UUmFHZlV4ZzJpbU91Q0xMMkplVDE4NXo5SWtRUGdpTnhTMllhbG5Ub3FkeEtrRU9JMkxxS2hld0g1bXFfT3c5aA?oc=5",
           "source": "Unknown source",
           "publishedAt": "2026-08-28T18:55:37.000Z",
-          "ageHours": 117,
+          "ageHours": 141,
           "isFresh": false,
           "summary": "Intersect weekly update #126 Aug 28, 2026  Intersect MBO"
         },
@@ -283,29 +110,9 @@
           "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPd2hjazJuVElCMFcxMTNybmRLNUNnaGV1bnRFYlVMWlVmZjJSVjBHMV9YeUgwQzJxcFU2TnVsLVluTEhsMldPUHpzSW9YdU5zaXlIcmNYdndWeVhDbWRQSy1obmxIV0lkRlBiejh1TWVjTFZpcnQyLTh0Ym9YZDBMb2t6Nk5TSWg1RU1vSng5cndScVFNRlJrSmFVVzN1TlphRGwzSW1oX1hMUnR2UEQ1bkVMNGFDX2ZpVDBRNjV0dVVhZ9IBzwFBVV95cUxNUXFPOTJPV2dhZTRpYWVEZEhaM2JjTm9RbjVLbHpaYjl6aG9fRlp1X2ZhZU5kajhVdEVubkxrV3ZjcFdPVUx1N1AzbElXUzNUTVcxVTluWE56MGs2bWRJdDJuallSTm01YmxaS3BPLUtkYUVBZU5WNE5iRFBoTTZzN1VMWjBNYlIySnFoWmxDUDhfSGJ2LTlOMExnM184OEZWWWF1cUx6cjlQVE9TSS1mcjhGOTUtU0xTTWRHN2hYUUZBSEV4ZDdIODRaUzFPaGs?oc=5",
           "source": "Unknown source",
           "publishedAt": "2026-08-27T18:15:00.000Z",
-          "ageHours": 142,
+          "ageHours": 166,
           "isFresh": false,
           "summary": "Cardano’s September 1 Governance Vote: What it Means for ADA  Analytics Insight"
-        },
-        {
-          "topicKey": "intersect",
-          "title": "Intersect weekly update #125 Aug 21, 2026 - Intersect MBO",
-          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1EMFV4SDdRUk1HOC03SDlkVHRFa1BzYk5qdVQ1T0lwWFR6Z1FJVk9XSHJhWGNPVjFVZ3pzVGVJS2E2cm1ZR1doUXdfMU5HQVFtbVlKcnlMci15Slp5OXBTUVVJUU9MYnJoTjBqc3BBelFtOVN1Zmx6Yw?oc=5",
-          "source": "Unknown source",
-          "publishedAt": "2026-08-21T07:00:00.000Z",
-          "ageHours": 297,
-          "isFresh": false,
-          "summary": "Intersect weekly update #125 Aug 21, 2026  Intersect MBO"
-        },
-        {
-          "topicKey": "intersect",
-          "title": "Announcing: Intersect Board Elections 2026 - Intersect MBO",
-          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE50ZFhCZWhLaHQ1bUw4eTU2Skg1YjhHWG14dmRpbjhMNUx2Ujh2UlUxOUthQkVHZWpIZ0hqc20xUk9GR2hVOVBNczlQcUJwdjgzUENQbk44bVpWZnVUaHlvaU10SWFYajdjS1I0QnhDUC0zeHJQQ28zUDVjUQ?oc=5",
-          "source": "Unknown source",
-          "publishedAt": "2026-08-19T16:38:29.000Z",
-          "ageHours": 336,
-          "isFresh": false,
-          "summary": "Announcing: Intersect Board Elections 2026  Intersect MBO"
         }
       ],
       "errors": []
@@ -318,88 +125,88 @@
         "https://news.google.com/rss/search?q=%22Charles+Hoskinson%22+when:7d&hl=en-US&gl=US&ceid=US:en",
         "https://news.google.com/rss/search?q=site:youtube.com+%22Charles+Hoskinson%22+when:7d&hl=en-US&gl=US&ceid=US:en"
       ],
-      "freshCount": 6,
-      "updatedAt": "2026-09-02T16:16:17.274Z",
+      "freshCount": 5,
+      "updatedAt": "2026-09-03T16:06:15.023Z",
       "items": [
         {
           "topicKey": "charles-hoskinson",
-          "title": "CARDANO: 500,000 Records Anchored — Is ADA Ready for +2000%? - YouTube",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE91dGN1eDdGNEFodkVrYTBPTVdvVnczU3N1ZTJEMi01a3VCMkp2VFVPS2J1TC1Kb0ktRXA0TkJDZ0VPbkxPdmZrMUpOWVdRbEQtZ3U2aEtB?oc=5",
+          "title": "ADA TO $9? 🔥 Cardano RealFi Goes Live October 1 — How High Can ADA Go? - YouTube",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBEaUZjMnhITzdHUVZtNzFjY2RWenVFY2FVZDhmR2RMRm5EMldRWGs3RkxVTlEtRWJ2UFh0aTh4SUpKU05PakFoS3ItSW4wbjBBVVllYllR?oc=5",
           "source": "Unknown source",
-          "publishedAt": "2026-09-02T09:00:39.000Z",
-          "ageHours": 7,
+          "publishedAt": "2026-09-03T13:45:30.000Z",
+          "ageHours": 2,
           "isFresh": true,
-          "summary": "CARDANO: 500,000 Records Anchored — Is ADA Ready for +2000%?  YouTube"
+          "summary": "ADA TO $9? 🔥 Cardano RealFi Goes Live October 1 — How High Can ADA Go?  YouTube"
         },
         {
           "topicKey": "charles-hoskinson",
-          "title": "Cardano News Today: ADA Price Crash But Hoskinson Stays Bullish - coingabbar.com",
-          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPbThwd05GcXZWYmxiaTNzaV9QaEhrVDVZTXF3RHBYeExHSks0NUZxY3AweGg0cUtvUkNyOFk4aXNMTVpUQ0J0dDJLOHR5R1ljX2xJN0VpRGh3dF9fcmU2VkFDdGlNaVNRMlVlVVpzeThUeVg5Wm5Oelptb3E0dE8wbUFLX0ZoSzAtNGpyZk8xd2Q4YUtFRjJlYUw1Xzk4UQ?oc=5",
+          "title": "Was the Cardano news a total lie? - YouTube",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5Jb2RBRnhxbFY2WFdvTkRjOGJZcGFUbzJhZXViTUl1bU9RcWFGMmo0TDZuQWNqelZSNlFWX0J0VHl3NkdXbVpSelFpRzVMTWRWdC1rMA?oc=5",
           "source": "Unknown source",
-          "publishedAt": "2026-09-02T09:00:00.000Z",
-          "ageHours": 7,
+          "publishedAt": "2026-09-03T10:59:47.000Z",
+          "ageHours": 5,
           "isFresh": true,
-          "summary": "Cardano News Today: ADA Price Crash But Hoskinson Stays Bullish  coingabbar.com"
+          "summary": "Was the Cardano news a total lie?  YouTube"
         },
         {
           "topicKey": "charles-hoskinson",
-          "title": "Cardano Or Ethereum: Which Altcoin Will Explode First in 2026? - YouTube",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5DclRraEF6MmFYVTlIM0tOSm9Bc3BXSDBlbzRIcEQ1SVFQYXJXeDlTbHF4ejM2LUFRM1dabFd1dmx4MkFBU0pnWkg4b3RLdEFWVkZIYW5B?oc=5",
+          "title": "Why $1 ADA Breaks Standard Crypto Models - YouTube",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1jVnBCeUs1X2tBUC1GUDZYZlJ2T1ZlTFdUT2lhYnNRNjN4Tnd6TFJpdHZyQ1B5bjY0ZENqTnphQkstcFF4c2hVZTRsSkJ5U2Z1bEhGM3hn?oc=5",
           "source": "Unknown source",
-          "publishedAt": "2026-09-02T03:39:45.000Z",
-          "ageHours": 13,
+          "publishedAt": "2026-09-03T10:00:26.000Z",
+          "ageHours": 6,
           "isFresh": true,
-          "summary": "Cardano Or Ethereum: Which Altcoin Will Explode First in 2026?  YouTube"
+          "summary": "Why $1 ADA Breaks Standard Crypto Models  YouTube"
+        },
+        {
+          "topicKey": "charles-hoskinson",
+          "title": "Charles: \"RealFi Will Bring A Lot Of TVL.\" ADA Payments On WhatsApp? Angry Crypto Reacts - YouTube",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFAzakNGNTRndk1ROGpYRE10ZDlQX094UXBLMno3cFZfX05OWURuOTBLRFFEQ3FnM2NzX0pNWnBoWmZDOC1jN1NHdUxJXzcyY1ZJYUhtZVNB?oc=5",
+          "source": "Unknown source",
+          "publishedAt": "2026-09-02T21:27:12.000Z",
+          "ageHours": 19,
+          "isFresh": true,
+          "summary": "Charles: \"RealFi Will Bring A Lot Of TVL.\" ADA Payments On WhatsApp? Angry Crypto Reacts  YouTube"
+        },
+        {
+          "topicKey": "charles-hoskinson",
+          "title": "BREAKOUT INCOMING?! ROBINHOOD CHAIN REVENUE SPARKS MASSIVE CRYPTO MOVE! TOKENIZED STOCKS HIT $200M - YouTube",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE84d2lCVGpqSy1OOHlUcGt1SVhDOUlYci1TYWZHem9taDhZQ1NDOTYyNGZXWEZqUllNeVRubDZ5T0g2VHNGRGE3ZzJEdDlTYVZ2WmpBZi1B?oc=5",
+          "source": "Unknown source",
+          "publishedAt": "2026-09-02T18:28:21.000Z",
+          "ageHours": 22,
+          "isFresh": true,
+          "summary": "BREAKOUT INCOMING?! ROBINHOOD CHAIN REVENUE SPARKS MASSIVE CRYPTO MOVE! TOKENIZED STOCKS HIT $200M  YouTube"
         },
         {
           "topicKey": "charles-hoskinson",
           "title": "Crypto Otaku - CRYPTO CHAOS! 77K BITCOIN! IRAN WAR! INTEREST RATES! RECESSION?! [Episode 870] - YouTube",
           "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1hUmNOSl8yeW9xaDYzaFpINE50X3FuSml3ek4yUlJDN2xGSEt1WXBKTHA5NXVhM3NvRXRpV1BqempGZXgwV1A2YjlPQWdsTkMyM01QblR3?oc=5",
           "source": "Unknown source",
-          "publishedAt": "2026-09-01T23:52:23.000Z",
-          "ageHours": 16,
-          "isFresh": true,
+          "publishedAt": "2026-09-02T14:59:53.000Z",
+          "ageHours": 25,
+          "isFresh": false,
           "summary": "Crypto Otaku - CRYPTO CHAOS! 77K BITCOIN! IRAN WAR! INTEREST RATES! RECESSION?! [Episode 870]  YouTube"
         },
         {
           "topicKey": "charles-hoskinson",
-          "title": "Charles: \"We've Made Enormous Progress.\" Midnight To Present At Google! Angry Crypto Reacts - YouTube",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9Pazlnakg5Y0xiYnBNbm5xVzFxTFRhUWRNak5oNUtJNmttMy1iU2E1QzZpLVo1aG9pcU9hWHh0OHBKaGMxbXAxWTFiWEx6d2taLVJzQW5n?oc=5",
+          "title": "Cardano Chats - YouTube",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9fYmtRUC1DaEliY2tpR05SR3pSZ190bmhRS2VpSFU1UExNcVBlSHoyWW5fakZoRUh1YzRIbTRtZHF0OGg5TjRzbXlscmlRMGQ0cW1yZWlNVQ?oc=5",
           "source": "Unknown source",
-          "publishedAt": "2026-09-01T22:10:08.000Z",
-          "ageHours": 18,
-          "isFresh": true,
-          "summary": "Charles: \"We've Made Enormous Progress.\" Midnight To Present At Google! Angry Crypto Reacts  YouTube"
+          "publishedAt": "2026-09-02T14:08:01.000Z",
+          "ageHours": 26,
+          "isFresh": false,
+          "summary": "Cardano Chats  YouTube"
         },
         {
           "topicKey": "charles-hoskinson",
-          "title": "دورة Cardano 101 | الدرس 6: المعالم المرحلية لـ Cardano - YouTube",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9MRGVFTFRDQkRISVp6UUlUZFNCNVNxUE14OVZQQjFXSjVleTJMWmE2Qzg3WENKaXJRTk5YelB5VkJ5TTZ2Zm9Mc3lLVzdZUzJiemRIbGxR?oc=5",
+          "title": "Cardano (ADA) - Really BAD For The Bullish (2026 / 2027 Price Prediction) - YouTube",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9HMFRXR3NENTN4emxQZ01yMTc5dHhtc2tHQWxDdW5wYlBTTDNQbDB5VmxDMm50Z1ZDanV5V0RVNUpMQTFiWU9QSHRidnZPZ3NpbWdJNmtR?oc=5",
           "source": "Unknown source",
-          "publishedAt": "2026-09-01T20:03:10.000Z",
-          "ageHours": 20,
-          "isFresh": true,
-          "summary": "دورة Cardano 101 | الدرس 6: المعالم المرحلية لـ Cardano  YouTube"
-        },
-        {
-          "topicKey": "charles-hoskinson",
-          "title": "CARDANO ADA - 17 Straight Months! Critical Cardano Vote Today! Bitcoin's Violent Move?! - YouTube",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE95ekVTekhUZ25kNVE4STcyMWhPcDNnVElsSE1qYTNzaGN1SUxfREtVdkpoVlZYYW54TXV1YkdIUUtmdkI3UE5ZWXlvM1BVdXZ3U1paNDBR?oc=5",
-          "source": "Unknown source",
-          "publishedAt": "2026-09-01T12:00:28.000Z",
+          "publishedAt": "2026-09-02T11:45:02.000Z",
           "ageHours": 28,
           "isFresh": false,
-          "summary": "CARDANO ADA - 17 Straight Months! Critical Cardano Vote Today! Bitcoin's Violent Move?!  YouTube"
-        },
-        {
-          "topicKey": "charles-hoskinson",
-          "title": "Musashi Dojo Water Phase - YouTube",
-          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5SRmdnckVaT01wRFRVanpJQlFJbzRUMU9qTEUtNEdNQlFsdG9pMUd0WldILUUyNGF5Mko3cTl6V1lrZ0NJX0FuWjFrZmtQVFR3?oc=5",
-          "source": "Unknown source",
-          "publishedAt": "2026-09-01T10:25:52.000Z",
-          "ageHours": 30,
-          "isFresh": false,
-          "summary": "Musashi Dojo Water Phase  YouTube"
+          "summary": "Cardano (ADA) - Really BAD For The Bullish (2026 / 2027 Price Prediction)  YouTube"
         }
       ],
       "errors": []
